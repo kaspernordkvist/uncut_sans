@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nacute" format="2">
+	<advance width="548"/>
+	<unicode hex="0144"/>
+	<outline>
+		<component base="n"/>
+		<component base="acute" xOffset="110"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>m</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>m</string>
+		</dict>
+	</lib>
+</glyph>

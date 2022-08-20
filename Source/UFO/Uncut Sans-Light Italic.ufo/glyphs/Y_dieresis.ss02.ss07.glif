@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ydieresis.ss02.ss07" format="2">
+	<advance width="562"/>
+	<outline>
+		<component base="Y.ss02"/>
+		<component base="dieresis.ss07" xOffset="74" yOffset="190"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=Y-20</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=Y-20</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q.ss03" format="2">
+	<advance width="846"/>
+	<outline>
+		<contour>
+			<point x="646" y="0" type="line"/>
+			<point x="801" y="0" type="line"/>
+			<point x="473" y="346" type="line"/>
+			<point x="318" y="346" type="line"/>
+		</contour>
+		<component base="O"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Q</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=Q+15</string>
+		</dict>
+	</lib>
+</glyph>

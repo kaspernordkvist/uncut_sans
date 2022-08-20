@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="2">
+	<advance width="249"/>
+	<unicode hex="0135"/>
+	<outline>
+		<component base="jdotless"/>
+		<component base="circumflex" xOffset="-103"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>j</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=j-90</string>
+		</dict>
+	</lib>
+</glyph>

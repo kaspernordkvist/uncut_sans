@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="northEastArrow" format="2">
+	<advance width="691"/>
+	<unicode hex="2197"/>
+	<outline>
+		<contour>
+			<point x="60" y="56" type="line"/>
+			<point x="593" y="502" type="line"/>
+			<point x="567" y="535" type="line"/>
+			<point x="34" y="88" type="line"/>
+		</contour>
+		<contour>
+			<point x="541" y="196" type="curve"/>
+			<point x="582" y="230" type="line"/>
+			<point x="496" y="336"/>
+			<point x="561" y="475"/>
+			<point x="620" y="525" type="curve"/>
+			<point x="594" y="557" type="line"/>
+			<point x="535" y="508"/>
+			<point x="388" y="470"/>
+			<point x="303" y="576" type="curve"/>
+			<point x="262" y="542" type="line"/>
+			<point x="353" y="429"/>
+			<point x="488" y="457"/>
+			<point x="547" y="507" type="curve"/>
+			<point x="563" y="487" type="line"/>
+			<point x="503" y="438"/>
+			<point x="450" y="309"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>upArrow</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>upArrow</string>
+		</dict>
+	</lib>
+</glyph>

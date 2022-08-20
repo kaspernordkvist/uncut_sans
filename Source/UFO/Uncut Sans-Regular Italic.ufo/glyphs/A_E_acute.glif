@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AEacute" format="2">
+	<advance width="855"/>
+	<unicode hex="01FC"/>
+	<outline>
+		<component base="AE"/>
+		<component base="acute" xOffset="186" yOffset="200"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Æ</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Æ</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="2">
+	<advance width="847"/>
+	<unicode hex="00BC"/>
+	<outline>
+		<component base="four.dnom" xOffset="458"/>
+		<component base="one.numr"/>
+		<component base="fraction" xOffset="350"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>one.numr</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>four.dnom</string>
+		</dict>
+	</lib>
+</glyph>

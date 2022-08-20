@@ -1,0 +1,8 @@
+# Other unneeded files
+doc/
+*~
+.DS_Store
+.idea
+.secret
+.vscode/
+*(Autosaved).glyphs

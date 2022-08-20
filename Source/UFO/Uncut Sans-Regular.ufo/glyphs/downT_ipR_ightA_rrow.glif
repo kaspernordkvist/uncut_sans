@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="downTipRightArrow" format="2">
+	<advance width="783"/>
+	<unicode hex="21B3"/>
+	<outline>
+		<contour>
+			<point x="440" y="48" type="curve"/>
+			<point x="508" y="48" type="line"/>
+			<point x="508" y="208"/>
+			<point x="635" y="270"/>
+			<point x="703" y="270" type="curve"/>
+			<point x="703" y="336" type="line"/>
+			<point x="635" y="336"/>
+			<point x="508" y="398"/>
+			<point x="508" y="558" type="curve"/>
+			<point x="440" y="558" type="line"/>
+			<point x="440" y="398"/>
+			<point x="541" y="326"/>
+			<point x="611" y="326" type="curve"/>
+			<point x="611" y="280" type="line"/>
+			<point x="541" y="280"/>
+			<point x="440" y="208"/>
+		</contour>
+		<contour>
+			<point x="80" y="336" type="line"/>
+			<point x="146" y="336" type="line"/>
+			<point x="146" y="700" type="line"/>
+			<point x="80" y="700" type="line"/>
+		</contour>
+		<contour>
+			<point x="80" y="270" type="line"/>
+			<point x="671" y="270" type="line"/>
+			<point x="671" y="336" type="line"/>
+			<point x="80" y="336" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>upArrow</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>upArrow</string>
+		</dict>
+	</lib>
+</glyph>

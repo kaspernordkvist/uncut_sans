@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.circled" format="2">
+	<advance width="872"/>
+	<unicode hex="2465"/>
+	<outline>
+		<contour>
+			<point x="433" y="182" type="curve" smooth="yes"/>
+			<point x="503" y="182"/>
+			<point x="565" y="223"/>
+			<point x="565" y="303" type="curve" smooth="yes"/>
+			<point x="565" y="383"/>
+			<point x="503" y="424"/>
+			<point x="453" y="424" type="curve" smooth="yes"/>
+			<point x="386" y="424"/>
+			<point x="347" y="385"/>
+			<point x="347" y="315" type="curve"/>
+			<point x="365" y="333" type="line"/>
+			<point x="355" y="432"/>
+			<point x="397" y="461"/>
+			<point x="437" y="461" type="curve" smooth="yes"/>
+			<point x="472" y="461"/>
+			<point x="487" y="442"/>
+			<point x="490" y="437" type="curve"/>
+			<point x="572" y="442" type="line"/>
+			<point x="559" y="500"/>
+			<point x="497" y="528"/>
+			<point x="437" y="528" type="curve" smooth="yes"/>
+			<point x="357" y="528"/>
+			<point x="291" y="472"/>
+			<point x="291" y="352" type="curve" smooth="yes"/>
+			<point x="291" y="282"/>
+			<point x="323" y="182"/>
+		</contour>
+		<contour>
+			<point x="433" y="249" type="curve" smooth="yes"/>
+			<point x="398" y="249"/>
+			<point x="382" y="274"/>
+			<point x="382" y="303" type="curve" smooth="yes"/>
+			<point x="382" y="333"/>
+			<point x="398" y="357"/>
+			<point x="433" y="357" type="curve" smooth="yes"/>
+			<point x="468" y="357"/>
+			<point x="483" y="333"/>
+			<point x="483" y="303" type="curve" smooth="yes"/>
+			<point x="483" y="274"/>
+			<point x="468" y="249"/>
+		</contour>
+		<component base="whiteCircle"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>blackCircle</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>blackCircle</string>
+		</dict>
+	</lib>
+</glyph>

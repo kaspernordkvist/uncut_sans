@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wdieresis.ss07" format="2">
+	<advance width="783"/>
+	<outline>
+		<component base="w"/>
+		<component base="dieresis.ss07" xOffset="80"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>w</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>w</string>
+		</dict>
+	</lib>
+</glyph>

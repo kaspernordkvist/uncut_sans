@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="southEastArrow.ss08" format="2">
+	<advance width="677"/>
+	<outline>
+		<contour>
+			<point x="490" y="54" type="line"/>
+			<point x="530" y="87" type="line"/>
+			<point x="157" y="550" type="line"/>
+			<point x="117" y="517" type="line"/>
+		</contour>
+		<contour>
+			<point x="162" y="44" type="line"/>
+			<point x="532" y="44" type="line"/>
+			<point x="603" y="414" type="line"/>
+			<point x="559" y="414" type="line"/>
+			<point x="493" y="74" type="line"/>
+			<point x="508" y="88" type="line"/>
+			<point x="170" y="88" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>upArrow</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>upArrow</string>
+		</dict>
+	</lib>
+</glyph>

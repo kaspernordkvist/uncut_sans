@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcommaaccent.ss07" format="2">
+	<advance width="260"/>
+	<outline>
+		<component base="l" xOffset="28"/>
+		<component base="commaaccentcomb.ss07" xOffset="-60"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>l</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>l</string>
+		</dict>
+	</lib>
+</glyph>

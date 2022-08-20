@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.numr" format="2">
+	<advance width="355"/>
+	<outline>
+		<component base="five.dnom" yOffset="334"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>five.dnom</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>five.dnom</string>
+		</dict>
+	</lib>
+</glyph>

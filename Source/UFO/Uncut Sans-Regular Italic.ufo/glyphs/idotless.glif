@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotless" format="2">
+	<advance width="226"/>
+	<unicode hex="0131"/>
+	<outline>
+		<contour>
+			<point x="7" y="0" type="line"/>
+			<point x="82" y="0" type="line"/>
+			<point x="179" y="500" type="line"/>
+			<point x="104" y="500" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>l</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>l</string>
+		</dict>
+	</lib>
+</glyph>

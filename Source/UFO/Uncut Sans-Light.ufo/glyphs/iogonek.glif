@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek" format="2">
+	<advance width="218"/>
+	<unicode hex="012F"/>
+	<outline>
+		<component base="dotaccent" xOffset="-65"/>
+		<component base="idotless" xOffset="5"/>
+		<component base="ogonek" xOffset="-100"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=idotless-40</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=idotless-40</string>
+		</dict>
+	</lib>
+</glyph>

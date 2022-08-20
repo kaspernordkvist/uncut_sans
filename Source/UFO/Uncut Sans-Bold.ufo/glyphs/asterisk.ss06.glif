@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asterisk.ss06" format="2">
+	<advance width="516"/>
+	<outline>
+		<contour>
+			<point x="323" y="333" type="line"/>
+			<point x="397" y="383" type="line"/>
+			<point x="270" y="565" type="line"/>
+			<point x="197" y="514" type="line"/>
+		</contour>
+		<contour>
+			<point x="153" y="333" type="line"/>
+			<point x="279" y="514" type="line"/>
+			<point x="206" y="565" type="line"/>
+			<point x="79" y="383" type="line"/>
+		</contour>
+		<contour>
+			<point x="230" y="476" type="line"/>
+			<point x="268" y="557" type="line"/>
+			<point x="68" y="650" type="line"/>
+			<point x="30" y="569" type="line"/>
+		</contour>
+		<contour>
+			<point x="193" y="501" type="line"/>
+			<point x="283" y="501" type="line"/>
+			<point x="283" y="731" type="line"/>
+			<point x="193" y="731" type="line"/>
+		</contour>
+		<contour>
+			<point x="246" y="476" type="line"/>
+			<point x="446" y="569" type="line"/>
+			<point x="408" y="650" type="line"/>
+			<point x="208" y="557" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=asterisk-20</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>asterisk</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ycircumflex.ss02" format="2">
+	<advance width="582"/>
+	<outline>
+		<component base="Y.ss02" xOffset="10"/>
+		<component base="circumflex" xOffset="40" yOffset="200"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=Y-10</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=Y-10</string>
+		</dict>
+	</lib>
+</glyph>

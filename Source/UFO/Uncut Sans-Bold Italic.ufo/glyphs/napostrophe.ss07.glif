@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="napostrophe.ss07" format="2">
+	<advance width="652"/>
+	<outline>
+		<component base="n" xOffset="64"/>
+		<component base="commaaccentcomb.ss07" xOffset="-6" yOffset="769"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=m-80</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>m</string>
+		</dict>
+	</lib>
+</glyph>

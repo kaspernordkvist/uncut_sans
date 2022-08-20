@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemetright.case" format="2">
+	<advance width="451"/>
+	<outline>
+		<component base="guillemetright" yOffset="80"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>guilsinglright</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>guilsinglright</string>
+		</dict>
+	</lib>
+</glyph>

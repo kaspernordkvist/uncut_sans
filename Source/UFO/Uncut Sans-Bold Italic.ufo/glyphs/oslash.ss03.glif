@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash.ss03" format="2">
+	<advance width="642"/>
+	<outline>
+		<contour>
+			<point x="-64" y="0" type="line"/>
+			<point x="65" y="0" type="line"/>
+			<point x="666" y="500" type="line"/>
+			<point x="537" y="500" type="line"/>
+		</contour>
+		<component base="o" xOffset="26"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=o-30</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=o-30</string>
+		</dict>
+	</lib>
+</glyph>

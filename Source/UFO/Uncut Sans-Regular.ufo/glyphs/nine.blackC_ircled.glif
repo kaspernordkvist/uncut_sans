@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.blackCircled" format="2">
+	<advance width="892"/>
+	<unicode hex="277E"/>
+	<outline>
+		<contour>
+			<point x="447" y="-16" type="curve" smooth="yes"/>
+			<point x="648" y="-16"/>
+			<point x="812" y="148"/>
+			<point x="812" y="350" type="curve" smooth="yes"/>
+			<point x="812" y="552"/>
+			<point x="648" y="716"/>
+			<point x="447" y="716" type="curve" smooth="yes"/>
+			<point x="244" y="716"/>
+			<point x="80" y="552"/>
+			<point x="80" y="350" type="curve" smooth="yes"/>
+			<point x="80" y="148"/>
+			<point x="244" y="-16"/>
+		</contour>
+		<contour>
+			<point x="445" y="182" type="curve" smooth="yes"/>
+			<point x="385" y="182"/>
+			<point x="346" y="211"/>
+			<point x="328" y="281" type="curve"/>
+			<point x="379" y="288" type="line"/>
+			<point x="391" y="253"/>
+			<point x="406" y="231"/>
+			<point x="445" y="231" type="curve" smooth="yes"/>
+			<point x="507" y="231"/>
+			<point x="530" y="285"/>
+			<point x="528" y="392" type="curve"/>
+			<point x="544" y="449" type="line"/>
+			<point x="553" y="342"/>
+			<point x="513" y="295"/>
+			<point x="449" y="295" type="curve" smooth="yes"/>
+			<point x="387" y="295"/>
+			<point x="333" y="339"/>
+			<point x="333" y="411" type="curve" smooth="yes"/>
+			<point x="333" y="479"/>
+			<point x="387" y="528"/>
+			<point x="449" y="528" type="curve" smooth="yes"/>
+			<point x="539" y="528"/>
+			<point x="575" y="454"/>
+			<point x="575" y="354" type="curve" smooth="yes"/>
+			<point x="575" y="238"/>
+			<point x="516" y="182"/>
+		</contour>
+		<contour>
+			<point x="449" y="342" type="curve" smooth="yes"/>
+			<point x="491" y="342"/>
+			<point x="518" y="369"/>
+			<point x="518" y="411" type="curve" smooth="yes"/>
+			<point x="518" y="453"/>
+			<point x="492" y="481"/>
+			<point x="449" y="481" type="curve" smooth="yes"/>
+			<point x="408" y="481"/>
+			<point x="382" y="453"/>
+			<point x="382" y="411" type="curve" smooth="yes"/>
+			<point x="382" y="369"/>
+			<point x="407" y="342"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>blackCircle</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>blackCircle</string>
+		</dict>
+	</lib>
+</glyph>

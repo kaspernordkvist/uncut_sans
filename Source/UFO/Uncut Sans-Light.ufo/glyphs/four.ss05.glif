@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.ss05" format="2">
+	<advance width="643"/>
+	<outline>
+		<contour>
+			<point x="74" y="218" type="line"/>
+			<point x="443" y="662" type="line"/>
+			<point x="415" y="700" type="line"/>
+			<point x="45" y="256" type="line"/>
+		</contour>
+		<contour>
+			<point x="45" y="203" type="line"/>
+			<point x="593" y="203" type="line"/>
+			<point x="593" y="256" type="line"/>
+			<point x="45" y="256" type="line"/>
+		</contour>
+		<contour>
+			<point x="415" y="0" type="line"/>
+			<point x="473" y="0" type="line"/>
+			<point x="473" y="700" type="line"/>
+			<point x="415" y="700" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>four</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>four</string>
+		</dict>
+	</lib>
+</glyph>

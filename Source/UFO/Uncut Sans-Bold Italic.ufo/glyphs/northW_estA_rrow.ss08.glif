@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="northWestArrow.ss08" format="2">
+	<advance width="708"/>
+	<outline>
+		<contour>
+			<point x="490" y="24" type="line"/>
+			<point x="579" y="99" type="line"/>
+			<point x="217" y="549" type="line"/>
+			<point x="127" y="474" type="line"/>
+		</contour>
+		<contour>
+			<point x="40" y="142" type="line"/>
+			<point x="144" y="142" type="line"/>
+			<point x="227" y="570" type="line"/>
+			<point x="105" y="468" type="line"/>
+			<point x="533" y="468" type="line"/>
+			<point x="553" y="572" type="line"/>
+			<point x="123" y="572" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>upArrow</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>upArrow</string>
+		</dict>
+	</lib>
+</glyph>

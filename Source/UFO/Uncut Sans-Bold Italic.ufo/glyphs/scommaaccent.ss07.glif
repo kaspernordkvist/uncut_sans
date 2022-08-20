@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="scommaaccent.ss07" format="2">
+	<advance width="540"/>
+	<outline>
+		<component base="s"/>
+		<component base="commaaccentcomb.ss07" xOffset="49"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>s</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>s</string>
+		</dict>
+	</lib>
+</glyph>

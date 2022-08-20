@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftRightArrow.ss08" format="2">
+	<advance width="997"/>
+	<outline>
+		<contour>
+			<point x="589" y="41" type="line"/>
+			<point x="902" y="303" type="line"/>
+			<point x="691" y="565" type="line"/>
+			<point x="654" y="534" type="line"/>
+			<point x="846" y="295" type="line"/>
+			<point x="849" y="311" type="line"/>
+			<point x="564" y="73" type="line"/>
+		</contour>
+		<contour>
+			<point x="286" y="41" type="line"/>
+			<point x="323" y="73" type="line"/>
+			<point x="130" y="311" type="line"/>
+			<point x="127" y="295" type="line"/>
+			<point x="413" y="534" type="line"/>
+			<point x="388" y="565" type="line"/>
+			<point x="75" y="303" type="line"/>
+		</contour>
+		<contour>
+			<point x="114" y="280" type="line"/>
+			<point x="853" y="280" type="line"/>
+			<point x="862" y="326" type="line"/>
+			<point x="123" y="326" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>upArrow</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>upArrow</string>
+		</dict>
+	</lib>
+</glyph>

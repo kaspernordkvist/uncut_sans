@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="euro" format="2">
+	<advance width="792"/>
+	<unicode hex="20AC"/>
+	<outline>
+		<contour>
+			<point x="438" y="-16" type="curve" smooth="yes"/>
+			<point x="588" y="-16"/>
+			<point x="703" y="99"/>
+			<point x="722" y="258" type="curve"/>
+			<point x="663" y="266" type="line"/>
+			<point x="648" y="147"/>
+			<point x="568" y="37"/>
+			<point x="438" y="37" type="curve" smooth="yes"/>
+			<point x="278" y="37"/>
+			<point x="184" y="180"/>
+			<point x="184" y="350" type="curve" smooth="yes"/>
+			<point x="184" y="520"/>
+			<point x="278" y="662"/>
+			<point x="438" y="662" type="curve" smooth="yes"/>
+			<point x="568" y="662"/>
+			<point x="645" y="547"/>
+			<point x="662" y="428" type="curve"/>
+			<point x="722" y="437" type="line"/>
+			<point x="703" y="596"/>
+			<point x="588" y="716"/>
+			<point x="438" y="716" type="curve" smooth="yes"/>
+			<point x="268" y="716"/>
+			<point x="126" y="580"/>
+			<point x="126" y="350" type="curve" smooth="yes"/>
+			<point x="126" y="120"/>
+			<point x="268" y="-16"/>
+		</contour>
+		<contour>
+			<point x="55" y="254" type="line"/>
+			<point x="484" y="254" type="line"/>
+			<point x="484" y="297" type="line"/>
+			<point x="55" y="297" type="line"/>
+		</contour>
+		<contour>
+			<point x="55" y="397" type="line"/>
+			<point x="484" y="397" type="line"/>
+			<point x="484" y="440" type="line"/>
+			<point x="55" y="440" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>at</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>C</string>
+		</dict>
+	</lib>
+</glyph>

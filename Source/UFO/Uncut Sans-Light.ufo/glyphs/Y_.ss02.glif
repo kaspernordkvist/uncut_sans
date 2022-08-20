@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y.ss02" format="2">
+	<advance width="562"/>
+	<outline>
+		<contour>
+			<point x="297" y="260" type="line"/>
+			<point x="557" y="700" type="line"/>
+			<point x="493" y="700" type="line"/>
+			<point x="268" y="319" type="line"/>
+		</contour>
+		<contour>
+			<point x="252" y="0" type="line"/>
+			<point x="310" y="0" type="line"/>
+			<point x="310" y="324" type="line"/>
+			<point x="252" y="324" type="line"/>
+		</contour>
+		<contour>
+			<point x="265" y="260" type="line"/>
+			<point x="294" y="319" type="line"/>
+			<point x="69" y="700" type="line"/>
+			<point x="5" y="700" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=Y-20</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=Y-20</string>
+		</dict>
+	</lib>
+</glyph>

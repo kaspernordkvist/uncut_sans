@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oneeighth.ss05" format="2">
+	<advance width="785"/>
+	<outline>
+		<component base="eight.dnom" xOffset="429"/>
+		<component base="one.numr.ss05" xOffset="20"/>
+		<component base="fraction" xOffset="281"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>one.numr</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>eight.dnom</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="idotaccent.ss07" format="2">
+	<advance width="246"/>
+	<outline>
+		<component base="idotless" xOffset="16"/>
+		<component base="dotaccent.ss07" xOffset="-60"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>idotless</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>idotless</string>
+		</dict>
+	</lib>
+</glyph>

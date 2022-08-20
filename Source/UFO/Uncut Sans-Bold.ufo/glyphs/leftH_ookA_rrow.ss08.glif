@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftHookArrow.ss08" format="2">
+	<advance width="1181"/>
+	<outline>
+		<contour>
+			<point x="172" y="250" type="line"/>
+			<point x="873" y="250" type="line" smooth="yes"/>
+			<point x="998" y="250"/>
+			<point x="1101" y="353"/>
+			<point x="1101" y="480" type="curve" smooth="yes"/>
+			<point x="1101" y="607"/>
+			<point x="998" y="710"/>
+			<point x="873" y="710" type="curve" smooth="yes"/>
+			<point x="653" y="710" type="line"/>
+			<point x="653" y="604" type="line"/>
+			<point x="873" y="604" type="line" smooth="yes"/>
+			<point x="940" y="604"/>
+			<point x="996" y="548"/>
+			<point x="996" y="480" type="curve" smooth="yes"/>
+			<point x="996" y="412"/>
+			<point x="940" y="356"/>
+			<point x="873" y="356" type="curve" smooth="yes"/>
+			<point x="172" y="356" type="line"/>
+		</contour>
+		<contour>
+			<point x="384" y="-1" type="line"/>
+			<point x="457" y="73" type="line"/>
+			<point x="154" y="375" type="line"/>
+			<point x="154" y="231" type="line"/>
+			<point x="457" y="534" type="line"/>
+			<point x="384" y="607" type="line"/>
+			<point x="80" y="303" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>upArrow</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>upArrow</string>
+		</dict>
+	</lib>
+</glyph>

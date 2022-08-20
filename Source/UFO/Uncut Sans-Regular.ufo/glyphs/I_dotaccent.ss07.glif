@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idotaccent.ss07" format="2">
+	<advance width="280"/>
+	<outline>
+		<component base="I" xOffset="16"/>
+		<component base="dotaccent.ss07" xOffset="-55" yOffset="190"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>I</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>I</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown.ss06.case" format="2">
+	<advance width="290"/>
+	<outline>
+		<component base="exclamdown.ss06" xOffset="33" yOffset="174"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>exclam</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>exclam</string>
+		</dict>
+	</lib>
+</glyph>

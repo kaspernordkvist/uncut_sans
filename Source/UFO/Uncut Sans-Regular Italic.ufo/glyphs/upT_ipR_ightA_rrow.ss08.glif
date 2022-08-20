@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upTipRightArrow.ss08" format="2">
+	<advance width="818"/>
+	<outline>
+		<contour>
+			<point x="398" y="27" type="line"/>
+			<point x="728" y="303" type="line"/>
+			<point x="506" y="579" type="line"/>
+			<point x="457" y="534" type="line"/>
+			<point x="662" y="279" type="line"/>
+			<point x="662" y="327" type="line"/>
+			<point x="357" y="73" type="line"/>
+		</contour>
+		<contour>
+			<point x="-6" y="-94" type="line"/>
+			<point x="60" y="-94" type="line"/>
+			<point x="130" y="270" type="line"/>
+			<point x="64" y="270" type="line"/>
+		</contour>
+		<contour>
+			<point x="64" y="270" type="line"/>
+			<point x="655" y="270" type="line"/>
+			<point x="668" y="336" type="line"/>
+			<point x="77" y="336" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>upArrow</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>upArrow</string>
+		</dict>
+	</lib>
+</glyph>

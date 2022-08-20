@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.circled" format="2">
+	<advance width="892"/>
+	<unicode hex="2463"/>
+	<outline>
+		<contour>
+			<point x="288" y="276" type="line"/>
+			<point x="584" y="276" type="line"/>
+			<point x="584" y="325" type="line"/>
+			<point x="314" y="325" type="line"/>
+			<point x="298" y="287" type="line"/>
+			<point x="424" y="335"/>
+			<point x="428" y="437"/>
+			<point x="428" y="521" type="curve"/>
+			<point x="377" y="521" type="line"/>
+			<point x="377" y="439"/>
+			<point x="374" y="376"/>
+			<point x="288" y="321" type="curve"/>
+		</contour>
+		<component base="whiteCircle"/>
+		<contour>
+			<point x="479" y="190" type="line"/>
+			<point x="530" y="190" type="line"/>
+			<point x="530" y="521" type="line"/>
+			<point x="479" y="521" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>blackCircle</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>blackCircle</string>
+		</dict>
+	</lib>
+</glyph>

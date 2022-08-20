@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lib</key>
+	<dict>
+		<key>GSCornerRadius</key>
+		<integer>50</integer>
+		<key>GSExtrudeAngle</key>
+		<integer>30</integer>
+		<key>GSExtrudeOffset</key>
+		<integer>15</integer>
+		<key>GSOffsetHorizontal</key>
+		<integer>-10</integer>
+		<key>GSOffsetKeepCompatible</key>
+		<integer>1</integer>
+		<key>GSOffsetVertical</key>
+		<integer>-10</integer>
+	</dict>
+</dict>
+</plist>

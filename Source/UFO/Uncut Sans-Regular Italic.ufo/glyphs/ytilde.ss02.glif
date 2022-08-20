@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ytilde.ss02" format="2">
+	<advance width="514"/>
+	<outline>
+		<component base="y.ss02"/>
+		<component base="tilde" xOffset="-44"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>y</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>y</string>
+		</dict>
+	</lib>
+</glyph>

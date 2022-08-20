@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jacute" format="2">
+	<advance width="259"/>
+	<outline>
+		<component base="jdotless"/>
+		<component base="acute" xOffset="-19"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>j</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=j-90</string>
+		</dict>
+	</lib>
+</glyph>

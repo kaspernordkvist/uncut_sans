@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.circled.ss05" format="2">
+	<advance width="892"/>
+	<outline>
+		<contour>
+			<point x="322" y="288" type="line"/>
+			<point x="488" y="483" type="line"/>
+			<point x="458" y="521" type="line"/>
+			<point x="291" y="325" type="line"/>
+		</contour>
+		<contour>
+			<point x="291" y="276" type="line"/>
+			<point x="563" y="276" type="line"/>
+			<point x="563" y="325" type="line"/>
+			<point x="291" y="325" type="line"/>
+		</contour>
+		<component base="whiteCircle"/>
+		<contour>
+			<point x="458" y="190" type="line"/>
+			<point x="509" y="190" type="line"/>
+			<point x="509" y="521" type="line"/>
+			<point x="458" y="521" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>blackCircle</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>blackCircle</string>
+		</dict>
+	</lib>
+</glyph>

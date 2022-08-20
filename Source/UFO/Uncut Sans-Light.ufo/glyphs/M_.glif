@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="2">
+	<advance width="818"/>
+	<unicode hex="004D"/>
+	<outline>
+		<contour>
+			<point x="90" y="0" type="line"/>
+			<point x="148" y="0" type="line"/>
+			<point x="148" y="632" type="line"/>
+			<point x="145" y="632" type="line"/>
+			<point x="386" y="0" type="line"/>
+			<point x="432" y="0" type="line"/>
+			<point x="673" y="632" type="line"/>
+			<point x="670" y="632" type="line"/>
+			<point x="670" y="0" type="line"/>
+			<point x="728" y="0" type="line"/>
+			<point x="728" y="700" type="line"/>
+			<point x="641" y="700" type="line"/>
+			<point x="405" y="81" type="line"/>
+			<point x="413" y="81" type="line"/>
+			<point x="176" y="700" type="line"/>
+			<point x="90" y="700" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H</string>
+		</dict>
+	</lib>
+</glyph>

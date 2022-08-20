@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.dnom.zero" format="2">
+	<advance width="349"/>
+	<outline>
+		<contour>
+			<point x="36" y="53" type="line"/>
+			<point x="262" y="282" type="line"/>
+			<point x="249" y="314" type="line"/>
+			<point x="22" y="84" type="line"/>
+		</contour>
+		<component base="zero.dnom"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>zero.dnom</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>zero.dnom</string>
+		</dict>
+	</lib>
+</glyph>

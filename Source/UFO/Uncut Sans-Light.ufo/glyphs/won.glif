@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="won" format="2">
+	<advance width="837"/>
+	<unicode hex="20A9"/>
+	<outline>
+		<contour>
+			<point x="207" y="0" type="line"/>
+			<point x="285" y="0" type="line"/>
+			<point x="419" y="587" type="line"/>
+			<point x="418" y="587" type="line"/>
+			<point x="552" y="0" type="line"/>
+			<point x="630" y="0" type="line"/>
+			<point x="797" y="700" type="line"/>
+			<point x="740" y="700" type="line"/>
+			<point x="586" y="38" type="line"/>
+			<point x="593" y="38" type="line"/>
+			<point x="443" y="700" type="line"/>
+			<point x="394" y="700" type="line"/>
+			<point x="244" y="38" type="line"/>
+			<point x="255" y="38" type="line"/>
+			<point x="97" y="700" type="line"/>
+			<point x="40" y="700" type="line"/>
+		</contour>
+		<contour>
+			<point x="51" y="224" type="line"/>
+			<point x="787" y="224" type="line"/>
+			<point x="787" y="267" type="line"/>
+			<point x="51" y="267" type="line"/>
+		</contour>
+		<contour>
+			<point x="51" y="387" type="line"/>
+			<point x="787" y="387" type="line"/>
+			<point x="787" y="430" type="line"/>
+			<point x="51" y="430" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>W</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>W</string>
+		</dict>
+	</lib>
+</glyph>

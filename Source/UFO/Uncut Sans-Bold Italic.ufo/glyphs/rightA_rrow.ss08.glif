@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightArrow.ss08" format="2">
+	<advance width="886"/>
+	<outline>
+		<contour>
+			<point x="433" y="-1" type="line"/>
+			<point x="796" y="303" type="line"/>
+			<point x="551" y="607" type="line"/>
+			<point x="464" y="544" type="line"/>
+			<point x="708" y="241" type="line"/>
+			<point x="736" y="385" type="line"/>
+			<point x="374" y="83" type="line"/>
+		</contour>
+		<contour>
+			<point x="61" y="250" type="line"/>
+			<point x="700" y="250" type="line"/>
+			<point x="720" y="356" type="line"/>
+			<point x="81" y="356" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>upArrow</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>upArrow</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onehalf" format="2">
+	<advance width="827"/>
+	<unicode hex="00BD"/>
+	<outline>
+		<component base="two.dnom" xOffset="474"/>
+		<component base="one.numr"/>
+		<component base="fraction" xOffset="350"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>one.numr</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>two.dnom</string>
+		</dict>
+	</lib>
+</glyph>

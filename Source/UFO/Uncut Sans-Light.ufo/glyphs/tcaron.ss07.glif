@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron.ss07" format="2">
+	<advance width="388"/>
+	<outline>
+		<component base="t"/>
+		<component base="commaaccentcomb.ss07" xOffset="183" yOffset="780"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>t</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=t-70</string>
+		</dict>
+	</lib>
+</glyph>

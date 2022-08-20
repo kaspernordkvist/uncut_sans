@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.dnom.ss05" format="2">
+	<advance width="370"/>
+	<outline>
+		<contour>
+			<point x="60" y="98" type="line"/>
+			<point x="245" y="303" type="line"/>
+			<point x="200" y="366" type="line"/>
+			<point x="15" y="159" type="line"/>
+		</contour>
+		<contour>
+			<point x="15" y="87" type="line"/>
+			<point x="345" y="87" type="line"/>
+			<point x="345" y="159" type="line"/>
+			<point x="15" y="159" type="line"/>
+		</contour>
+		<contour>
+			<point x="200" y="0" type="line"/>
+			<point x="285" y="0" type="line"/>
+			<point x="285" y="366" type="line"/>
+			<point x="200" y="366" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>four.dnom</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>four.dnom</string>
+		</dict>
+	</lib>
+</glyph>

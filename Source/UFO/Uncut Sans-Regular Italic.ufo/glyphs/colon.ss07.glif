@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon.ss07" format="2">
+	<advance width="236"/>
+	<outline>
+		<component base="period.ss07" xOffset="79" yOffset="380"/>
+		<component base="period.ss07" xOffset="5"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>period</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=period-5</string>
+		</dict>
+	</lib>
+</glyph>

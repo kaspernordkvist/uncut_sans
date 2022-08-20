@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iacute" format="2">
+	<advance width="275"/>
+	<unicode hex="00ED"/>
+	<outline>
+		<component base="acute" xOffset="-44"/>
+		<component base="idotless"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>idotless</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=idotless-80</string>
+		</dict>
+	</lib>
+</glyph>
