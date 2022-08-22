@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onehalf.ss05" format="2">
-	<advance width="793"/>
+	<advance width="803"/>
 	<outline>
 		<component base="one.numr.ss05" xOffset="20"/>
-		<component base="two.dnom" xOffset="427"/>
+		<component base="two.dnom" xOffset="437"/>
 		<component base="fraction" xOffset="281"/>
 	</outline>
 	<lib>

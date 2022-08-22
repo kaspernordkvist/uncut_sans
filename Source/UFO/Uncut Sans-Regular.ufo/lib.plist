@@ -357,6 +357,7 @@
 		<string>atilde.ss04</string>
 		<string>adieresis.ss07</string>
 		<string>cdotaccent.ss07</string>
+		<string>dcaron.ss07</string>
 		<string>edieresis.ss07</string>
 		<string>edotaccent.ss07</string>
 		<string>gcommaaccent.ss07</string>
@@ -368,6 +369,7 @@
 		<string>iogonek.ss07</string>
 		<string>j.ss07</string>
 		<string>kcommaaccent.ss07</string>
+		<string>lcaron.ss07</string>
 		<string>lcommaaccent.ss07</string>
 		<string>ldot.ss07</string>
 		<string>napostrophe.ss07</string>

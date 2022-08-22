@@ -2,8 +2,8 @@
 <glyph name="quotedblright.ss07" format="2">
 	<advance width="400"/>
 	<outline>
-		<component base="quoteright.ss07" xOffset="175"/>
-		<component base="quoteright.ss07" xOffset="5"/>
+		<component base="quoteright.ss07" xOffset="170"/>
+		<component base="quoteright.ss07"/>
 	</outline>
 	<lib>
 		<dict>

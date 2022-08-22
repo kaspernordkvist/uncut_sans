@@ -7,9 +7,9 @@
 	<lib>
 		<dict>
 			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>exclam</string>
+			<string>=exclam+10</string>
 			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>exclam</string>
+			<string>=exclam+20</string>
 		</dict>
 	</lib>
 </glyph>

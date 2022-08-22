@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron.ss07" format="2">
+	<advance width="275"/>
+	<outline>
+		<component base="commaaccentcomb.ss07" xOffset="219" yOffset="779"/>
+		<component base="l"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>l</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=l-120</string>
+		</dict>
+	</lib>
+</glyph>

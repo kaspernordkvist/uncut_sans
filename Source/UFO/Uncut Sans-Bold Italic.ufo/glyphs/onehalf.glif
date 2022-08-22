@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onehalf" format="2">
-	<advance width="870"/>
+	<advance width="880"/>
 	<unicode hex="00BD"/>
 	<outline>
-		<component base="two.dnom" xOffset="504"/>
+		<component base="two.dnom" xOffset="514"/>
 		<component base="one.numr"/>
 		<component base="fraction" xOffset="360"/>
 	</outline>

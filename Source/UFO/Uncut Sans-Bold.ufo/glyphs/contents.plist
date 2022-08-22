@@ -494,6 +494,8 @@
 	<string>daggerdbl.glif</string>
 	<key>dcaron</key>
 	<string>dcaron.glif</string>
+	<key>dcaron.ss07</key>
+	<string>dcaron.ss07.glif</string>
 	<key>dcroat</key>
 	<string>dcroat.glif</string>
 	<key>degree</key>
@@ -778,6 +780,8 @@
 	<string>lacute.glif</string>
 	<key>lcaron</key>
 	<string>lcaron.glif</string>
+	<key>lcaron.ss07</key>
+	<string>lcaron.ss07.glif</string>
 	<key>lcommaaccent</key>
 	<string>lcommaaccent.glif</string>
 	<key>lcommaaccent.ss07</key>

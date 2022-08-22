@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dcaron.ss07" format="2">
+	<advance width="609"/>
+	<outline>
+		<component base="commaaccentcomb.ss07" xOffset="409" yOffset="789"/>
+		<component base="d"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>d</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=l-120</string>
+		</dict>
+	</lib>
+</glyph>
