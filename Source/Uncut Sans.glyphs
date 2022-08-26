@@ -11890,7 +11890,7 @@ unicode = 342;
 glyphname = S;
 kernLeft = S;
 kernRight = S;
-lastChange = "2022-08-21 06:53:56 +0000";
+lastChange = "2022-08-26 12:32:59 +0000";
 layers = (
 {
 layerId = m01;
@@ -12031,22 +12031,22 @@ nodes = (
 (503,62,o),
 (503,191,cs),
 (503,411,o),
-(201,399,o),
-(201,538,cs),
-(201,598,o),
-(246,643,o),
-(336,643,cs),
-(426,643,o),
-(464,568,o),
-(464,498,c),
-(544,508,l),
-(544,618,o),
-(466,716,o),
-(336,716,cs),
-(196,716,o),
-(123,628,o),
-(123,538,cs),
-(123,339,o),
+(211,399,o),
+(211,538,cs),
+(211,598,o),
+(256,643,o),
+(346,643,cs),
+(436,643,o),
+(474,568,o),
+(474,498,c),
+(554,508,l),
+(554,618,o),
+(476,716,o),
+(346,716,cs),
+(206,716,o),
+(133,628,o),
+(133,538,cs),
+(133,339,o),
 (426,361,o),
 (426,191,cs),
 (426,111,o),
@@ -12062,7 +12062,7 @@ nodes = (
 );
 }
 );
-width = 589;
+width = 579;
 },
 {
 layerId = m008;
@@ -12074,22 +12074,22 @@ nodes = (
 (559,71,o),
 (559,201,cs),
 (559,461,o),
-(246,398,o),
-(246,518,cs),
-(246,578,o),
-(298,603,o),
-(358,603,cs),
-(428,603,o),
-(451,551,o),
-(451,491,c),
-(591,501,l),
-(591,601,o),
-(540,716,o),
-(358,716,cs),
-(218,716,o),
-(108,628,o),
-(108,518,cs),
-(108,288,o),
+(256,398,o),
+(256,518,cs),
+(256,578,o),
+(308,603,o),
+(368,603,cs),
+(438,603,o),
+(461,551,o),
+(461,491,c),
+(601,501,l),
+(601,601,o),
+(550,716,o),
+(368,716,cs),
+(228,716,o),
+(118,628,o),
+(118,518,cs),
+(118,288,o),
 (421,361,o),
 (421,201,cs),
 (421,141,o),
@@ -12105,7 +12105,7 @@ nodes = (
 );
 }
 );
-width = 632;
+width = 622;
 },
 {
 layerId = m006;
@@ -12117,22 +12117,22 @@ nodes = (
 (486,61,o),
 (486,181,cs),
 (486,416,o),
-(186,388,o),
-(186,548,cs),
-(186,608,o),
-(235,663,o),
-(335,663,cs),
-(435,663,o),
-(471,567,o),
-(471,507,c),
-(530,517,l),
-(530,607,o),
-(465,716,o),
-(335,716,cs),
-(215,716,o),
-(130,648,o),
-(130,548,cs),
-(130,348,o),
+(196,388,o),
+(196,548,cs),
+(196,608,o),
+(245,663,o),
+(345,663,cs),
+(445,663,o),
+(481,567,o),
+(481,507,c),
+(540,517,l),
+(540,607,o),
+(475,716,o),
+(345,716,cs),
+(225,716,o),
+(140,648,o),
+(140,548,cs),
+(140,348,o),
 (430,377,o),
 (430,181,cs),
 (430,91,o),
@@ -12148,7 +12148,7 @@ nodes = (
 );
 }
 );
-width = 578;
+width = 568;
 }
 );
 unicode = 83;
@@ -12157,7 +12157,7 @@ unicode = 83;
 glyphname = Sacute;
 kernLeft = S;
 kernRight = S;
-lastChange = "2022-08-07 18:19:30 +0000";
+lastChange = "2022-08-26 12:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -12209,7 +12209,7 @@ pos = (167,200);
 ref = acute;
 }
 );
-width = 589;
+width = 579;
 },
 {
 layerId = m008;
@@ -12222,7 +12222,7 @@ pos = (186,200);
 ref = acute;
 }
 );
-width = 632;
+width = 622;
 },
 {
 layerId = m006;
@@ -12235,7 +12235,7 @@ pos = (178,200);
 ref = acute;
 }
 );
-width = 578;
+width = 568;
 }
 );
 metricLeft = S;
@@ -12246,7 +12246,7 @@ unicode = 346;
 glyphname = Scaron;
 kernLeft = S;
 kernRight = S;
-lastChange = "2022-08-07 18:19:37 +0000";
+lastChange = "2022-08-26 12:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -12298,7 +12298,7 @@ pos = (66,200);
 ref = caron;
 }
 );
-width = 589;
+width = 579;
 },
 {
 layerId = m008;
@@ -12311,7 +12311,7 @@ pos = (29,200);
 ref = caron;
 }
 );
-width = 632;
+width = 622;
 },
 {
 layerId = m006;
@@ -12324,7 +12324,7 @@ pos = (77,200);
 ref = caron;
 }
 );
-width = 578;
+width = 568;
 }
 );
 metricLeft = S;
@@ -12335,7 +12335,7 @@ unicode = 352;
 glyphname = Scedilla;
 kernLeft = S;
 kernRight = S;
-lastChange = "2022-08-07 18:19:41 +0000";
+lastChange = "2022-08-26 12:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -12387,7 +12387,7 @@ pos = (84,0);
 ref = cedilla;
 }
 );
-width = 589;
+width = 579;
 },
 {
 layerId = m008;
@@ -12400,7 +12400,7 @@ pos = (84,0);
 ref = cedilla;
 }
 );
-width = 632;
+width = 622;
 },
 {
 layerId = m006;
@@ -12413,7 +12413,7 @@ pos = (90,0);
 ref = cedilla;
 }
 );
-width = 578;
+width = 568;
 }
 );
 metricLeft = S;
@@ -12424,7 +12424,7 @@ unicode = 350;
 glyphname = Scircumflex;
 kernLeft = S;
 kernRight = S;
-lastChange = "2022-08-07 18:19:48 +0000";
+lastChange = "2022-08-26 12:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -12476,7 +12476,7 @@ pos = (66,200);
 ref = circumflex;
 }
 );
-width = 589;
+width = 579;
 },
 {
 layerId = m008;
@@ -12489,7 +12489,7 @@ pos = (29,200);
 ref = circumflex;
 }
 );
-width = 632;
+width = 622;
 },
 {
 layerId = m006;
@@ -12502,7 +12502,7 @@ pos = (77,200);
 ref = circumflex;
 }
 );
-width = 578;
+width = 568;
 }
 );
 metricLeft = S;
@@ -12513,7 +12513,7 @@ unicode = 348;
 glyphname = Scommaaccent;
 kernLeft = S;
 kernRight = S;
-lastChange = "2022-08-07 18:19:53 +0000";
+lastChange = "2022-08-26 12:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -12565,7 +12565,7 @@ pos = (93,0);
 ref = commaaccentcomb;
 }
 );
-width = 589;
+width = 579;
 },
 {
 layerId = m008;
@@ -12578,7 +12578,7 @@ pos = (89,0);
 ref = commaaccentcomb;
 }
 );
-width = 632;
+width = 622;
 },
 {
 layerId = m006;
@@ -12591,7 +12591,7 @@ pos = (103,0);
 ref = commaaccentcomb;
 }
 );
-width = 578;
+width = 568;
 }
 );
 metricLeft = S;
@@ -19268,7 +19268,7 @@ metricRight = R;
 glyphname = Scommaaccent.ss07;
 kernLeft = S;
 kernRight = S;
-lastChange = "2022-08-07 20:05:01 +0000";
+lastChange = "2022-08-26 12:37:03 +0000";
 layers = (
 {
 layerId = m007;
@@ -19320,7 +19320,7 @@ pos = (93,0);
 ref = commaaccentcomb.ss07;
 }
 );
-width = 589;
+width = 579;
 },
 {
 layerId = m008;
@@ -19333,7 +19333,7 @@ pos = (91,0);
 ref = commaaccentcomb.ss07;
 }
 );
-width = 632;
+width = 622;
 },
 {
 layerId = m006;
@@ -19346,7 +19346,7 @@ pos = (93,0);
 ref = commaaccentcomb.ss07;
 }
 );
-width = 578;
+width = 568;
 }
 );
 metricLeft = S;
@@ -80452,7 +80452,7 @@ unicode = 164;
 },
 {
 glyphname = dollar;
-lastChange = "2022-08-07 17:54:49 +0000";
+lastChange = "2022-08-26 12:37:03 +0000";
 layers = (
 {
 layerId = m01;
@@ -80660,7 +80660,7 @@ nodes = (
 );
 }
 );
-width = 589;
+width = 579;
 },
 {
 layerId = m008;
@@ -80712,7 +80712,7 @@ nodes = (
 );
 }
 );
-width = 632;
+width = 622;
 },
 {
 layerId = m006;
@@ -80764,7 +80764,7 @@ nodes = (
 );
 }
 );
-width = 578;
+width = 568;
 }
 );
 metricLeft = S;
@@ -108077,5 +108077,5 @@ m01 = {
 };
 };
 versionMajor = 1;
-versionMinor = 202;
+versionMinor = 203;
 }
