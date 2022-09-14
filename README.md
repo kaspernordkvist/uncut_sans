@@ -3,4 +3,24 @@ Yet another slightly quirky sans serif, designed with absolutely no investigatio
 
 [**Download the latest version here**](https://github.com/kaspernordkvist/uncut_sans/releases/latest)
 
+------
+
+## Using Uncut Sans
+
+Just download and install. For web, you can use jsDelivr to pull in the fonts in your CSS.
+
+```
+@font-face {
+	font-family: "Uncut Sans";
+	font-style: normal;
+	font-weight: 400;
+	src: url("https://cdn.jsdelivr.net/gh/kaspernordkvist/uncut_sans/Webfonts/Uncut-Sans-Regular.woff2") format("woff2"), url("https://cdn.jsdelivr.net/gh/kaspernordkvist/uncut_sans/Webfonts/Uncut-Sans-Regular.woff") format("woff");
+	font-display: swap
+}
+```
+
+------
+
+## Preview
+
 ![Uncut Sans font preview](/misc/readme/preview.svg)
