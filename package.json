@@ -1,0 +1,16 @@
+{
+  "name": "uncut_sans",
+  "description": "Yet another slightly quirky sans serif, designed with absolutely no investigation or research into any other typefaces from any specific time period. It tries to capture the essence of nothing, really. There’s no deeper meaning behind the design, but hopefully it’s still interesting enough to be taken into consideration for your next project.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaspernordkvist/uncut_sans.git"
+  },
+  "keywords": [
+    "font"
+  ],
+  "license": "OFL-1.1",
+  "bugs": {
+    "url": "https://github.com/kaspernordkvist/uncut_sans/issues"
+  },
+  "homepage": "https://github.com/kaspernordkvist/uncut_sans#readme"
+}
