@@ -242,10 +242,6 @@ code = "sub exclamdown by exclamdown.case;
 sub questiondown by questiondown.case;
 sub slash by slash.case;
 sub backslash by backslash.case;
-sub exclamdown.ss06 by exclamdown.ss06.case;
-sub questiondown.ss06 by questiondown.ss06.case;
-sub questiondown.ss07 by questiondown.ss07.case;
-sub exclamdown.ss06.ss07 by exclamdown.ss06.ss07.case;
 sub hyphen by hyphen.case;
 sub softhyphen by softhyphen.case;
 sub endash by endash.case;
@@ -278,22 +274,6 @@ sub upTipLeftArrow by upTipLeftArrow.case;
 sub upTipRightArrow by upTipRightArrow.case;
 sub downTipLeftArrow by downTipLeftArrow.case;
 sub downTipRightArrow by downTipRightArrow.case;
-sub upArrow.ss08 by upArrow.ss08.case;
-sub northEastArrow.ss08 by northEastArrow.ss08.case;
-sub rightArrow.ss08 by rightArrow.ss08.case;
-sub southEastArrow.ss08 by southEastArrow.ss08.case;
-sub downArrow.ss08 by downArrow.ss08.case;
-sub southWestArrow.ss08 by southWestArrow.ss08.case;
-sub leftArrow.ss08 by leftArrow.ss08.case;
-sub northWestArrow.ss08 by northWestArrow.ss08.case;
-sub leftRightArrow.ss08 by leftRightArrow.ss08.case;
-sub upDownArrow.ss08 by upDownArrow.ss08.case;
-sub leftHookArrow.ss08 by leftHookArrow.ss08.case;
-sub rightHookArrow.ss08 by rightHookArrow.ss08.case;
-sub upTipLeftArrow.ss08 by upTipLeftArrow.ss08.case;
-sub upTipRightArrow.ss08 by upTipRightArrow.ss08.case;
-sub downTipLeftArrow.ss08 by downTipLeftArrow.ss08.case;
-sub downTipRightArrow.ss08 by downTipRightArrow.ss08.case;
 ";
 tag = case;
 },
@@ -429,6 +409,8 @@ sub exclamdown by exclamdown.ss06;
 sub question by question.ss06;
 sub questiondown by questiondown.ss06;
 sub asterisk by asterisk.ss06;
+sub exclamdown.case by exclamdown.case.ss06;
+sub questiondown.case by questiondown.case.ss06;
 ";
 labels = (
 {
@@ -503,10 +485,12 @@ sub exclamdown by exclamdown.ss07;
 sub question by question.ss07;
 sub questiondown by questiondown.ss07;
 sub periodcentered by periodcentered.ss07;
+sub questiondown.case by questiondown.case.ss07;
 sub exclam.ss06 by exclam.ss06.ss07;
 sub exclamdown.ss06 by exclamdown.ss06.ss07;
 sub question.ss06 by question.ss06.ss07;
 sub questiondown.ss06 by questiondown.ss06.ss07;
+sub questiondown.case.ss06 by questiondown.case.ss06.ss07;
 sub quotesinglbase by quotesinglbase.ss07;
 sub quotedblbase by quotedblbase.ss07;
 sub quotedblleft by quotedblleft.ss07;
@@ -544,6 +528,22 @@ sub upTipLeftArrow by upTipLeftArrow.ss08;
 sub upTipRightArrow by upTipRightArrow.ss08;
 sub downTipLeftArrow by downTipLeftArrow.ss08;
 sub downTipRightArrow by downTipRightArrow.ss08;
+sub upArrow.case by upArrow.case.ss08;
+sub northEastArrow.case by northEastArrow.case.ss08;
+sub rightArrow.case by rightArrow.case.ss08;
+sub southEastArrow.case by southEastArrow.case.ss08;
+sub downArrow.case by downArrow.case.ss08;
+sub southWestArrow.case by southWestArrow.case.ss08;
+sub leftArrow.case by leftArrow.case.ss08;
+sub northWestArrow.case by northWestArrow.case.ss08;
+sub leftRightArrow.case by leftRightArrow.case.ss08;
+sub upDownArrow.case by upDownArrow.case.ss08;
+sub leftHookArrow.case by leftHookArrow.case.ss08;
+sub rightHookArrow.case by rightHookArrow.case.ss08;
+sub upTipLeftArrow.case by upTipLeftArrow.case.ss08;
+sub upTipRightArrow.case by upTipRightArrow.case.ss08;
+sub downTipLeftArrow.case by downTipLeftArrow.case.ss08;
+sub downTipRightArrow.case by downTipRightArrow.case.ss08;
 ";
 labels = (
 {
@@ -70527,8 +70527,8 @@ metricLeft = periodcentered;
 metricRight = periodcentered;
 },
 {
-glyphname = exclamdown.ss06.case;
-lastChange = "2022-10-12 06:30:42 +0000";
+glyphname = exclamdown.case.ss06;
+lastChange = "2022-12-10 14:21:13 +0000";
 layers = (
 {
 layerId = m01;
@@ -70595,8 +70595,8 @@ metricLeft = exclam;
 metricRight = exclam;
 },
 {
-glyphname = questiondown.ss06.case;
-lastChange = "2022-12-03 17:07:51 +0000";
+glyphname = questiondown.case.ss06;
+lastChange = "2022-12-10 14:30:10 +0000";
 layers = (
 {
 layerId = m01;
@@ -70663,8 +70663,8 @@ metricLeft = question;
 metricRight = question;
 },
 {
-glyphname = questiondown.ss07.case;
-lastChange = "2022-12-03 17:07:53 +0000";
+glyphname = questiondown.case.ss07;
+lastChange = "2022-12-10 14:21:24 +0000";
 layers = (
 {
 layerId = m007;
@@ -71395,82 +71395,8 @@ metricLeft = question;
 metricRight = question;
 },
 {
-glyphname = questiondown.ss03.ss07.case;
-lastChange = "2022-12-03 17:07:53 +0000";
-layers = (
-{
-layerId = m007;
-shapes = (
-{
-angle = 180;
-pos = (505,700);
-ref = question.ss06.ss07;
-}
-);
-width = 510;
-},
-{
-layerId = m01;
-shapes = (
-{
-angle = 180;
-pos = (515,700);
-ref = question.ss06.ss07;
-}
-);
-width = 520;
-},
-{
-layerId = m005;
-shapes = (
-{
-angle = 180;
-pos = (565,700);
-ref = question.ss06.ss07;
-}
-);
-width = 570;
-},
-{
-layerId = m004;
-shapes = (
-{
-angle = 180;
-pos = (556,700);
-ref = question.ss06.ss07;
-}
-);
-width = 522;
-},
-{
-layerId = m008;
-shapes = (
-{
-angle = 180;
-pos = (603,700);
-ref = question.ss06.ss07;
-}
-);
-width = 569;
-},
-{
-layerId = m006;
-shapes = (
-{
-angle = 180;
-pos = (545,700);
-ref = question.ss06.ss07;
-}
-);
-width = 511;
-}
-);
-metricLeft = question;
-metricRight = question;
-},
-{
-glyphname = exclamdown.ss06.ss07.case;
-lastChange = "2022-10-12 06:30:42 +0000";
+glyphname = exclamdown.case.ss03.ss07;
+lastChange = "2022-12-10 14:21:40 +0000";
 layers = (
 {
 layerId = m007;
@@ -71541,6 +71467,80 @@ width = 266;
 );
 metricLeft = exclam;
 metricRight = exclam;
+},
+{
+glyphname = questiondown.case.ss06.ss07;
+lastChange = "2022-12-10 14:30:37 +0000";
+layers = (
+{
+layerId = m007;
+shapes = (
+{
+angle = 180;
+pos = (505,700);
+ref = question.ss06.ss07;
+}
+);
+width = 510;
+},
+{
+layerId = m01;
+shapes = (
+{
+angle = 180;
+pos = (515,700);
+ref = question.ss06.ss07;
+}
+);
+width = 520;
+},
+{
+layerId = m005;
+shapes = (
+{
+angle = 180;
+pos = (565,700);
+ref = question.ss06.ss07;
+}
+);
+width = 570;
+},
+{
+layerId = m004;
+shapes = (
+{
+angle = 180;
+pos = (556,700);
+ref = question.ss06.ss07;
+}
+);
+width = 522;
+},
+{
+layerId = m008;
+shapes = (
+{
+angle = 180;
+pos = (603,700);
+ref = question.ss06.ss07;
+}
+);
+width = 569;
+},
+{
+layerId = m006;
+shapes = (
+{
+angle = 180;
+pos = (545,700);
+ref = question.ss06.ss07;
+}
+);
+width = 511;
+}
+);
+metricLeft = question;
+metricRight = question;
 },
 {
 glyphname = hyphen;
@@ -98845,8 +98845,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = upArrow.ss08.case;
-lastChange = "2022-10-12 06:41:17 +0000";
+glyphname = upArrow.case.ss08;
+lastChange = "2022-12-10 14:17:12 +0000";
 layers = (
 {
 layerId = m01;
@@ -98913,8 +98913,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = northEastArrow.ss08.case;
-lastChange = "2022-10-12 06:41:17 +0000";
+glyphname = northEastArrow.case.ss08;
+lastChange = "2022-12-10 14:18:48 +0000";
 layers = (
 {
 layerId = m01;
@@ -98981,8 +98981,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = rightArrow.ss08.case;
-lastChange = "2022-10-12 06:41:17 +0000";
+glyphname = rightArrow.case.ss08;
+lastChange = "2022-12-10 14:18:54 +0000";
 layers = (
 {
 layerId = m01;
@@ -99049,8 +99049,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = southEastArrow.ss08.case;
-lastChange = "2022-10-12 06:41:17 +0000";
+glyphname = southEastArrow.case.ss08;
+lastChange = "2022-12-10 14:19:00 +0000";
 layers = (
 {
 layerId = m01;
@@ -99117,8 +99117,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = downArrow.ss08.case;
-lastChange = "2022-10-12 06:41:17 +0000";
+glyphname = downArrow.case.ss08;
+lastChange = "2022-12-10 14:19:05 +0000";
 layers = (
 {
 layerId = m01;
@@ -99185,8 +99185,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = southWestArrow.ss08.case;
-lastChange = "2022-10-12 06:41:17 +0000";
+glyphname = southWestArrow.case.ss08;
+lastChange = "2022-12-10 14:19:09 +0000";
 layers = (
 {
 layerId = m01;
@@ -99253,8 +99253,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = leftArrow.ss08.case;
-lastChange = "2022-10-12 06:41:17 +0000";
+glyphname = leftArrow.case.ss08;
+lastChange = "2022-12-10 14:19:14 +0000";
 layers = (
 {
 layerId = m01;
@@ -99321,8 +99321,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = northWestArrow.ss08.case;
-lastChange = "2022-10-12 06:41:17 +0000";
+glyphname = northWestArrow.case.ss08;
+lastChange = "2022-12-10 14:19:19 +0000";
 layers = (
 {
 layerId = m01;
@@ -99389,8 +99389,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = leftRightArrow.ss08.case;
-lastChange = "2022-10-12 06:41:17 +0000";
+glyphname = leftRightArrow.case.ss08;
+lastChange = "2022-12-10 14:19:25 +0000";
 layers = (
 {
 layerId = m01;
@@ -99457,8 +99457,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = upDownArrow.ss08.case;
-lastChange = "2022-10-12 06:41:17 +0000";
+glyphname = upDownArrow.case.ss08;
+lastChange = "2022-12-10 14:19:29 +0000";
 layers = (
 {
 layerId = m01;
@@ -99525,8 +99525,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = leftHookArrow.ss08.case;
-lastChange = "2022-12-03 09:57:48 +0000";
+glyphname = leftHookArrow.case.ss08;
+lastChange = "2022-12-10 14:19:34 +0000";
 layers = (
 {
 layerId = m01;
@@ -99593,8 +99593,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = rightHookArrow.ss08.case;
-lastChange = "2022-12-03 09:57:11 +0000";
+glyphname = rightHookArrow.case.ss08;
+lastChange = "2022-12-10 14:19:40 +0000";
 layers = (
 {
 layerId = m01;
@@ -99661,8 +99661,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = upTipLeftArrow.ss08.case;
-lastChange = "2022-10-12 06:41:17 +0000";
+glyphname = upTipLeftArrow.case.ss08;
+lastChange = "2022-12-10 14:19:45 +0000";
 layers = (
 {
 layerId = m01;
@@ -99729,8 +99729,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = upTipRightArrow.ss08.case;
-lastChange = "2022-10-12 06:41:17 +0000";
+glyphname = upTipRightArrow.case.ss08;
+lastChange = "2022-12-10 14:19:49 +0000";
 layers = (
 {
 layerId = m01;
@@ -99797,8 +99797,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = downTipLeftArrow.ss08.case;
-lastChange = "2022-10-12 06:41:17 +0000";
+glyphname = downTipLeftArrow.case.ss08;
+lastChange = "2022-12-10 14:19:56 +0000";
 layers = (
 {
 layerId = m01;
@@ -99865,8 +99865,8 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
-glyphname = downTipRightArrow.ss08.case;
-lastChange = "2022-10-12 06:41:17 +0000";
+glyphname = downTipRightArrow.case.ss08;
+lastChange = "2022-12-10 14:20:02 +0000";
 layers = (
 {
 layerId = m01;
@@ -112358,5 +112358,5 @@ m01 = {
 };
 };
 versionMajor = 1;
-versionMinor = 211;
+versionMinor = 212;
 }
