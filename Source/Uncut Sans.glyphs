@@ -53019,7 +53019,9 @@ metricRight = "=one+90";
 },
 {
 glyphname = two.ss05;
-lastChange = "2023-02-24 16:14:16 +0000";
+kernLeft = two;
+kernRight = two;
+lastChange = "2023-02-25 20:36:23 +0000";
 layers = (
 {
 layerId = m007;
