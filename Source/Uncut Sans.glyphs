@@ -7,14 +7,54 @@ name = Weight;
 tag = wght;
 },
 {
-name = Slant;
-tag = slnt;
+name = Italic;
+tag = ital;
 }
 );
 customParameters = (
 {
-name = "Variable Font Origin";
-value = m01;
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+},
+{
+name = "Axis Mappings";
+value = {
+ital = {
+0 = 0;
+11 = 11;
+};
+wght = {
+300 = 300;
+350 = 350;
+400 = 400;
+500 = 500;
+600 = 600;
+700 = 700;
+};
+};
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1,
+2
+);
+},
+{
+name = codePageRanges;
+value = (
+"1252",
+"1250",
+"1254",
+"1257",
+"bit 29"
+);
 }
 );
 date = "2023-02-25 20:24:56 +0000";
@@ -596,6 +636,10 @@ value = 975;
 {
 name = winDescent;
 value = -275;
+},
+{
+name = typoLineGap;
+value = 0;
 }
 );
 iconName = SemiLight;
@@ -659,6 +703,10 @@ value = 975;
 {
 name = winDescent;
 value = -275;
+},
+{
+name = typoLineGap;
+value = 0;
 }
 );
 id = m01;
@@ -721,6 +769,10 @@ value = 975;
 {
 name = winDescent;
 value = -275;
+},
+{
+name = typoLineGap;
+value = 0;
 }
 );
 iconName = SemiBold;
@@ -782,6 +834,10 @@ value = 975;
 {
 name = winDescent;
 value = -275;
+},
+{
+name = typoLineGap;
+value = 0;
 }
 );
 iconName = SemiLight;
@@ -846,6 +902,10 @@ value = 975;
 {
 name = winDescent;
 value = -275;
+},
+{
+name = typoLineGap;
+value = 0;
 }
 );
 id = m004;
@@ -909,6 +969,10 @@ value = 975;
 {
 name = winDescent;
 value = -275;
+},
+{
+name = typoLineGap;
+value = 0;
 }
 );
 iconName = SemiBold;
@@ -72380,18 +72444,17 @@ metricLeft = question;
 metricRight = question;
 },
 {
-glyphname = exclamdown.case.ss03.ss07;
+glyphname = exclamdown.case.ss06.ss07;
 kernLeft = l;
 kernRight = l;
-lastChange = "2023-01-24 07:42:05 +0000";
+lastChange = "2023-03-09 14:13:59 +0000";
 layers = (
 {
 layerId = m007;
 shapes = (
 {
-pos = (-10,700);
-ref = exclam.ss06.ss07;
-scale = (1,-1);
+pos = (-10,174);
+ref = exclamdown.ss06.ss07;
 }
 );
 width = 266;
@@ -72400,9 +72463,8 @@ width = 266;
 layerId = m01;
 shapes = (
 {
-pos = (-10,700);
-ref = exclam.ss06.ss07;
-scale = (1,-1);
+pos = (-10,174);
+ref = exclamdown.ss06.ss07;
 }
 );
 width = 286;
@@ -72411,9 +72473,8 @@ width = 286;
 layerId = m005;
 shapes = (
 {
-pos = (-10,700);
-ref = exclam.ss06.ss07;
-scale = (1,-1);
+pos = (-10,174);
+ref = exclamdown.ss06.ss07;
 }
 );
 width = 310;
@@ -72422,9 +72483,8 @@ width = 310;
 layerId = m004;
 shapes = (
 {
-angle = 180;
-pos = (345,700);
-ref = exclam.ss06.ss07;
+pos = (24,174);
+ref = exclamdown.ss06.ss07;
 }
 );
 width = 286;
@@ -72433,9 +72493,8 @@ width = 286;
 layerId = m008;
 shapes = (
 {
-angle = 180;
-pos = (369,700);
-ref = exclam.ss06.ss07;
+pos = (24,174);
+ref = exclamdown.ss06.ss07;
 }
 );
 width = 310;
@@ -72444,9 +72503,8 @@ width = 310;
 layerId = m006;
 shapes = (
 {
-angle = 180;
-pos = (325,700);
-ref = exclam.ss06.ss07;
+pos = (24,174);
+ref = exclamdown.ss06.ss07;
 }
 );
 width = 266;
@@ -103708,60 +103766,19 @@ axesValues = (
 400,
 0
 );
-customParameters = (
-{
-name = fsType;
-value = (
-3
-);
-},
-{
-name = fileName;
-value = "Uncut-Sans-Variable";
-}
-);
 instanceInterpolations = {
 m01 = 1;
 };
 name = Regular;
 properties = (
 {
-key = familyNames;
+key = styleNames;
 values = (
 {
 language = dflt;
-value = "Uncut Sans Variable";
+value = Regular;
 }
 );
-},
-{
-key = postscriptFontName;
-value = "Uncut-Sans-Variable";
-},
-{
-key = postscriptFullName;
-value = "Uncut Sans Variable Regular";
-}
-);
-type = variable;
-},
-{
-axesValues = (
-400,
-0
-);
-instanceInterpolations = {
-m01 = 1;
-};
-name = Regular;
-properties = (
-{
-key = postscriptFullName;
-value = "Uncut Sans Regular";
-},
-{
-key = postscriptFontName;
-value = "Uncut-Sans-Regular";
 }
 );
 },
@@ -103774,16 +103791,16 @@ instanceInterpolations = {
 m004 = 1;
 };
 isItalic = 1;
-linkStyle = Regular;
 name = "Regular Italic";
 properties = (
 {
-key = postscriptFontName;
-value = "Uncut-Sans-RegularItalic";
-},
+key = styleNames;
+values = (
 {
-key = postscriptFullName;
-value = "Uncut Sans Regular Italic";
+language = dflt;
+value = "Regular Italic";
+}
+);
 }
 );
 },
@@ -103798,12 +103815,13 @@ m007 = 1;
 name = Light;
 properties = (
 {
-key = postscriptFullName;
-value = "Uncut Sans Light";
-},
+key = styleNames;
+values = (
 {
-key = postscriptFontName;
-value = "Uncut-Sans-Light";
+language = dflt;
+value = Light;
+}
+);
 }
 );
 weightClass = 300;
@@ -103816,17 +103834,16 @@ axesValues = (
 instanceInterpolations = {
 m006 = 1;
 };
-isItalic = 1;
-linkStyle = Light;
 name = "Light Italic";
 properties = (
 {
-key = postscriptFullName;
-value = "Uncut Sans Light Italic";
-},
+key = styleNames;
+values = (
 {
-key = postscriptFontName;
-value = "Uncut-Sans-LightItalic";
+language = dflt;
+value = "Light Italic";
+}
+);
 }
 );
 weightClass = 300;
@@ -103843,12 +103860,13 @@ m01 = 0.5;
 name = Book;
 properties = (
 {
-key = postscriptFullName;
-value = "Uncut Sans Book";
-},
+key = styleNames;
+values = (
 {
-key = postscriptFontName;
-value = "Uncut-Sans-Book";
+language = dflt;
+value = Book;
+}
+);
 }
 );
 weightClass = 350;
@@ -103862,17 +103880,16 @@ instanceInterpolations = {
 m004 = 0.5;
 m006 = 0.5;
 };
-isItalic = 1;
-linkStyle = Book;
 name = "Book Italic";
 properties = (
 {
-key = postscriptFullName;
-value = "Uncut Sans Book Italic";
-},
+key = styleNames;
+values = (
 {
-key = postscriptFontName;
-value = "Uncut-Sans-BookItalic";
+language = dflt;
+value = "Book Italic";
+}
+);
 }
 );
 weightClass = 350;
@@ -103889,12 +103906,13 @@ m01 = 0.66667;
 name = Medium;
 properties = (
 {
-key = postscriptFullName;
-value = "Uncut Sans Medium";
-},
+key = styleNames;
+values = (
 {
-key = postscriptFontName;
-value = "Uncut-Sans-Medium";
+language = dflt;
+value = Medium;
+}
+);
 }
 );
 weightClass = 500;
@@ -103908,17 +103926,16 @@ instanceInterpolations = {
 m004 = 0.66667;
 m008 = 0.33333;
 };
-isItalic = 1;
-linkStyle = Medium;
 name = "Medium Italic";
 properties = (
 {
-key = postscriptFontName;
-value = "Uncut-Sans-MediumItalic";
-},
+key = styleNames;
+values = (
 {
-key = postscriptFullName;
-value = "Uncut Sans Medium Italic";
+language = dflt;
+value = "Medium Italic";
+}
+);
 }
 );
 weightClass = 500;
@@ -103935,12 +103952,13 @@ m01 = 0.33333;
 name = Semibold;
 properties = (
 {
-key = postscriptFullName;
-value = "Uncut Sans Semibold";
-},
+key = styleNames;
+values = (
 {
-key = postscriptFontName;
-value = "Uncut-Sans-Semibold";
+language = dflt;
+value = Semibold;
+}
+);
 }
 );
 weightClass = 600;
@@ -103954,17 +103972,16 @@ instanceInterpolations = {
 m004 = 0.33333;
 m008 = 0.66667;
 };
-isItalic = 1;
-linkStyle = Semibold;
 name = "Semibold Italic";
 properties = (
 {
-key = postscriptFontName;
-value = "Uncut-Sans-SemiboldItalic";
-},
+key = styleNames;
+values = (
 {
-key = postscriptFullName;
-value = "Uncut Sans Semibold Italic";
+language = dflt;
+value = "Semibold Italic";
+}
+);
 }
 );
 weightClass = 600;
@@ -103978,16 +103995,16 @@ instanceInterpolations = {
 m005 = 1;
 };
 isBold = 1;
-linkStyle = Regular;
 name = Bold;
 properties = (
 {
-key = postscriptFontName;
-value = "Uncut-Sans-Bold";
-},
+key = styleNames;
+values = (
 {
-key = postscriptFullName;
-value = "Uncut Sans Bold";
+language = dflt;
+value = Bold;
+}
+);
 }
 );
 weightClass = 700;
@@ -104002,19 +104019,51 @@ m008 = 1;
 };
 isBold = 1;
 isItalic = 1;
-linkStyle = Regular;
 name = "Bold Italic";
 properties = (
 {
-key = postscriptFontName;
-value = "Uncut-Sans-BoldItalic";
-},
+key = styleNames;
+values = (
 {
-key = postscriptFullName;
-value = "Uncut Sans Bold Italic";
+language = dflt;
+value = "Bold Italic";
+}
+);
 }
 );
 weightClass = 700;
+},
+{
+axesValues = (
+300,
+0
+);
+customParameters = (
+{
+name = "Variable Font Origin";
+value = m01;
+}
+);
+instanceInterpolations = {
+m007 = 1;
+};
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Uncut Sans Variable";
+}
+);
+},
+{
+key = postscriptFontName;
+value = "UncutSans-Variable";
+}
+);
+type = variable;
 }
 );
 kerningLTR = {
@@ -112655,14 +112704,6 @@ value = "SIL Open Font License 1.1";
 {
 key = licenseURL;
 value = "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL";
-},
-{
-key = postscriptFullName;
-value = "Uncut Sans";
-},
-{
-key = postscriptFontName;
-value = "Uncut-Sans";
 }
 );
 settings = {
