@@ -542,6 +542,7 @@ sub exclam.ss06 by exclam.ss06.ss07;
 sub exclamdown.ss06 by exclamdown.ss06.ss07;
 sub question.ss06 by question.ss06.ss07;
 sub questiondown.ss06 by questiondown.ss06.ss07;
+sub exclamdown.case.ss06 by exclamdown.case.ss06.ss07;
 sub questiondown.case.ss06 by questiondown.case.ss06.ss07;
 sub quotesinglbase by quotesinglbase.ss07;
 sub quotedblbase by quotedblbase.ss07;
