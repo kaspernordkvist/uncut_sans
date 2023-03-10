@@ -30,8 +30,8 @@ Embed using CDN
 	font-family: "Uncut Sans";
 	font-style: normal;
 	font-weight: 400;
-	src: url("https://cdn.jsdelivr.net/gh/kaspernordkvist/uncut_sans/Webfonts/Uncut-Sans-Regular.woff2") format("woff2"),
-	     url("https://cdn.jsdelivr.net/gh/kaspernordkvist/uncut_sans/Webfonts/Uncut-Sans-Regular.woff") format("woff");
+	src: url("https://cdn.jsdelivr.net/gh/kaspernordkvist/uncut_sans/Webfonts/UncutSans-Regular.woff2") format("woff2"),
+	     url("https://cdn.jsdelivr.net/gh/kaspernordkvist/uncut_sans/Webfonts/UncutSans-Regular.woff") format("woff");
 	font-display: swap
 }
 ```
@@ -39,11 +39,11 @@ Embed using CDN
 Enable OpenType features in CSS
 | Command | Description |
 | --- | --- |
-| Alternate R | `.text { font-feature-settings: "ss01";}` |
-| Alternate Y and y | `.text { font-feature-settings: "ss02";}` |
-| Alernative Q, Ø, and ø | `.text { font-feature-settings: "ss03";}` |
-| Alernative a | `.text { font-feature-settings: "ss04";}` |
-| Alernative 1, 2, and 4 | `.text { font-feature-settings: "ss05";}` |
-| Alternate !, ?, and * | `.text { font-feature-settings: "ss06";}` |
-| Round punctuation | `.text { font-feature-settings: "ss07";}` |
-| Alternate arrows | `.text { font-feature-settings: "ss08";}` |
+| Alternate R | `.text { font-feature-settings: "ss01" on;}` |
+| Alternate Y and y | `.text { font-feature-settings: "ss02" on;}` |
+| Alernative Q, Ø, and ø | `.text { font-feature-settings: "ss03" on;}` |
+| Alernative a | `.text { font-feature-settings: "ss04" on;}` |
+| Alernative 1, 2, and 4 | `.text { font-feature-settings: "ss05" on;}` |
+| Alternate !, ?, and * | `.text { font-feature-settings: "ss06" on;}` |
+| Round punctuation | `.text { font-feature-settings: "ss07" on;}` |
+| Alternate arrows | `.text { font-feature-settings: "ss08" on;}` |
