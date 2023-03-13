@@ -27,7 +27,7 @@ Yet another slightly quirky sans serif, designed with absolutely no investigatio
 **Embed using CDN**
 ```
 <link rel="preconnect" href="https://uncuttype.wtf/">
-<link rel="stylesheet" href="https://uncuttype.wtf/typefaces/uncut-sans/uncutsans.css">
+<link rel="stylesheet" href="https://uncuttype.wtf/typefaces/uncut-sans/uncut-sans.css">
 ```
 
 For static
@@ -57,4 +57,4 @@ Enable OpenType features in CSS
 
 ## Follow along
 
-Want to follow along? Follow Uncut Type on [Instagram](https://www.instagram.com/uncuttype/)
+Want to follow along? Like and subscribe to Uncut Type on [Instagram](https://www.instagram.com/uncuttype/)
