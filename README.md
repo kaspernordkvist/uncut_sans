@@ -1,6 +1,8 @@
 # Uncut Sans
 Yet another slightly quirky sans serif, designed with absolutely no investigation or research into any other typefaces from any specific time period. It tries to capture the essence of nothing, really. There’s no deeper meaning behind the design, but hopefully it’s still interesting enough to be taken into consideration for your next project.
 
+[**Give it a spin**](https://uncuttype.wtf/)
+
 [**Download the latest version here**](https://github.com/kaspernordkvist/uncut_sans/releases/latest)
 
 ------
@@ -50,3 +52,9 @@ Enable OpenType features in CSS
 | Alternate !, ?, and * | `.text { font-feature-settings: "ss06" on;}` |
 | Round punctuation | `.text { font-feature-settings: "ss07" on;}` |
 | Alternate arrows | `.text { font-feature-settings: "ss08" on;}` |
+
+------
+
+## Follow along
+
+Want to follow along? Follow Uncut Type on [Instagram](https://www.instagram.com/uncuttype/)
