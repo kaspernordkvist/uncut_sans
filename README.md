@@ -21,20 +21,23 @@ Yet another slightly quirky sans serif, designed with absolutely no investigatio
 
 [**Download and install the latest version here**](https://github.com/kaspernordkvist/uncut_sans/releases/latest)
 
-Embed using CDN
+
+[**Embed using CDN[**
 ```
-<link rel="preconnect" href="https://cdn.jsdelivr.net/">
+<link rel="preconnect" href="https://uncuttype.wtf/">
+<link rel="stylesheet" href="https://uncuttype.wtf/typefaces/uncut-sans/uncutsans.css">
 ```
+
+For static
 ```
-@font-face {
-	font-family: "Uncut Sans";
-	font-style: normal;
-	font-weight: 400;
-	src: url("https://cdn.jsdelivr.net/gh/kaspernordkvist/uncut_sans/Webfonts/UncutSans-Regular.woff2") format("woff2"),
-	     url("https://cdn.jsdelivr.net/gh/kaspernordkvist/uncut_sans/Webfonts/UncutSans-Regular.woff") format("woff");
-	font-display: swap
-}
+:root { font-family: 'Uncut Sans', sans-serif; }
 ```
+
+For variable
+```
+:root { font-family: 'Uncut Sans Var', sans-serif; }
+```
+
 
 Enable OpenType features in CSS
 | Command | Description |
