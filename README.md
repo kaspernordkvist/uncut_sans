@@ -22,7 +22,7 @@ Yet another slightly quirky sans serif, designed with absolutely no investigatio
 [**Download and install the latest version here**](https://github.com/kaspernordkvist/uncut_sans/releases/latest)
 
 
-[**Embed using CDN[**
+**Embed using CDN**
 ```
 <link rel="preconnect" href="https://uncuttype.wtf/">
 <link rel="stylesheet" href="https://uncuttype.wtf/typefaces/uncut-sans/uncutsans.css">
