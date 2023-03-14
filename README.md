@@ -42,7 +42,7 @@ For variable
 
 
 Enable OpenType features in CSS
-| Command | Description |
+| Feature | CSS |
 | --- | --- |
 | Alternate R | `.text { font-feature-settings: "ss01" on;}` |
 | Alternate Y and y | `.text { font-feature-settings: "ss02" on;}` |
