@@ -1,6 +1,10 @@
 {
 .appVersion = "3151";
 .formatVersion = 3;
+DisplayStrings = (
+"STSTATST g
+AYARORHEHRS"
+);
 axes = (
 {
 name = Weight;
@@ -1039,7 +1043,7 @@ glyphs = (
 glyphname = A;
 kernLeft = A;
 kernRight = A;
-lastChange = "2023-07-26 15:20:02 +0000";
+lastChange = "2023-07-27 14:28:18 +0000";
 layers = (
 {
 layerId = m01;
@@ -3901,7 +3905,7 @@ unicode = 272;
 glyphname = E;
 kernLeft = H;
 kernRight = E;
-lastChange = "2023-03-30 06:18:11 +0000";
+lastChange = "2023-07-27 15:53:18 +0000";
 layers = (
 {
 layerId = m01;
@@ -5789,7 +5793,7 @@ unicode = 7712;
 glyphname = H;
 kernLeft = H;
 kernRight = H;
-lastChange = "2023-07-27 06:25:10 +0000";
+lastChange = "2023-07-27 15:53:27 +0000";
 layers = (
 {
 layerId = m01;
@@ -9282,7 +9286,7 @@ unicode = 330;
 glyphname = O;
 kernLeft = O;
 kernRight = O;
-lastChange = "2023-07-27 06:42:56 +0000";
+lastChange = "2023-07-27 14:35:44 +0000";
 layers = (
 {
 layerId = m01;
@@ -12658,7 +12662,7 @@ unicode = 7838;
 glyphname = T;
 kernLeft = T;
 kernRight = T;
-lastChange = "2023-07-26 15:21:40 +0000";
+lastChange = "2023-07-27 14:26:57 +0000";
 layers = (
 {
 layerId = m01;
@@ -16605,7 +16609,7 @@ metricRight = R;
 glyphname = Y.ss02;
 kernLeft = Yalt;
 kernRight = Yalt;
-lastChange = "2023-07-26 15:08:39 +0000";
+lastChange = "2023-07-27 14:30:14 +0000";
 layers = (
 {
 layerId = m01;
@@ -105966,12 +105970,13 @@ m01 = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
 "@MMK_R_O" = -15;
-"@MMK_R_T" = -80;
+"@MMK_R_S" = -5;
+"@MMK_R_T" = -70;
 "@MMK_R_U" = -10;
 "@MMK_R_V" = -20;
 "@MMK_R_W" = -50;
 "@MMK_R_Y" = -35;
-"@MMK_R_Yalt" = -35;
+"@MMK_R_Yalt" = -45;
 "@MMK_R_a" = -5;
 "@MMK_R_ampersand" = -10;
 "@MMK_R_at" = -10;
@@ -106288,6 +106293,8 @@ m01 = {
 "@MMK_R_z" = -15;
 };
 "@MMK_L_R" = {
+"@MMK_R_A" = -5;
+"@MMK_R_O" = -5;
 "@MMK_R_T" = -30;
 "@MMK_R_U" = -15;
 "@MMK_R_V" = -20;
@@ -106310,11 +106317,11 @@ m01 = {
 "@MMK_R_trademark" = -20;
 };
 "@MMK_L_S" = {
-"@MMK_R_A" = -10;
+"@MMK_R_A" = -5;
 "@MMK_R_H" = -5;
 "@MMK_R_J" = -5;
 "@MMK_R_O" = -5;
-"@MMK_R_T" = -55;
+"@MMK_R_T" = -35;
 "@MMK_R_V" = -20;
 "@MMK_R_X" = -20;
 "@MMK_R_Y" = -20;
@@ -106343,10 +106350,10 @@ m01 = {
 "@MMK_R_z" = -5;
 };
 "@MMK_L_T" = {
-"@MMK_R_A" = -80;
+"@MMK_R_A" = -70;
 "@MMK_R_J" = -120;
 "@MMK_R_O" = -40;
-"@MMK_R_S" = -45;
+"@MMK_R_S" = -25;
 "@MMK_R_T" = 20;
 "@MMK_R_V" = 15;
 "@MMK_R_X" = 10;
@@ -106524,7 +106531,7 @@ m01 = {
 "@MMK_R_zero" = -30;
 };
 "@MMK_L_Yalt" = {
-"@MMK_R_A" = -35;
+"@MMK_R_A" = -45;
 "@MMK_R_J" = -120;
 "@MMK_R_O" = -5;
 "@MMK_R_S" = -15;
