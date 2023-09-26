@@ -643,6 +643,38 @@ value = 235;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptYOffset;
+value = -30;
+},
+{
+name = subscriptXSize;
+value = 586;
+},
+{
+name = subscriptYSize;
+value = 522;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptYOffset;
+value = 364;
+},
+{
+name = superscriptXSize;
+value = 586;
+},
+{
+name = superscriptYSize;
+value = 522;
 }
 );
 iconName = SemiLight;
@@ -710,6 +742,38 @@ value = 235;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptYOffset;
+value = -30;
+},
+{
+name = subscriptXSize;
+value = 586;
+},
+{
+name = subscriptYSize;
+value = 522;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptYOffset;
+value = 364;
+},
+{
+name = superscriptXSize;
+value = 586;
+},
+{
+name = superscriptYSize;
+value = 522;
 }
 );
 id = m01;
@@ -776,6 +840,38 @@ value = 235;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptYOffset;
+value = -30;
+},
+{
+name = subscriptXSize;
+value = 586;
+},
+{
+name = subscriptYSize;
+value = 522;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptYOffset;
+value = 364;
+},
+{
+name = superscriptXSize;
+value = 586;
+},
+{
+name = superscriptYSize;
+value = 522;
 }
 );
 iconName = SemiBold;
@@ -841,6 +937,38 @@ value = 235;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptYOffset;
+value = -30;
+},
+{
+name = subscriptXSize;
+value = 586;
+},
+{
+name = subscriptYSize;
+value = 522;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptYOffset;
+value = 364;
+},
+{
+name = superscriptXSize;
+value = 586;
+},
+{
+name = superscriptYSize;
+value = 522;
 }
 );
 iconName = SemiLight;
@@ -909,6 +1037,38 @@ value = 235;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptYOffset;
+value = -30;
+},
+{
+name = subscriptXSize;
+value = 586;
+},
+{
+name = subscriptYSize;
+value = 522;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptYOffset;
+value = 364;
+},
+{
+name = superscriptXSize;
+value = 586;
+},
+{
+name = superscriptYSize;
+value = 522;
 }
 );
 id = m004;
@@ -976,6 +1136,38 @@ value = 235;
 {
 name = typoLineGap;
 value = 0;
+},
+{
+name = subscriptXOffset;
+value = 0;
+},
+{
+name = subscriptYOffset;
+value = -30;
+},
+{
+name = subscriptXSize;
+value = 586;
+},
+{
+name = subscriptYSize;
+value = 522;
+},
+{
+name = superscriptXOffset;
+value = 0;
+},
+{
+name = superscriptYOffset;
+value = 364;
+},
+{
+name = superscriptXSize;
+value = 586;
+},
+{
+name = superscriptYSize;
+value = 522;
 }
 );
 iconName = SemiBold;
@@ -2928,7 +3120,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (291,200);
+pos = (331,200);
 ref = acute;
 }
 );
@@ -3016,7 +3208,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (144,200);
+pos = (184,200);
 ref = caron;
 }
 );
@@ -3192,7 +3384,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (145,200);
+pos = (185,200);
 ref = circumflex;
 }
 );
@@ -3280,7 +3472,7 @@ shapes = (
 ref = C;
 },
 {
-pos = (249,180);
+pos = (289,180);
 ref = dotaccent;
 }
 );
@@ -11219,15 +11411,15 @@ nodes = (
 (401,0,l),
 (541,0,l),
 (557,162,ls),
-(567,261,o),
-(512,315,o),
+(567,266,o),
+(507,327,o),
 (395,327,c),
 (394,317,l),
-(538,326,o),
-(622,401,o),
+(529,317,o),
+(622,395,o),
 (622,508,cs),
 (622,624,o),
-(523,700,o),
+(524,700,o),
 (373,700,cs),
 (155,700,l),
 (19,0,l)
@@ -11894,7 +12086,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (253,200);
+pos = (273,200);
 ref = acute;
 }
 );
@@ -11982,7 +12174,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (106,200);
+pos = (126,200);
 ref = caron;
 }
 );
@@ -12158,7 +12350,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (106,200);
+pos = (126,200);
 ref = circumflex;
 }
 );
@@ -103538,6 +103730,12 @@ axesValues = (
 400,
 0
 );
+customParameters = (
+{
+name = "Name Table Entry";
+value = "6; UncutSans-Rg";
+}
+);
 instanceInterpolations = {
 m01 = 1;
 };
@@ -103567,6 +103765,10 @@ value = "Uncut Sans Regular";
 {
 name = WWSSubfamilyName;
 value = Italic;
+},
+{
+name = "Name Table Entry";
+value = "6; UncutSans-RgIt";
 }
 );
 instanceInterpolations = {
@@ -103599,6 +103801,10 @@ value = "Uncut Sans Light";
 {
 name = WWSSubfamilyName;
 value = Regular;
+},
+{
+name = "Name Table Entry";
+value = "6; UncutSans-Lt";
 }
 );
 instanceInterpolations = {
@@ -103631,6 +103837,10 @@ value = "Uncut Sans Light";
 {
 name = WWSSubfamilyName;
 value = Italic;
+},
+{
+name = "Name Table Entry";
+value = "6; UncutSans-LtIt";
 }
 );
 instanceInterpolations = {
@@ -103663,6 +103873,10 @@ value = "Uncut Sans Book";
 {
 name = WWSSubfamilyName;
 value = Regular;
+},
+{
+name = "Name Table Entry";
+value = "6; UncutSans-Bk";
 }
 );
 instanceInterpolations = {
@@ -103696,6 +103910,10 @@ value = "Uncut Sans Book";
 {
 name = WWSSubfamilyName;
 value = Italic;
+},
+{
+name = "Name Table Entry";
+value = "6; UncutSans-BkIt";
 }
 );
 instanceInterpolations = {
@@ -103729,6 +103947,10 @@ value = "Uncut Sans Medium";
 {
 name = WWSSubfamilyName;
 value = Regular;
+},
+{
+name = "Name Table Entry";
+value = "6; UncutSans-Md";
 }
 );
 instanceInterpolations = {
@@ -103762,6 +103984,10 @@ value = "Uncut Sans Medium";
 {
 name = WWSSubfamilyName;
 value = Italic;
+},
+{
+name = "Name Table Entry";
+value = "6; UncutSans-MdIt";
 }
 );
 instanceInterpolations = {
@@ -103795,6 +104021,10 @@ value = "Uncut Sans Semibold";
 {
 name = WWSSubfamilyName;
 value = Regular;
+},
+{
+name = "Name Table Entry";
+value = "6; UncutSans-SmBd";
 }
 );
 instanceInterpolations = {
@@ -103828,6 +104058,10 @@ value = "Uncut Sans Semibold";
 {
 name = WWSSubfamilyName;
 value = Italic;
+},
+{
+name = "Name Table Entry";
+value = "6; UncutSans-SmBdIt";
 }
 );
 instanceInterpolations = {
@@ -103853,6 +104087,12 @@ axesValues = (
 700,
 0
 );
+customParameters = (
+{
+name = "Name Table Entry";
+value = "6; UncutSans-Bd";
+}
+);
 instanceInterpolations = {
 m005 = 1;
 };
@@ -103875,6 +104115,12 @@ weightClass = 700;
 axesValues = (
 700,
 11
+);
+customParameters = (
+{
+name = "Name Table Entry";
+value = "6; UncutSans-BdIt";
+}
 );
 instanceInterpolations = {
 m008 = 1;
