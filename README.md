@@ -23,24 +23,6 @@ Originally designed for [UNCUT.wtf](https://uncut.wtf/), Uncut Sans is yet anoth
 
 [**Download and install the latest version here**](https://github.com/kaspernordkvist/uncut_sans/releases/latest)
 
-
-**Embed using CDN**
-```
-<link rel="preconnect" href="https://uncuttype.wtf/">
-<link rel="stylesheet" href="https://uncuttype.wtf/typefaces/uncut-sans/uncut-sans.css">
-```
-
-For static
-```
-:root { font-family: 'Uncut Sans', sans-serif; }
-```
-
-For variable
-```
-:root { font-family: 'Uncut Sans Var', sans-serif; }
-```
-
-
 Enable OpenType features in CSS
 | Feature | CSS |
 | --- | --- |
