@@ -1218,6 +1218,7 @@ GSOffsetVertical = 8;
 );
 glyphs = (
 {
+color = 4;
 glyphname = A;
 kernLeft = A;
 kernRight = A;
@@ -1478,6 +1479,7 @@ width = 621;
 unicode = 65;
 },
 {
+color = 4;
 glyphname = Aacute;
 kernLeft = A;
 kernRight = A;
@@ -1566,6 +1568,7 @@ metricRight = A;
 unicode = 193;
 },
 {
+color = 4;
 glyphname = Abreve;
 kernLeft = A;
 kernRight = A;
@@ -1654,6 +1657,7 @@ metricRight = A;
 unicode = 258;
 },
 {
+color = 4;
 glyphname = Acircumflex;
 kernLeft = A;
 kernRight = A;
@@ -1742,6 +1746,7 @@ metricRight = A;
 unicode = 194;
 },
 {
+color = 4;
 glyphname = Adieresis;
 layers = (
 {
@@ -1826,6 +1831,7 @@ width = 701;
 unicode = 196;
 },
 {
+color = 4;
 glyphname = Agrave;
 kernLeft = A;
 kernRight = A;
@@ -1914,6 +1920,7 @@ metricRight = A;
 unicode = 192;
 },
 {
+color = 4;
 glyphname = Amacron;
 kernLeft = A;
 kernRight = A;
@@ -2002,6 +2009,7 @@ metricRight = A;
 unicode = 256;
 },
 {
+color = 4;
 glyphname = Aogonek;
 kernLeft = A;
 kernRight = A;
@@ -2090,6 +2098,7 @@ metricRight = "=A-60";
 unicode = 260;
 },
 {
+color = 4;
 glyphname = Aring;
 kernLeft = A;
 kernRight = A;
@@ -2178,6 +2187,7 @@ metricRight = A;
 unicode = 197;
 },
 {
+color = 4;
 glyphname = Atilde;
 kernLeft = A;
 kernRight = A;
@@ -2266,6 +2276,7 @@ metricRight = A;
 unicode = 195;
 },
 {
+color = 4;
 glyphname = AE;
 kernLeft = A;
 kernRight = E;
@@ -2324,7 +2335,7 @@ pos = (445,0);
 },
 {
 name = top;
-pos = (445,700);
+pos = (356,700);
 }
 );
 layerId = m005;
@@ -2370,7 +2381,7 @@ pos = (423,0);
 },
 {
 name = top;
-pos = (423,700);
+pos = (313,700);
 }
 );
 layerId = m007;
@@ -2416,7 +2427,7 @@ pos = (367,0);
 },
 {
 name = top;
-pos = (503,700);
+pos = (412,700);
 }
 );
 layerId = m004;
@@ -2462,7 +2473,7 @@ pos = (386,0);
 },
 {
 name = top;
-pos = (522,700);
+pos = (451,700);
 }
 );
 layerId = m008;
@@ -2508,7 +2519,7 @@ pos = (365,0);
 },
 {
 name = top;
-pos = (501,700);
+pos = (407,700);
 }
 );
 layerId = m006;
@@ -2552,6 +2563,7 @@ metricRight = E;
 unicode = 198;
 },
 {
+color = 4;
 glyphname = AEacute;
 kernLeft = A;
 kernRight = E;
@@ -2576,7 +2588,7 @@ shapes = (
 ref = AE;
 },
 {
-pos = (348,200);
+pos = (259,200);
 ref = acutecomb;
 }
 );
@@ -2589,7 +2601,7 @@ shapes = (
 ref = AE;
 },
 {
-pos = (363,200);
+pos = (253,200);
 ref = acutecomb;
 }
 );
@@ -2602,7 +2614,7 @@ shapes = (
 ref = AE;
 },
 {
-pos = (378,200);
+pos = (287,200);
 ref = acutecomb;
 }
 );
@@ -2615,7 +2627,7 @@ shapes = (
 ref = AE;
 },
 {
-pos = (384,200);
+pos = (313,200);
 ref = acutecomb;
 }
 );
@@ -2628,7 +2640,7 @@ shapes = (
 ref = AE;
 },
 {
-pos = (393,200);
+pos = (299,200);
 ref = acutecomb;
 }
 );
@@ -2640,6 +2652,7 @@ metricRight = E;
 unicode = 508;
 },
 {
+color = 4;
 glyphname = B;
 kernLeft = H;
 kernRight = B;
@@ -3063,6 +3076,7 @@ metricLeft = H;
 unicode = 66;
 },
 {
+color = 4;
 glyphname = C;
 kernLeft = O;
 kernRight = O;
@@ -3355,6 +3369,7 @@ metricRight = "=O*1.2";
 unicode = 67;
 },
 {
+color = 4;
 glyphname = Cacute;
 kernLeft = O;
 kernRight = O;
@@ -3443,6 +3458,7 @@ metricRight = C;
 unicode = 262;
 },
 {
+color = 4;
 glyphname = Ccaron;
 kernLeft = O;
 kernRight = O;
@@ -3531,6 +3547,7 @@ metricRight = C;
 unicode = 268;
 },
 {
+color = 4;
 glyphname = Ccedilla;
 kernLeft = O;
 kernRight = O;
@@ -3619,6 +3636,7 @@ metricRight = C;
 unicode = 199;
 },
 {
+color = 4;
 glyphname = Ccircumflex;
 kernLeft = O;
 kernRight = O;
@@ -3707,6 +3725,7 @@ metricRight = C;
 unicode = 264;
 },
 {
+color = 4;
 glyphname = Cdotaccent;
 kernLeft = O;
 kernRight = O;
@@ -3795,6 +3814,7 @@ metricRight = C;
 unicode = 266;
 },
 {
+color = 4;
 glyphname = D;
 kernLeft = H;
 kernRight = O;
@@ -4093,6 +4113,7 @@ metricRight = "=O";
 unicode = 68;
 },
 {
+color = 4;
 glyphname = Eth;
 kernLeft = H;
 kernRight = O;
@@ -4211,6 +4232,7 @@ metricWidth = "=D";
 unicode = 208;
 },
 {
+color = 4;
 glyphname = Dcaron;
 kernLeft = H;
 kernRight = O;
@@ -4299,6 +4321,7 @@ metricRight = D;
 unicode = 270;
 },
 {
+color = 4;
 glyphname = Dcroat;
 kernLeft = H;
 kernRight = O;
@@ -4417,6 +4440,7 @@ metricWidth = "=D";
 unicode = 272;
 },
 {
+color = 4;
 glyphname = E;
 kernLeft = H;
 kernRight = E;
@@ -4672,6 +4696,7 @@ metricLeft = H;
 unicode = 69;
 },
 {
+color = 4;
 glyphname = Eacute;
 kernLeft = H;
 kernRight = E;
@@ -4760,6 +4785,7 @@ metricRight = E;
 unicode = 201;
 },
 {
+color = 4;
 glyphname = Ebreve;
 kernLeft = H;
 kernRight = E;
@@ -4848,6 +4874,7 @@ metricRight = E;
 unicode = 276;
 },
 {
+color = 4;
 glyphname = Ecaron;
 kernLeft = H;
 kernRight = E;
@@ -4936,6 +4963,7 @@ metricRight = E;
 unicode = 282;
 },
 {
+color = 4;
 glyphname = Ecircumflex;
 kernLeft = H;
 kernRight = E;
@@ -5024,6 +5052,7 @@ metricRight = E;
 unicode = 202;
 },
 {
+color = 4;
 glyphname = Edieresis;
 kernLeft = H;
 kernRight = E;
@@ -5112,6 +5141,7 @@ metricRight = E;
 unicode = 203;
 },
 {
+color = 4;
 glyphname = Edotaccent;
 kernLeft = H;
 kernRight = E;
@@ -5200,6 +5230,7 @@ metricRight = E;
 unicode = 278;
 },
 {
+color = 4;
 glyphname = Egrave;
 kernLeft = H;
 kernRight = E;
@@ -5288,6 +5319,7 @@ metricRight = E;
 unicode = 200;
 },
 {
+color = 4;
 glyphname = Emacron;
 kernLeft = H;
 kernRight = E;
@@ -5376,6 +5408,7 @@ metricRight = E;
 unicode = 274;
 },
 {
+color = 4;
 glyphname = Eogonek;
 kernLeft = H;
 kernRight = E;
@@ -5500,6 +5533,7 @@ metricRight = "=E-10";
 unicode = 280;
 },
 {
+color = 4;
 glyphname = Etilde;
 kernLeft = H;
 kernRight = E;
@@ -5588,6 +5622,7 @@ metricRight = E;
 unicode = 7868;
 },
 {
+color = 4;
 glyphname = F;
 kernLeft = H;
 kernRight = F;
@@ -5783,6 +5818,7 @@ metricLeft = H;
 unicode = 70;
 },
 {
+color = 4;
 glyphname = G;
 kernLeft = O;
 kernRight = G;
@@ -6111,6 +6147,7 @@ metricRight = "=H*.95";
 unicode = 71;
 },
 {
+color = 4;
 glyphname = Gbreve;
 kernLeft = O;
 kernRight = G;
@@ -6199,6 +6236,7 @@ metricRight = G;
 unicode = 286;
 },
 {
+color = 4;
 glyphname = Gcircumflex;
 kernLeft = O;
 kernRight = G;
@@ -6287,6 +6325,7 @@ metricRight = G;
 unicode = 284;
 },
 {
+color = 4;
 glyphname = Gcommaaccent;
 kernLeft = O;
 kernRight = G;
@@ -6375,6 +6414,7 @@ metricRight = G;
 unicode = 290;
 },
 {
+color = 4;
 glyphname = Gdotaccent;
 kernLeft = O;
 kernRight = G;
@@ -6463,6 +6503,7 @@ metricRight = G;
 unicode = 288;
 },
 {
+color = 4;
 glyphname = Gmacron;
 kernLeft = O;
 kernRight = G;
@@ -6551,6 +6592,7 @@ metricRight = G;
 unicode = 7712;
 },
 {
+color = 4;
 glyphname = H;
 kernLeft = H;
 kernRight = H;
@@ -6805,6 +6847,7 @@ width = 664;
 unicode = 72;
 },
 {
+color = 4;
 glyphname = Hbar;
 kernLeft = H;
 kernRight = H;
@@ -6929,6 +6972,7 @@ metricRight = "=H-65";
 unicode = 294;
 },
 {
+color = 4;
 glyphname = Hcircumflex;
 kernLeft = H;
 kernRight = H;
@@ -7017,6 +7061,7 @@ metricRight = H;
 unicode = 292;
 },
 {
+color = 4;
 glyphname = I;
 kernLeft = H;
 kernRight = H;
@@ -7225,6 +7270,7 @@ metricRight = H;
 unicode = 73;
 },
 {
+color = 4;
 glyphname = IJ;
 kernLeft = H;
 kernRight = U;
@@ -7313,6 +7359,7 @@ metricRight = J;
 unicode = 306;
 },
 {
+color = 4;
 glyphname = Iacute;
 kernLeft = H;
 kernRight = H;
@@ -7401,6 +7448,7 @@ metricRight = "=I-90";
 unicode = 205;
 },
 {
+color = 4;
 glyphname = Ibreve;
 kernLeft = H;
 kernRight = H;
@@ -7489,6 +7537,7 @@ metricRight = "=I-80";
 unicode = 300;
 },
 {
+color = 4;
 glyphname = Icircumflex;
 kernLeft = H;
 kernRight = H;
@@ -7577,6 +7626,7 @@ metricRight = "=I-90";
 unicode = 206;
 },
 {
+color = 4;
 glyphname = Idieresis;
 kernLeft = H;
 kernRight = H;
@@ -7665,6 +7715,7 @@ metricRight = "=I-85";
 unicode = 207;
 },
 {
+color = 4;
 glyphname = Idotaccent;
 kernLeft = H;
 kernRight = H;
@@ -7753,6 +7804,7 @@ metricRight = I;
 unicode = 304;
 },
 {
+color = 4;
 glyphname = Igrave;
 kernLeft = H;
 kernRight = H;
@@ -7841,6 +7893,7 @@ metricRight = I;
 unicode = 204;
 },
 {
+color = 4;
 glyphname = Imacron;
 kernLeft = H;
 kernRight = H;
@@ -7929,6 +7982,7 @@ metricRight = "=I-100";
 unicode = 298;
 },
 {
+color = 4;
 glyphname = Iogonek;
 kernLeft = H;
 kernRight = H;
@@ -8017,6 +8071,7 @@ metricRight = "=I-40";
 unicode = 302;
 },
 {
+color = 4;
 glyphname = Itilde;
 kernLeft = H;
 kernRight = H;
@@ -8105,6 +8160,7 @@ metricRight = "=I-120";
 unicode = 296;
 },
 {
+color = 4;
 glyphname = J;
 kernLeft = J;
 kernRight = U;
@@ -8347,6 +8403,7 @@ width = 538;
 unicode = 74;
 },
 {
+color = 4;
 glyphname = Jacute;
 kernLeft = J;
 kernRight = U;
@@ -8434,6 +8491,7 @@ metricLeft = J;
 metricRight = "=J-90";
 },
 {
+color = 4;
 glyphname = Jcircumflex;
 kernLeft = J;
 kernRight = U;
@@ -8522,6 +8580,7 @@ metricRight = "=J-90";
 unicode = 308;
 },
 {
+color = 4;
 glyphname = K;
 kernLeft = H;
 kernRight = K;
@@ -8789,6 +8848,7 @@ metricLeft = H;
 unicode = 75;
 },
 {
+color = 4;
 glyphname = Kcommaaccent;
 kernLeft = H;
 kernRight = K;
@@ -8877,6 +8937,7 @@ metricRight = K;
 unicode = 310;
 },
 {
+color = 4;
 glyphname = L;
 kernLeft = H;
 kernRight = L;
@@ -9096,6 +9157,7 @@ metricLeft = H;
 unicode = 76;
 },
 {
+color = 4;
 glyphname = Lacute;
 kernLeft = H;
 kernRight = L;
@@ -9184,6 +9246,7 @@ metricRight = L;
 unicode = 313;
 },
 {
+color = 4;
 glyphname = Lcaron;
 kernLeft = H;
 kernRight = L;
@@ -9272,6 +9335,7 @@ metricRight = L;
 unicode = 317;
 },
 {
+color = 4;
 glyphname = Lcommaaccent;
 kernLeft = H;
 kernRight = L;
@@ -9358,6 +9422,7 @@ width = 499;
 unicode = 315;
 },
 {
+color = 4;
 glyphname = Ldot;
 kernLeft = H;
 kernRight = L;
@@ -9446,6 +9511,7 @@ metricRight = L;
 unicode = 319;
 },
 {
+color = 4;
 glyphname = Lslash;
 kernLeft = Lslash;
 kernRight = L;
@@ -9564,6 +9630,7 @@ metricWidth = "=L";
 unicode = 321;
 },
 {
+color = 4;
 glyphname = M;
 kernLeft = H;
 kernRight = H;
@@ -9796,6 +9863,7 @@ metricRight = H;
 unicode = 77;
 },
 {
+color = 4;
 glyphname = N;
 kernLeft = H;
 kernRight = H;
@@ -10004,6 +10072,7 @@ metricRight = H;
 unicode = 78;
 },
 {
+color = 4;
 glyphname = Nacute;
 kernLeft = H;
 kernRight = H;
@@ -10092,6 +10161,7 @@ metricRight = N;
 unicode = 323;
 },
 {
+color = 4;
 glyphname = Ncaron;
 kernLeft = H;
 kernRight = H;
@@ -10180,6 +10250,7 @@ metricRight = N;
 unicode = 327;
 },
 {
+color = 4;
 glyphname = Ncommaaccent;
 kernLeft = H;
 kernRight = H;
@@ -10268,6 +10339,7 @@ metricRight = N;
 unicode = 325;
 },
 {
+color = 4;
 glyphname = Ntilde;
 kernLeft = H;
 kernRight = H;
@@ -10356,6 +10428,7 @@ metricRight = N;
 unicode = 209;
 },
 {
+color = 4;
 glyphname = Eng;
 kernLeft = H;
 kernRight = H;
@@ -10582,6 +10655,7 @@ metricRight = H;
 unicode = 330;
 },
 {
+color = 4;
 glyphname = O;
 kernLeft = O;
 kernRight = O;
@@ -10986,6 +11060,7 @@ width = 749;
 unicode = 79;
 },
 {
+color = 4;
 glyphname = Oacute;
 kernLeft = O;
 kernRight = O;
@@ -11074,6 +11149,7 @@ metricRight = O;
 unicode = 211;
 },
 {
+color = 4;
 glyphname = Obreve;
 kernLeft = O;
 kernRight = O;
@@ -11162,6 +11238,7 @@ metricRight = O;
 unicode = 334;
 },
 {
+color = 4;
 glyphname = Ocircumflex;
 kernLeft = O;
 kernRight = O;
@@ -11250,6 +11327,7 @@ metricRight = O;
 unicode = 212;
 },
 {
+color = 4;
 glyphname = Odieresis;
 kernLeft = O;
 kernRight = O;
@@ -11338,6 +11416,7 @@ metricRight = O;
 unicode = 214;
 },
 {
+color = 4;
 glyphname = Ograve;
 kernLeft = O;
 kernRight = O;
@@ -11426,6 +11505,7 @@ metricRight = O;
 unicode = 210;
 },
 {
+color = 4;
 glyphname = Ohungarumlaut;
 kernLeft = O;
 kernRight = O;
@@ -11437,7 +11517,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (124,200);
+pos = (249,200);
 ref = hungarumlautcomb;
 }
 );
@@ -11450,7 +11530,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (102,200);
+pos = (233,200);
 ref = hungarumlautcomb;
 }
 );
@@ -11463,7 +11543,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (153,200);
+pos = (252,200);
 ref = hungarumlautcomb;
 }
 );
@@ -11476,7 +11556,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (165,200);
+pos = (268,200);
 ref = hungarumlautcomb;
 }
 );
@@ -11489,7 +11569,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (160,200);
+pos = (261,200);
 ref = hungarumlautcomb;
 }
 );
@@ -11502,7 +11582,7 @@ shapes = (
 ref = O;
 },
 {
-pos = (194,200);
+pos = (283,200);
 ref = hungarumlautcomb;
 }
 );
@@ -11514,6 +11594,7 @@ metricRight = O;
 unicode = 336;
 },
 {
+color = 4;
 glyphname = Omacron;
 kernLeft = O;
 kernRight = O;
@@ -11602,6 +11683,7 @@ metricRight = O;
 unicode = 332;
 },
 {
+color = 4;
 glyphname = Oslash;
 kernLeft = O;
 kernRight = O;
@@ -11786,6 +11868,7 @@ metricRight = "=O*.7";
 unicode = 216;
 },
 {
+color = 4;
 glyphname = Oslashacute;
 kernLeft = O;
 kernRight = O;
@@ -11874,6 +11957,7 @@ metricRight = Oslash;
 unicode = 510;
 },
 {
+color = 4;
 glyphname = Otilde;
 kernLeft = O;
 kernRight = O;
@@ -11962,6 +12046,7 @@ metricRight = O;
 unicode = 213;
 },
 {
+color = 4;
 glyphname = OE;
 kernLeft = O;
 kernRight = E;
@@ -12374,6 +12459,7 @@ metricRight = E;
 unicode = 338;
 },
 {
+color = 4;
 glyphname = P;
 kernLeft = H;
 kernRight = P;
@@ -12659,6 +12745,7 @@ metricLeft = H;
 unicode = 80;
 },
 {
+color = 4;
 glyphname = Thorn;
 kernLeft = H;
 kernRight = o;
@@ -12957,6 +13044,7 @@ metricRight = B;
 unicode = 222;
 },
 {
+color = 4;
 glyphname = Q;
 kernLeft = O;
 kernRight = O;
@@ -13135,6 +13223,7 @@ metricRight = "=O*.9";
 unicode = 81;
 },
 {
+color = 4;
 glyphname = R;
 kernLeft = H;
 kernRight = R;
@@ -13480,6 +13569,7 @@ metricLeft = H;
 unicode = 82;
 },
 {
+color = 4;
 glyphname = Racute;
 kernLeft = H;
 kernRight = R;
@@ -13568,6 +13658,7 @@ metricRight = R;
 unicode = 340;
 },
 {
+color = 4;
 glyphname = Rcaron;
 kernLeft = H;
 kernRight = R;
@@ -13656,6 +13747,7 @@ metricRight = R;
 unicode = 344;
 },
 {
+color = 4;
 glyphname = Rcommaaccent;
 kernLeft = H;
 kernRight = R;
@@ -13744,6 +13836,7 @@ metricRight = R;
 unicode = 342;
 },
 {
+color = 4;
 glyphname = S;
 kernLeft = S;
 kernRight = S;
@@ -14070,6 +14163,7 @@ width = 577;
 unicode = 83;
 },
 {
+color = 4;
 glyphname = Sacute;
 kernLeft = S;
 kernRight = S;
@@ -14158,6 +14252,7 @@ metricRight = S;
 unicode = 346;
 },
 {
+color = 4;
 glyphname = Scaron;
 kernLeft = S;
 kernRight = S;
@@ -14246,6 +14341,7 @@ metricRight = S;
 unicode = 352;
 },
 {
+color = 4;
 glyphname = Scedilla;
 kernLeft = S;
 kernRight = S;
@@ -14334,6 +14430,7 @@ metricRight = S;
 unicode = 350;
 },
 {
+color = 4;
 glyphname = Scircumflex;
 kernLeft = S;
 kernRight = S;
@@ -14422,6 +14519,7 @@ metricRight = S;
 unicode = 348;
 },
 {
+color = 4;
 glyphname = Scommaaccent;
 kernLeft = S;
 kernRight = S;
@@ -14510,6 +14608,7 @@ metricRight = S;
 unicode = 536;
 },
 {
+color = 4;
 glyphname = Germandbls;
 kernLeft = H;
 kernRight = B;
@@ -14832,6 +14931,7 @@ metricRight = "=B*1.1";
 unicode = 7838;
 },
 {
+color = 4;
 glyphname = T;
 kernLeft = T;
 kernRight = T;
@@ -15038,6 +15138,7 @@ width = 602;
 unicode = 84;
 },
 {
+color = 4;
 glyphname = Tbar;
 kernLeft = T;
 kernRight = T;
@@ -15156,6 +15257,7 @@ metricRight = T;
 unicode = 358;
 },
 {
+color = 4;
 glyphname = Tcaron;
 kernLeft = T;
 kernRight = T;
@@ -15244,6 +15346,7 @@ metricRight = T;
 unicode = 356;
 },
 {
+color = 4;
 glyphname = Tcedilla;
 kernLeft = T;
 kernRight = T;
@@ -15332,6 +15435,7 @@ metricRight = T;
 unicode = 354;
 },
 {
+color = 4;
 glyphname = Tcommaaccent;
 kernLeft = T;
 kernRight = T;
@@ -15420,6 +15524,7 @@ metricRight = T;
 unicode = 538;
 },
 {
+color = 4;
 glyphname = U;
 kernLeft = U;
 kernRight = U;
@@ -15710,6 +15815,7 @@ width = 629;
 unicode = 85;
 },
 {
+color = 4;
 glyphname = Uacute;
 kernLeft = U;
 kernRight = U;
@@ -15798,6 +15904,7 @@ metricRight = U;
 unicode = 218;
 },
 {
+color = 4;
 glyphname = Ubreve;
 kernLeft = U;
 kernRight = U;
@@ -15886,6 +15993,7 @@ metricRight = U;
 unicode = 364;
 },
 {
+color = 4;
 glyphname = Ucircumflex;
 kernLeft = U;
 kernRight = U;
@@ -15974,6 +16082,7 @@ metricRight = U;
 unicode = 219;
 },
 {
+color = 4;
 glyphname = Udieresis;
 kernLeft = U;
 kernRight = U;
@@ -16062,6 +16171,7 @@ metricRight = U;
 unicode = 220;
 },
 {
+color = 4;
 glyphname = Ugrave;
 kernLeft = U;
 kernRight = U;
@@ -16150,6 +16260,7 @@ metricRight = U;
 unicode = 217;
 },
 {
+color = 4;
 glyphname = Uhungarumlaut;
 kernLeft = U;
 kernRight = U;
@@ -16161,7 +16272,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (65,200);
+pos = (190,200);
 ref = hungarumlautcomb;
 }
 );
@@ -16174,7 +16285,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (40,200);
+pos = (171,200);
 ref = hungarumlautcomb;
 }
 );
@@ -16187,7 +16298,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (95,200);
+pos = (194,200);
 ref = hungarumlautcomb;
 }
 );
@@ -16200,7 +16311,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (104,200);
+pos = (207,200);
 ref = hungarumlautcomb;
 }
 );
@@ -16213,7 +16324,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (94,200);
+pos = (195,200);
 ref = hungarumlautcomb;
 }
 );
@@ -16226,7 +16337,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (134,200);
+pos = (223,200);
 ref = hungarumlautcomb;
 }
 );
@@ -16238,6 +16349,7 @@ metricRight = U;
 unicode = 368;
 },
 {
+color = 4;
 glyphname = Umacron;
 kernLeft = U;
 kernRight = U;
@@ -16326,6 +16438,7 @@ metricRight = U;
 unicode = 362;
 },
 {
+color = 4;
 glyphname = Uogonek;
 kernLeft = U;
 kernRight = U;
@@ -16414,6 +16527,7 @@ metricRight = U;
 unicode = 370;
 },
 {
+color = 4;
 glyphname = Uring;
 kernLeft = U;
 kernRight = U;
@@ -16502,6 +16616,7 @@ metricRight = U;
 unicode = 366;
 },
 {
+color = 4;
 glyphname = Utilde;
 kernLeft = U;
 kernRight = U;
@@ -16590,6 +16705,7 @@ metricRight = U;
 unicode = 360;
 },
 {
+color = 4;
 glyphname = V;
 kernLeft = V;
 kernRight = V;
@@ -16772,6 +16888,7 @@ width = 556;
 unicode = 86;
 },
 {
+color = 4;
 glyphname = W;
 kernLeft = V;
 kernRight = V;
@@ -17004,6 +17121,7 @@ metricRight = "=V*3";
 unicode = 87;
 },
 {
+color = 4;
 glyphname = Wacute;
 kernLeft = W;
 kernRight = W;
@@ -17092,6 +17210,7 @@ metricRight = W;
 unicode = 7810;
 },
 {
+color = 4;
 glyphname = Wcircumflex;
 kernLeft = W;
 kernRight = W;
@@ -17180,6 +17299,7 @@ metricRight = W;
 unicode = 372;
 },
 {
+color = 4;
 glyphname = Wdieresis;
 kernLeft = W;
 kernRight = W;
@@ -17268,6 +17388,7 @@ metricRight = W;
 unicode = 7812;
 },
 {
+color = 4;
 glyphname = Wgrave;
 kernLeft = W;
 kernRight = W;
@@ -17356,6 +17477,7 @@ metricRight = W;
 unicode = 7808;
 },
 {
+color = 4;
 glyphname = X;
 kernLeft = X;
 kernRight = X;
@@ -17570,6 +17692,7 @@ metricRight = "=V*2.5";
 unicode = 88;
 },
 {
+color = 4;
 glyphname = Y;
 kernLeft = Y;
 kernRight = Y;
@@ -17808,6 +17931,7 @@ metricRight = "=V*2";
 unicode = 89;
 },
 {
+color = 4;
 glyphname = Yacute;
 kernLeft = Y;
 kernRight = Y;
@@ -17896,6 +18020,7 @@ metricRight = Y;
 unicode = 221;
 },
 {
+color = 4;
 glyphname = Ycircumflex;
 kernLeft = Y;
 kernRight = Y;
@@ -17984,6 +18109,7 @@ metricRight = Y;
 unicode = 374;
 },
 {
+color = 4;
 glyphname = Ydieresis;
 kernLeft = Y;
 kernRight = Y;
@@ -18072,6 +18198,7 @@ metricRight = Y;
 unicode = 376;
 },
 {
+color = 4;
 glyphname = Ygrave;
 kernLeft = Y;
 kernRight = Y;
@@ -18160,6 +18287,7 @@ metricRight = Y;
 unicode = 7922;
 },
 {
+color = 4;
 glyphname = Ytilde;
 kernLeft = Y;
 kernRight = Y;
@@ -18248,6 +18376,7 @@ metricRight = Y;
 unicode = 7928;
 },
 {
+color = 4;
 glyphname = Z;
 kernLeft = Z;
 kernRight = Z;
@@ -18478,6 +18607,7 @@ width = 585;
 unicode = 90;
 },
 {
+color = 4;
 glyphname = Zacute;
 kernLeft = Z;
 kernRight = Z;
@@ -18566,6 +18696,7 @@ metricRight = Z;
 unicode = 377;
 },
 {
+color = 4;
 glyphname = Zcaron;
 kernLeft = Z;
 kernRight = Z;
@@ -18654,6 +18785,7 @@ metricRight = Z;
 unicode = 381;
 },
 {
+color = 4;
 glyphname = Zdotaccent;
 kernLeft = Z;
 kernRight = Z;
@@ -18742,6 +18874,7 @@ metricRight = Z;
 unicode = 379;
 },
 {
+color = 4;
 glyphname = R.ss01;
 kernLeft = H;
 kernRight = R;
@@ -19081,6 +19214,7 @@ metricLeft = R;
 metricRight = "=R*.7";
 },
 {
+color = 4;
 glyphname = Racute.ss01;
 kernLeft = H;
 kernRight = R;
@@ -19168,6 +19302,7 @@ metricLeft = R;
 metricRight = R;
 },
 {
+color = 4;
 glyphname = Rcaron.ss01;
 kernLeft = H;
 kernRight = R;
@@ -19255,6 +19390,7 @@ metricLeft = R;
 metricRight = R;
 },
 {
+color = 4;
 glyphname = Rcommaaccent.ss01;
 kernLeft = H;
 kernRight = R;
@@ -19342,6 +19478,7 @@ metricLeft = R;
 metricRight = R;
 },
 {
+color = 4;
 glyphname = Y.ss02;
 kernLeft = Yalt;
 kernRight = Yalt;
@@ -19603,6 +19740,7 @@ metricLeft = "=V*1.5";
 metricRight = "=V*1.5";
 },
 {
+color = 4;
 glyphname = Yacute.ss02;
 kernLeft = Yalt;
 kernRight = Yalt;
@@ -19690,6 +19828,7 @@ metricLeft = "=Y-10";
 metricRight = "=Y-10";
 },
 {
+color = 4;
 glyphname = Ycircumflex.ss02;
 kernLeft = Yalt;
 kernRight = Yalt;
@@ -19777,6 +19916,7 @@ metricLeft = "=Y-10";
 metricRight = "=Y-10";
 },
 {
+color = 4;
 glyphname = Ydieresis.ss02;
 kernLeft = Yalt;
 kernRight = Yalt;
@@ -19864,6 +20004,7 @@ metricLeft = "=Y-10";
 metricRight = "=Y-10";
 },
 {
+color = 4;
 glyphname = Ygrave.ss02;
 kernLeft = Yalt;
 kernRight = Yalt;
@@ -19951,6 +20092,7 @@ metricLeft = "=Y-10";
 metricRight = "=Y-10";
 },
 {
+color = 4;
 glyphname = Ytilde.ss02;
 kernLeft = Yalt;
 kernRight = Yalt;
@@ -20038,6 +20180,7 @@ metricLeft = "=Y-10";
 metricRight = "=Y-10";
 },
 {
+color = 4;
 glyphname = Oslash.ss03;
 kernLeft = O;
 kernRight = O;
@@ -20221,6 +20364,7 @@ metricLeft = "=O*.6";
 metricRight = "=O*.6";
 },
 {
+color = 4;
 glyphname = Oslashacute.ss03;
 kernLeft = O;
 kernRight = O;
@@ -20308,6 +20452,7 @@ metricLeft = "=O-20";
 metricRight = "=O-20";
 },
 {
+color = 4;
 glyphname = Q.ss03;
 kernLeft = O;
 kernRight = O;
@@ -20485,6 +20630,7 @@ metricLeft = Q;
 metricRight = "=Q*.9";
 },
 {
+color = 4;
 glyphname = Adieresis.ss07;
 kernLeft = A;
 kernRight = A;
@@ -20572,6 +20718,7 @@ metricLeft = A;
 metricRight = A;
 },
 {
+color = 4;
 glyphname = Cdotaccent.ss07;
 kernLeft = O;
 kernRight = O;
@@ -20659,6 +20806,7 @@ metricLeft = C;
 metricRight = C;
 },
 {
+color = 4;
 glyphname = Edieresis.ss07;
 kernLeft = H;
 kernRight = E;
@@ -20746,6 +20894,7 @@ metricLeft = H;
 metricRight = E;
 },
 {
+color = 4;
 glyphname = Edotaccent.ss07;
 kernLeft = H;
 kernRight = E;
@@ -20833,6 +20982,7 @@ metricLeft = H;
 metricRight = E;
 },
 {
+color = 4;
 glyphname = Gcommaaccent.ss07;
 kernLeft = O;
 kernRight = G;
@@ -20920,6 +21070,7 @@ metricLeft = G;
 metricRight = G;
 },
 {
+color = 4;
 glyphname = Gdotaccent.ss07;
 kernLeft = O;
 kernRight = G;
@@ -21007,6 +21158,7 @@ metricLeft = O;
 metricRight = "=H-10";
 },
 {
+color = 4;
 glyphname = Idieresis.ss07;
 kernLeft = H;
 kernRight = H;
@@ -21094,6 +21246,7 @@ metricLeft = "=I-85";
 metricRight = "=I-85";
 },
 {
+color = 4;
 glyphname = Idotaccent.ss07;
 kernLeft = H;
 kernRight = H;
@@ -21181,6 +21334,7 @@ metricLeft = I;
 metricRight = I;
 },
 {
+color = 4;
 glyphname = Kcommaaccent.ss07;
 kernLeft = H;
 kernRight = K;
@@ -21268,6 +21422,7 @@ metricLeft = K;
 metricRight = K;
 },
 {
+color = 4;
 glyphname = Lcaron.ss07;
 layers = (
 {
@@ -21351,6 +21506,7 @@ width = 499;
 );
 },
 {
+color = 4;
 glyphname = Lcommaaccent.ss07;
 kernLeft = H;
 kernRight = L;
@@ -21438,6 +21594,7 @@ metricLeft = L;
 metricRight = L;
 },
 {
+color = 4;
 glyphname = Ldot.ss07;
 kernLeft = L;
 kernRight = L;
@@ -21525,6 +21682,7 @@ metricLeft = L;
 metricRight = L;
 },
 {
+color = 4;
 glyphname = Ncommaaccent.ss07;
 kernLeft = H;
 kernRight = H;
@@ -21612,6 +21770,7 @@ metricLeft = N;
 metricRight = N;
 },
 {
+color = 4;
 glyphname = Odieresis.ss07;
 kernLeft = O;
 kernRight = O;
@@ -21699,6 +21858,7 @@ metricLeft = O;
 metricRight = O;
 },
 {
+color = 4;
 glyphname = Rcommaaccent.ss07;
 kernLeft = H;
 kernRight = R;
@@ -21786,6 +21946,7 @@ metricLeft = R;
 metricRight = R;
 },
 {
+color = 4;
 glyphname = Scommaaccent.ss07;
 kernLeft = S;
 kernRight = S;
@@ -21873,6 +22034,7 @@ metricLeft = S;
 metricRight = S;
 },
 {
+color = 4;
 glyphname = Tcommaaccent.ss07;
 kernLeft = T;
 kernRight = T;
@@ -21960,6 +22122,7 @@ metricLeft = T;
 metricRight = T;
 },
 {
+color = 4;
 glyphname = Udieresis.ss07;
 kernLeft = U;
 kernRight = U;
@@ -22047,6 +22210,7 @@ metricLeft = U;
 metricRight = U;
 },
 {
+color = 4;
 glyphname = Wdieresis.ss07;
 kernLeft = V;
 kernRight = V;
@@ -22134,6 +22298,7 @@ metricLeft = W;
 metricRight = W;
 },
 {
+color = 4;
 glyphname = Ydieresis.ss07;
 kernLeft = Y;
 kernRight = Y;
@@ -22221,6 +22386,7 @@ metricLeft = Y;
 metricRight = Y;
 },
 {
+color = 4;
 glyphname = Zdotaccent.ss07;
 kernLeft = Z;
 kernRight = Z;
@@ -22308,6 +22474,7 @@ metricLeft = Z;
 metricRight = Z;
 },
 {
+color = 4;
 glyphname = Rcommaaccent.ss01.ss07;
 kernLeft = H;
 kernRight = R;
@@ -22395,6 +22562,7 @@ metricLeft = R;
 metricRight = "=R-20";
 },
 {
+color = 4;
 glyphname = Ydieresis.ss02.ss07;
 kernLeft = Yalt;
 kernRight = Yalt;
@@ -34526,7 +34694,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (28,0);
+pos = (153,0);
 ref = hungarumlautcomb;
 }
 );
@@ -34539,7 +34707,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (3,0);
+pos = (134,0);
 ref = hungarumlautcomb;
 }
 );
@@ -34552,7 +34720,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (56,0);
+pos = (155,0);
 ref = hungarumlautcomb;
 }
 );
@@ -34565,7 +34733,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (28,0);
+pos = (131,0);
 ref = hungarumlautcomb;
 }
 );
@@ -34578,7 +34746,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (18,0);
+pos = (119,0);
 ref = hungarumlautcomb;
 }
 );
@@ -34591,7 +34759,7 @@ shapes = (
 ref = o;
 },
 {
-pos = (57,0);
+pos = (146,0);
 ref = hungarumlautcomb;
 }
 );
@@ -39583,7 +39751,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (19,0);
+pos = (144,0);
 ref = hungarumlautcomb;
 }
 );
@@ -39596,7 +39764,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (-6,0);
+pos = (125,0);
 ref = hungarumlautcomb;
 }
 );
@@ -39609,7 +39777,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (49,0);
+pos = (148,0);
 ref = hungarumlautcomb;
 }
 );
@@ -39622,7 +39790,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (20,0);
+pos = (123,0);
 ref = hungarumlautcomb;
 }
 );
@@ -39635,7 +39803,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (10,0);
+pos = (111,0);
 ref = hungarumlautcomb;
 }
 );
@@ -39648,7 +39816,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (51,0);
+pos = (140,0);
 ref = hungarumlautcomb;
 }
 );
@@ -108777,139 +108945,205 @@ layers = (
 anchors = (
 {
 name = _top;
-pos = (253,500);
+pos = (128,500);
 },
 {
 name = top;
-pos = (253,730);
+pos = (193,730);
 }
 );
 layerId = m01;
 shapes = (
 {
-ref = acute;
+closed = 1;
+nodes = (
+(103,580,l),
+(193,730,l),
+(110,730,l),
+(50,580,l)
+);
 },
 {
-pos = (253,0);
-ref = acute;
+closed = 1;
+nodes = (
+(246,580,l),
+(336,730,l),
+(253,730,l),
+(193,580,l)
+);
 }
 );
-width = 506;
+width = 386;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (294,500);
+pos = (163,500);
 },
 {
 name = top;
-pos = (294,720);
+pos = (229,720);
 }
 );
 layerId = m005;
 shapes = (
 {
-ref = acute;
+closed = 1;
+nodes = (
+(130,580,l),
+(234,720,l),
+(106,720,l),
+(50,580,l)
+);
 },
 {
-pos = (294,0);
-ref = acute;
+closed = 1;
+nodes = (
+(304,580,l),
+(408,720,l),
+(280,720,l),
+(224,580,l)
+);
 }
 );
-width = 588;
+width = 458;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (220,500);
+pos = (121,500);
 },
 {
 name = top;
-pos = (220,720);
+pos = (168,720);
 }
 );
 layerId = m007;
 shapes = (
 {
-ref = acute;
+closed = 1;
+nodes = (
+(88,590,l),
+(166,720,l),
+(102,720,l),
+(50,590,l)
+);
 },
 {
-pos = (220,0);
-ref = acute;
+closed = 1;
+nodes = (
+(208,590,l),
+(286,720,l),
+(222,720,l),
+(170,590,l)
+);
 }
 );
-width = 440;
+width = 336;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (301,500);
+pos = (198,500);
 },
 {
 name = top;
-pos = (346,730);
+pos = (286,730);
 }
 );
 layerId = m004;
 shapes = (
 {
-ref = acute;
+closed = 1;
+nodes = (
+(167,580,l),
+(286,730,l),
+(203,730,l),
+(114,580,l)
+);
 },
 {
-pos = (253,0);
-ref = acute;
+closed = 1;
+nodes = (
+(310,580,l),
+(429,730,l),
+(346,730,l),
+(257,580,l)
+);
 }
 );
-width = 506;
+width = 386;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (327,500);
+pos = (226,500);
 },
 {
 name = top;
-pos = (370,720);
+pos = (315,720);
 }
 );
 layerId = m008;
 shapes = (
 {
-ref = acute;
+closed = 1;
+nodes = (
+(194,580,l),
+(310,720,l),
+(182,720,l),
+(114,580,l)
+);
 },
 {
-pos = (279,0);
-ref = acute;
+closed = 1;
+nodes = (
+(373,580,l),
+(489,720,l),
+(361,720,l),
+(293,580,l)
+);
 }
 );
-width = 558;
+width = 448;
 },
 {
 anchors = (
 {
 name = _top;
-pos = (268,500);
+pos = (179,500);
 },
 {
 name = top;
-pos = (311,720);
+pos = (259,720);
 }
 );
 layerId = m006;
 shapes = (
 {
-ref = acute;
+closed = 1;
+nodes = (
+(154,590,l),
+(257,720,l),
+(193,720,l),
+(116,590,l)
+);
 },
 {
-pos = (220,0);
-ref = acute;
+closed = 1;
+nodes = (
+(274,590,l),
+(377,720,l),
+(313,720,l),
+(236,590,l)
+);
 }
 );
-width = 440;
+width = 336;
 }
 );
 unicode = 779;
@@ -112152,79 +112386,145 @@ layers = (
 layerId = m01;
 shapes = (
 {
-ref = acute;
+closed = 1;
+nodes = (
+(103,580,l),
+(193,730,l),
+(110,730,l),
+(50,580,l)
+);
 },
 {
-pos = (253,0);
-ref = acute;
+closed = 1;
+nodes = (
+(246,580,l),
+(336,730,l),
+(253,730,l),
+(193,580,l)
+);
 }
 );
-width = 506;
+width = 386;
 },
 {
 layerId = m005;
 shapes = (
 {
-ref = acute;
+closed = 1;
+nodes = (
+(130,580,l),
+(234,720,l),
+(106,720,l),
+(50,580,l)
+);
 },
 {
-pos = (294,0);
-ref = acute;
+closed = 1;
+nodes = (
+(304,580,l),
+(408,720,l),
+(280,720,l),
+(224,580,l)
+);
 }
 );
-width = 588;
+width = 458;
 },
 {
 layerId = m007;
 shapes = (
 {
-ref = acute;
+closed = 1;
+nodes = (
+(88,590,l),
+(166,720,l),
+(102,720,l),
+(50,590,l)
+);
 },
 {
-pos = (220,0);
-ref = acute;
+closed = 1;
+nodes = (
+(208,590,l),
+(286,720,l),
+(222,720,l),
+(170,590,l)
+);
 }
 );
-width = 440;
+width = 336;
 },
 {
 layerId = m004;
 shapes = (
 {
-ref = acute;
+closed = 1;
+nodes = (
+(167,580,l),
+(286,730,l),
+(203,730,l),
+(114,580,l)
+);
 },
 {
-pos = (253,0);
-ref = acute;
+closed = 1;
+nodes = (
+(310,580,l),
+(429,730,l),
+(346,730,l),
+(257,580,l)
+);
 }
 );
-width = 506;
+width = 386;
 },
 {
 layerId = m008;
 shapes = (
 {
-ref = acute;
+closed = 1;
+nodes = (
+(194,580,l),
+(310,720,l),
+(182,720,l),
+(114,580,l)
+);
 },
 {
-pos = (279,0);
-ref = acute;
+closed = 1;
+nodes = (
+(373,580,l),
+(489,720,l),
+(361,720,l),
+(293,580,l)
+);
 }
 );
-width = 558;
+width = 448;
 },
 {
 layerId = m006;
 shapes = (
 {
-ref = acute;
+closed = 1;
+nodes = (
+(154,590,l),
+(257,720,l),
+(193,720,l),
+(116,590,l)
+);
 },
 {
-pos = (220,0);
-ref = acute;
+closed = 1;
+nodes = (
+(274,590,l),
+(377,720,l),
+(313,720,l),
+(236,590,l)
+);
 }
 );
-width = 440;
+width = 336;
 }
 );
 unicode = 733;
