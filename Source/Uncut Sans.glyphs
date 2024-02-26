@@ -5417,7 +5417,7 @@ layers = (
 anchors = (
 {
 name = top;
-pos = (330,700);
+pos = (361,700);
 }
 );
 layerId = m01;
@@ -5436,7 +5436,7 @@ width = 548;
 anchors = (
 {
 name = top;
-pos = (486,700);
+pos = (524,700);
 }
 );
 layerId = m005;
@@ -5455,7 +5455,7 @@ width = 580;
 anchors = (
 {
 name = top;
-pos = (416,700);
+pos = (444,700);
 }
 );
 layerId = m007;
@@ -5474,7 +5474,7 @@ width = 543;
 anchors = (
 {
 name = top;
-pos = (467,700);
+pos = (498,700);
 }
 );
 layerId = m004;
@@ -5493,7 +5493,7 @@ width = 548;
 anchors = (
 {
 name = top;
-pos = (523,700);
+pos = (561,700);
 }
 );
 layerId = m008;
@@ -5512,7 +5512,7 @@ width = 580;
 anchors = (
 {
 name = top;
-pos = (518,700);
+pos = (548,700);
 }
 );
 layerId = m006;
@@ -22650,6 +22650,7 @@ metricLeft = "=Y-20";
 metricRight = "=Y-20";
 },
 {
+color = 4;
 glyphname = a;
 kernLeft = a;
 kernRight = u;
@@ -23097,6 +23098,7 @@ metricRight = "=u-10";
 unicode = 97;
 },
 {
+color = 4;
 glyphname = aacute;
 kernLeft = a;
 kernRight = u;
@@ -23185,6 +23187,7 @@ metricRight = "=u";
 unicode = 225;
 },
 {
+color = 4;
 glyphname = abreve;
 kernLeft = a;
 kernRight = u;
@@ -23273,6 +23276,7 @@ metricRight = "=u";
 unicode = 259;
 },
 {
+color = 4;
 glyphname = acircumflex;
 kernLeft = a;
 kernRight = u;
@@ -23361,6 +23365,7 @@ metricRight = "=u";
 unicode = 226;
 },
 {
+color = 4;
 glyphname = adieresis;
 kernLeft = a;
 kernRight = u;
@@ -23449,6 +23454,7 @@ metricRight = "=u";
 unicode = 228;
 },
 {
+color = 4;
 glyphname = agrave;
 kernLeft = a;
 kernRight = u;
@@ -23537,6 +23543,7 @@ metricRight = "=u";
 unicode = 224;
 },
 {
+color = 4;
 glyphname = amacron;
 kernLeft = a;
 kernRight = u;
@@ -23625,6 +23632,7 @@ metricRight = "=u";
 unicode = 257;
 },
 {
+color = 4;
 glyphname = aogonek;
 kernLeft = a;
 kernRight = u;
@@ -23713,6 +23721,7 @@ metricRight = "=u-40";
 unicode = 261;
 },
 {
+color = 4;
 glyphname = aring;
 kernLeft = a;
 kernRight = u;
@@ -23801,6 +23810,7 @@ metricRight = "=u";
 unicode = 229;
 },
 {
+color = 4;
 glyphname = atilde;
 kernLeft = a;
 kernRight = u;
@@ -23889,6 +23899,7 @@ metricRight = "=u";
 unicode = 227;
 },
 {
+color = 4;
 glyphname = ae;
 kernLeft = a;
 kernRight = o;
@@ -24523,6 +24534,7 @@ metricRight = e;
 unicode = 230;
 },
 {
+color = 4;
 glyphname = aeacute;
 kernLeft = a;
 kernRight = o;
@@ -24611,6 +24623,7 @@ metricRight = e;
 unicode = 509;
 },
 {
+color = 4;
 glyphname = b;
 kernLeft = l;
 kernRight = o;
@@ -25005,6 +25018,7 @@ metricRight = o;
 unicode = 98;
 },
 {
+color = 4;
 glyphname = c;
 kernLeft = o;
 kernRight = o;
@@ -25297,6 +25311,7 @@ metricRight = o;
 unicode = 99;
 },
 {
+color = 4;
 glyphname = cacute;
 kernLeft = o;
 kernRight = o;
@@ -25385,6 +25400,7 @@ metricRight = c;
 unicode = 263;
 },
 {
+color = 4;
 glyphname = ccaron;
 kernLeft = o;
 kernRight = o;
@@ -25473,6 +25489,7 @@ metricRight = c;
 unicode = 269;
 },
 {
+color = 4;
 glyphname = ccedilla;
 kernLeft = o;
 kernRight = o;
@@ -25561,6 +25578,7 @@ metricRight = c;
 unicode = 231;
 },
 {
+color = 4;
 glyphname = ccircumflex;
 kernLeft = o;
 kernRight = o;
@@ -25649,6 +25667,7 @@ metricRight = c;
 unicode = 265;
 },
 {
+color = 4;
 glyphname = cdotaccent;
 kernLeft = o;
 kernRight = o;
@@ -25737,6 +25756,7 @@ metricRight = c;
 unicode = 267;
 },
 {
+color = 4;
 glyphname = d;
 kernLeft = o;
 kernRight = l;
@@ -26155,6 +26175,7 @@ metricRight = l;
 unicode = 100;
 },
 {
+color = 4;
 glyphname = eth;
 kernLeft = o;
 kernRight = o;
@@ -26567,6 +26588,7 @@ metricRight = o;
 unicode = 240;
 },
 {
+color = 4;
 glyphname = dcaron;
 kernLeft = o;
 kernRight = l;
@@ -26655,6 +26677,7 @@ metricRight = "=commaaccentcomb*-0.9";
 unicode = 271;
 },
 {
+color = 4;
 glyphname = dcroat;
 kernLeft = o;
 kernRight = l;
@@ -26773,6 +26796,7 @@ metricRight = "=l*.2";
 unicode = 273;
 },
 {
+color = 4;
 glyphname = e;
 kernLeft = o;
 kernRight = o;
@@ -27131,6 +27155,7 @@ metricRight = o;
 unicode = 101;
 },
 {
+color = 4;
 glyphname = eacute;
 kernLeft = o;
 kernRight = e;
@@ -27219,6 +27244,7 @@ metricRight = e;
 unicode = 233;
 },
 {
+color = 4;
 glyphname = ebreve;
 kernLeft = o;
 kernRight = e;
@@ -27307,6 +27333,7 @@ metricRight = e;
 unicode = 277;
 },
 {
+color = 4;
 glyphname = ecaron;
 kernLeft = o;
 kernRight = e;
@@ -27395,6 +27422,7 @@ metricRight = e;
 unicode = 283;
 },
 {
+color = 4;
 glyphname = ecircumflex;
 kernLeft = o;
 kernRight = e;
@@ -27483,6 +27511,7 @@ metricRight = e;
 unicode = 234;
 },
 {
+color = 4;
 glyphname = edieresis;
 kernLeft = o;
 kernRight = e;
@@ -27571,6 +27600,7 @@ metricRight = e;
 unicode = 235;
 },
 {
+color = 4;
 glyphname = edotaccent;
 kernLeft = o;
 kernRight = e;
@@ -27659,6 +27689,7 @@ metricRight = e;
 unicode = 279;
 },
 {
+color = 4;
 glyphname = egrave;
 kernLeft = o;
 kernRight = e;
@@ -27747,6 +27778,7 @@ metricRight = e;
 unicode = 232;
 },
 {
+color = 4;
 glyphname = emacron;
 kernLeft = o;
 kernRight = e;
@@ -27835,6 +27867,7 @@ metricRight = e;
 unicode = 275;
 },
 {
+color = 4;
 glyphname = eogonek;
 kernLeft = o;
 kernRight = e;
@@ -27959,6 +27992,7 @@ metricRight = e;
 unicode = 281;
 },
 {
+color = 4;
 glyphname = etilde;
 kernLeft = o;
 kernRight = e;
@@ -28047,6 +28081,7 @@ metricRight = e;
 unicode = 7869;
 },
 {
+color = 4;
 glyphname = schwa;
 kernLeft = o;
 kernRight = o;
@@ -28123,6 +28158,7 @@ metricRight = e;
 unicode = 601;
 },
 {
+color = 4;
 glyphname = f;
 kernLeft = f;
 kernRight = f;
@@ -28383,6 +28419,7 @@ width = 358;
 unicode = 102;
 },
 {
+color = 4;
 glyphname = g;
 kernLeft = o;
 kernRight = g;
@@ -28825,6 +28862,7 @@ metricRight = l;
 unicode = 103;
 },
 {
+color = 4;
 glyphname = gbreve;
 kernLeft = g;
 kernRight = g;
@@ -28913,6 +28951,7 @@ metricRight = g;
 unicode = 287;
 },
 {
+color = 4;
 glyphname = gcircumflex;
 kernLeft = g;
 kernRight = g;
@@ -29001,6 +29040,7 @@ metricRight = g;
 unicode = 285;
 },
 {
+color = 4;
 glyphname = gcommaaccent;
 kernLeft = g;
 kernRight = g;
@@ -29089,6 +29129,7 @@ metricRight = g;
 unicode = 291;
 },
 {
+color = 4;
 glyphname = gdotaccent;
 kernLeft = g;
 kernRight = g;
@@ -29177,6 +29218,7 @@ metricRight = g;
 unicode = 289;
 },
 {
+color = 4;
 glyphname = gmacron;
 kernLeft = o;
 kernRight = g;
@@ -29265,6 +29307,7 @@ metricRight = g;
 unicode = 7713;
 },
 {
+color = 4;
 glyphname = h;
 kernLeft = l;
 kernRight = m;
@@ -29575,6 +29618,7 @@ metricRight = m;
 unicode = 104;
 },
 {
+color = 4;
 glyphname = hbar;
 kernLeft = l;
 kernRight = m;
@@ -29699,6 +29743,7 @@ metricRight = h;
 unicode = 295;
 },
 {
+color = 4;
 glyphname = hcircumflex;
 kernLeft = l;
 kernRight = m;
@@ -29787,6 +29832,7 @@ metricRight = h;
 unicode = 293;
 },
 {
+color = 4;
 glyphname = i;
 kernLeft = i;
 kernRight = i;
@@ -29795,7 +29841,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (474,0);
+pos = (493,0);
 }
 );
 layerId = m01;
@@ -29814,7 +29860,7 @@ width = 225;
 anchors = (
 {
 name = bottom;
-pos = (479,0);
+pos = (504,0);
 }
 );
 layerId = m005;
@@ -29833,7 +29879,7 @@ width = 257;
 anchors = (
 {
 name = bottom;
-pos = (376,0);
+pos = (395,0);
 }
 );
 layerId = m007;
@@ -29852,7 +29898,7 @@ width = 219;
 anchors = (
 {
 name = bottom;
-pos = (316,0);
+pos = (334,0);
 }
 );
 layerId = m004;
@@ -29871,7 +29917,7 @@ width = 226;
 anchors = (
 {
 name = bottom;
-pos = (536,0);
+pos = (560,0);
 }
 );
 layerId = m008;
@@ -29889,7 +29935,7 @@ width = 258;
 anchors = (
 {
 name = bottom;
-pos = (295,0);
+pos = (313,0);
 }
 );
 layerId = m006;
@@ -29910,6 +29956,7 @@ metricRight = idotless;
 unicode = 105;
 },
 {
+color = 4;
 glyphname = idotless;
 kernLeft = i;
 kernRight = i;
@@ -30094,6 +30141,7 @@ metricRight = "=l-5";
 unicode = 305;
 },
 {
+color = 4;
 glyphname = iacute;
 kernLeft = i;
 kernRight = i;
@@ -30182,6 +30230,7 @@ metricRight = "=idotless-80";
 unicode = 237;
 },
 {
+color = 4;
 glyphname = ibreve;
 kernLeft = i;
 kernRight = i;
@@ -30270,6 +30319,7 @@ metricRight = "=idotless-110";
 unicode = 301;
 },
 {
+color = 4;
 glyphname = icircumflex;
 kernLeft = i;
 kernRight = i;
@@ -30358,6 +30408,7 @@ metricRight = "=idotless-88";
 unicode = 238;
 },
 {
+color = 4;
 glyphname = idieresis;
 kernLeft = i;
 kernRight = i;
@@ -30446,6 +30497,7 @@ metricRight = "=idotless-80";
 unicode = 239;
 },
 {
+color = 4;
 glyphname = idotaccent;
 kernLeft = i;
 kernRight = i;
@@ -30532,6 +30584,7 @@ metricLeft = idotless;
 metricRight = idotless;
 },
 {
+color = 4;
 glyphname = igrave;
 kernLeft = i;
 kernRight = i;
@@ -30620,6 +30673,7 @@ metricRight = idotless;
 unicode = 236;
 },
 {
+color = 4;
 glyphname = ij;
 kernLeft = i;
 kernRight = g;
@@ -30708,6 +30762,7 @@ metricRight = jdotless;
 unicode = 307;
 },
 {
+color = 4;
 glyphname = imacron;
 kernLeft = i;
 kernRight = i;
@@ -30796,6 +30851,7 @@ metricRight = "=idotless-102";
 unicode = 299;
 },
 {
+color = 4;
 glyphname = iogonek;
 kernLeft = i;
 kernRight = i;
@@ -30907,6 +30963,7 @@ metricRight = "=idotless-40";
 unicode = 303;
 },
 {
+color = 4;
 glyphname = itilde;
 kernLeft = i;
 kernRight = i;
@@ -30995,6 +31052,7 @@ metricRight = "=idotless-120";
 unicode = 297;
 },
 {
+color = 4;
 glyphname = j;
 kernLeft = j;
 kernRight = i;
@@ -31083,6 +31141,7 @@ metricRight = jdotless;
 unicode = 106;
 },
 {
+color = 4;
 glyphname = jdotless;
 kernLeft = j;
 kernRight = g;
@@ -31289,6 +31348,7 @@ width = 227;
 unicode = 567;
 },
 {
+color = 4;
 glyphname = jacute;
 kernLeft = j;
 kernRight = g;
@@ -31376,6 +31436,7 @@ metricLeft = j;
 metricRight = "=j-70";
 },
 {
+color = 4;
 glyphname = jcircumflex;
 kernLeft = j;
 kernRight = g;
@@ -31464,6 +31525,7 @@ metricRight = "=j-90";
 unicode = 309;
 },
 {
+color = 4;
 glyphname = k;
 kernLeft = l;
 kernRight = k;
@@ -31731,6 +31793,7 @@ metricLeft = h;
 unicode = 107;
 },
 {
+color = 4;
 glyphname = kcommaaccent;
 kernLeft = l;
 kernRight = k;
@@ -31819,6 +31882,7 @@ metricRight = k;
 unicode = 311;
 },
 {
+color = 4;
 glyphname = l;
 kernLeft = l;
 kernRight = l;
@@ -32025,6 +32089,7 @@ width = 229;
 unicode = 108;
 },
 {
+color = 4;
 glyphname = lacute;
 kernLeft = l;
 kernRight = l;
@@ -32113,6 +32178,7 @@ metricRight = "=l-80";
 unicode = 314;
 },
 {
+color = 4;
 glyphname = lcaron;
 kernLeft = l;
 kernRight = l;
@@ -32201,6 +32267,7 @@ metricRight = "=l-120";
 unicode = 318;
 },
 {
+color = 4;
 glyphname = lcommaaccent;
 kernLeft = l;
 kernRight = l;
@@ -32289,6 +32356,7 @@ metricRight = l;
 unicode = 316;
 },
 {
+color = 4;
 glyphname = ldot;
 kernLeft = l;
 kernRight = l;
@@ -32377,6 +32445,7 @@ metricRight = "=l*-.2";
 unicode = 320;
 },
 {
+color = 4;
 glyphname = lslash;
 kernLeft = lslash;
 kernRight = lslash;
@@ -32501,6 +32570,7 @@ metricRight = "=l*.2";
 unicode = 322;
 },
 {
+color = 4;
 glyphname = m;
 kernLeft = m;
 kernRight = m;
@@ -32911,6 +32981,7 @@ width = 852;
 unicode = 109;
 },
 {
+color = 4;
 glyphname = n;
 kernLeft = m;
 kernRight = m;
@@ -33197,6 +33268,7 @@ metricRight = m;
 unicode = 110;
 },
 {
+color = 4;
 glyphname = nacute;
 kernLeft = m;
 kernRight = m;
@@ -33285,6 +33357,7 @@ metricRight = m;
 unicode = 324;
 },
 {
+color = 4;
 glyphname = napostrophe;
 kernLeft = m;
 kernRight = m;
@@ -33373,6 +33446,7 @@ metricRight = n;
 unicode = 329;
 },
 {
+color = 4;
 glyphname = ncaron;
 kernLeft = m;
 kernRight = m;
@@ -33461,6 +33535,7 @@ metricRight = m;
 unicode = 328;
 },
 {
+color = 4;
 glyphname = ncommaaccent;
 kernLeft = m;
 kernRight = m;
@@ -33549,6 +33624,7 @@ metricRight = m;
 unicode = 326;
 },
 {
+color = 4;
 glyphname = ntilde;
 kernLeft = m;
 kernRight = m;
@@ -33637,6 +33713,7 @@ metricRight = m;
 unicode = 241;
 },
 {
+color = 4;
 glyphname = eng;
 kernLeft = m;
 kernRight = m;
@@ -33863,6 +33940,7 @@ metricRight = j;
 unicode = 331;
 },
 {
+color = 4;
 glyphname = o;
 kernLeft = o;
 kernRight = o;
@@ -34243,6 +34321,7 @@ width = 551;
 unicode = 111;
 },
 {
+color = 4;
 glyphname = oacute;
 kernLeft = o;
 kernRight = o;
@@ -34331,6 +34410,7 @@ metricRight = o;
 unicode = 243;
 },
 {
+color = 4;
 glyphname = obreve;
 kernLeft = o;
 kernRight = o;
@@ -34419,6 +34499,7 @@ metricRight = o;
 unicode = 335;
 },
 {
+color = 4;
 glyphname = ocircumflex;
 kernLeft = o;
 kernRight = o;
@@ -34507,6 +34588,7 @@ metricRight = o;
 unicode = 244;
 },
 {
+color = 4;
 glyphname = odieresis;
 kernLeft = o;
 kernRight = o;
@@ -34595,6 +34677,7 @@ metricRight = o;
 unicode = 246;
 },
 {
+color = 4;
 glyphname = ograve;
 kernLeft = o;
 kernRight = o;
@@ -34683,6 +34766,7 @@ metricRight = o;
 unicode = 242;
 },
 {
+color = 4;
 glyphname = ohungarumlaut;
 kernLeft = o;
 kernRight = o;
@@ -34771,6 +34855,7 @@ metricRight = o;
 unicode = 337;
 },
 {
+color = 4;
 glyphname = omacron;
 kernLeft = o;
 kernRight = o;
@@ -34859,6 +34944,7 @@ metricRight = o;
 unicode = 333;
 },
 {
+color = 4;
 glyphname = oslash;
 kernLeft = o;
 kernRight = o;
@@ -35019,6 +35105,7 @@ metricRight = "=o*.7";
 unicode = 248;
 },
 {
+color = 4;
 glyphname = oslashacute;
 kernLeft = o;
 kernRight = o;
@@ -35107,6 +35194,7 @@ metricRight = "=o-20";
 unicode = 511;
 },
 {
+color = 4;
 glyphname = otilde;
 kernLeft = o;
 kernRight = o;
@@ -35195,6 +35283,7 @@ metricRight = o;
 unicode = 245;
 },
 {
+color = 4;
 glyphname = oe;
 kernLeft = o;
 kernRight = o;
@@ -35203,139 +35292,529 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (551,0);
+pos = (471,0);
 },
 {
 name = top;
-pos = (551,500);
+pos = (471,500);
 }
 );
 layerId = m01;
 shapes = (
 {
-ref = o;
+closed = 1;
+nodes = (
+(420,-16,o),
+(516,91,o),
+(516,248,cs),
+(516,406,o),
+(419,516,o),
+(281,516,cs),
+(142,516,o),
+(45,405,o),
+(45,248,cs),
+(45,92,o),
+(141,-16,o),
+(281,-16,cs)
+);
 },
 {
-pos = (561,0);
-ref = e;
+closed = 1;
+nodes = (
+(186,57,o),
+(123,133,o),
+(123,248,cs),
+(123,365,o),
+(187,443,o),
+(281,443,cs),
+(375,443,o),
+(439,365,o),
+(439,248,cs),
+(439,133,o),
+(376,57,o),
+(281,57,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(790,-16,o),
+(874,47,o),
+(894,144,c),
+(816,154,l),
+(802,95,o),
+(750,57,o),
+(681,57,cs),
+(588,57,o),
+(524,127,o),
+(524,230,c),
+(897,230,l),
+(897,248,ls),
+(897,408,o),
+(807,516,o),
+(673,516,cs),
+(539,516,o),
+(446,407,o),
+(446,251,cs),
+(446,92,o),
+(542,-16,o),
+(682,-16,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(524,384,o),
+(584,443,o),
+(671,443,cs),
+(758,443,o),
+(819,384,o),
+(819,298,c),
+(524,298,l)
+);
 }
 );
-width = 1102;
+width = 942;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (583,0);
+pos = (483,0);
 },
 {
 name = top;
-pos = (583,500);
+pos = (483,500);
 }
 );
 layerId = m005;
 shapes = (
 {
-ref = o;
+closed = 1;
+nodes = (
+(449,-16,o),
+(557,95,o),
+(557,250,cs),
+(557,405,o),
+(449,516,o),
+(297,516,cs),
+(145,516,o),
+(36,405,o),
+(36,250,cs),
+(36,95,o),
+(145,-16,o),
+(297,-16,cs)
+);
 },
 {
-pos = (593,0);
-ref = e;
+closed = 1;
+nodes = (
+(222,97,o),
+(174,157,o),
+(174,250,cs),
+(174,343,o),
+(222,403,o),
+(297,403,cs),
+(372,403,o),
+(420,343,o),
+(420,250,cs),
+(420,157,o),
+(372,97,o),
+(297,97,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(824,-16,o),
+(915,49,o),
+(930,147,c),
+(794,157,l),
+(779,119,o),
+(741,97,o),
+(691,97,cs),
+(618,97,o),
+(568,143,o),
+(568,210,c),
+(930,210,l),
+(930,248,ls),
+(930,406,o),
+(827,516,o),
+(680,516,cs),
+(534,516,o),
+(429,406,o),
+(429,251,cs),
+(429,91,o),
+(538,-16,o),
+(699,-16,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(568,364,o),
+(614,403,o),
+(680,403,cs),
+(746,403,o),
+(791,365,o),
+(791,308,c),
+(568,308,l)
+);
 }
 );
-width = 1166;
+width = 966;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (542,0);
+pos = (467,0);
 },
 {
 name = top;
-pos = (542,500);
+pos = (467,500);
 }
 );
 layerId = m007;
 shapes = (
 {
-ref = o;
+closed = 1;
+nodes = (
+(410,-16,o),
+(502,92,o),
+(502,250,cs),
+(502,408,o),
+(410,516,o),
+(276,516,cs),
+(142,516,o),
+(50,408,o),
+(50,250,cs),
+(50,92,o),
+(142,-16,o),
+(276,-16,cs)
+);
 },
 {
-pos = (552,0);
-ref = e;
+closed = 1;
+nodes = (
+(175,37,o),
+(108,122,o),
+(108,250,cs),
+(108,378,o),
+(175,463,o),
+(276,463,cs),
+(377,463,o),
+(444,378,o),
+(444,250,cs),
+(444,122,o),
+(377,37,o),
+(276,37,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(776,-16,o),
+(854,43,o),
+(878,135,c),
+(819,143,l),
+(800,78,o),
+(745,37,o),
+(676,37,cs),
+(577,37,o),
+(510,119,o),
+(510,240,c),
+(883,240,l),
+(883,248,ls),
+(883,411,o),
+(801,516,o),
+(673,516,cs),
+(543,516,o),
+(452,407,o),
+(452,249,cs),
+(452,91,o),
+(542,-16,o),
+(676,-16,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(510,390,o),
+(577,463,o),
+(672,463,cs),
+(764,463,o),
+(825,394,o),
+(825,288,c),
+(510,288,l)
+);
 }
 );
-width = 1083;
+width = 933;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (504,0);
+pos = (424,0);
 },
 {
 name = top;
-pos = (602,500);
+pos = (522,500);
 }
 );
 layerId = m004;
 shapes = (
 {
-ref = o;
+closed = 1;
+nodes = (
+(406,-16,o),
+(513,108,o),
+(513,276,cs),
+(513,421,o),
+(428,516,o),
+(299,516,cs),
+(155,516,o),
+(47,391,o),
+(47,224,cs),
+(47,79,o),
+(132,-16,o),
+(261,-16,cs)
+);
 },
 {
-pos = (560,0);
-ref = e;
+closed = 1;
+nodes = (
+(180,57,o),
+(124,124,o),
+(124,226,cs),
+(124,351,o),
+(197,443,o),
+(296,443,cs),
+(382,443,o),
+(436,378,o),
+(436,275,cs),
+(436,149,o),
+(364,57,o),
+(265,57,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(757,-16,o),
+(837,42,o),
+(877,144,c),
+(801,154,l),
+(772,93,o),
+(717,57,o),
+(655,57,cs),
+(567,57,o),
+(512,129,o),
+(524,230,c),
+(897,230,l),
+(903,265,ls),
+(928,408,o),
+(845,516,o),
+(710,516,cs),
+(561,516,o),
+(445,385,o),
+(445,216,cs),
+(445,74,o),
+(527,-16,o),
+(655,-16,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(555,386,o),
+(620,443,o),
+(704,443,cs),
+(793,443,o),
+(849,380,o),
+(832,298,c),
+(537,298,l)
+);
 }
 );
-width = 1106;
+width = 946;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (532,0);
+pos = (432,0);
 },
 {
 name = top;
-pos = (630,500);
+pos = (530,500);
 }
 );
 layerId = m008;
 shapes = (
 {
-ref = o;
+closed = 1;
+nodes = (
+(432,-16,o),
+(554,109,o),
+(554,276,cs),
+(554,420,o),
+(460,516,o),
+(319,516,cs),
+(158,516,o),
+(37,390,o),
+(37,223,cs),
+(37,79,o),
+(130,-16,o),
+(271,-16,cs)
+);
 },
 {
-pos = (591,0);
-ref = e;
+closed = 1;
+nodes = (
+(215,97,o),
+(174,146,o),
+(174,225,cs),
+(174,327,o),
+(233,403,o),
+(312,403,cs),
+(378,403,o),
+(417,356,o),
+(417,275,cs),
+(417,172,o),
+(359,97,o),
+(280,97,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(776,-16,o),
+(870,47,o),
+(905,147,c),
+(770,157,l),
+(748,119,o),
+(706,97,o),
+(658,97,cs),
+(587,97,o),
+(543,146,o),
+(555,210,c),
+(917,210,l),
+(924,248,ls),
+(952,399,o),
+(856,516,o),
+(704,516,cs),
+(547,516,o),
+(429,392,o),
+(429,226,cs),
+(429,79,o),
+(521,-16,o),
+(662,-16,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(584,366,o),
+(633,403,o),
+(698,403,cs),
+(766,403,o),
+(808,363,o),
+(797,308,c),
+(574,308,l)
+);
 }
 );
-width = 1161;
+width = 961;
 },
 {
 anchors = (
 {
 name = bottom;
-pos = (493,0);
+pos = (418,0);
 },
 {
 name = top;
-pos = (591,500);
+pos = (516,500);
 }
 );
 layerId = m006;
 shapes = (
 {
-ref = o;
+closed = 1;
+nodes = (
+(397,-16,o),
+(498,106,o),
+(498,275,cs),
+(498,421,o),
+(417,516,o),
+(292,516,cs),
+(154,516,o),
+(52,392,o),
+(52,223,cs),
+(52,78,o),
+(133,-16,o),
+(257,-16,cs)
+);
 },
 {
-pos = (551,0);
-ref = e;
+closed = 1;
+nodes = (
+(169,37,o),
+(109,111,o),
+(109,225,cs),
+(109,363,o),
+(185,463,o),
+(289,463,cs),
+(382,463,o),
+(441,390,o),
+(441,274,cs),
+(441,136,o),
+(366,37,o),
+(261,37,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(739,-16,o),
+(808,34,o),
+(855,135,c),
+(798,145,l),
+(762,73,o),
+(713,37,o),
+(652,37,cs),
+(556,37,o),
+(494,124,o),
+(508,240,c),
+(881,240,l),
+(882,248,ls),
+(902,408,o),
+(826,516,o),
+(695,516,cs),
+(555,516,o),
+(453,393,o),
+(453,223,cs),
+(453,77,o),
+(529,-16,o),
+(650,-16,cs)
+);
+},
+{
+closed = 1;
+nodes = (
+(538,396,o),
+(606,463,o),
+(693,463,cs),
+(783,463,o),
+(841,391,o),
+(832,288,c),
+(517,288,l)
+);
 }
 );
-width = 1083;
+width = 933;
 }
 );
 metricLeft = o;
@@ -35343,6 +35822,7 @@ metricRight = e;
 unicode = 339;
 },
 {
+color = 4;
 glyphname = p;
 kernLeft = p;
 kernRight = o;
@@ -35713,6 +36193,7 @@ metricRight = o;
 unicode = 112;
 },
 {
+color = 4;
 glyphname = thorn;
 kernLeft = h;
 kernRight = o;
@@ -36083,6 +36564,7 @@ metricRight = b;
 unicode = 254;
 },
 {
+color = 4;
 glyphname = q;
 kernLeft = o;
 kernRight = g;
@@ -36453,6 +36935,7 @@ metricRight = l;
 unicode = 113;
 },
 {
+color = 4;
 glyphname = r;
 kernLeft = m;
 kernRight = r;
@@ -36678,6 +37161,7 @@ metricLeft = m;
 unicode = 114;
 },
 {
+color = 4;
 glyphname = racute;
 kernLeft = m;
 kernRight = r;
@@ -36766,6 +37250,7 @@ metricRight = r;
 unicode = 341;
 },
 {
+color = 4;
 glyphname = rcaron;
 kernLeft = m;
 kernRight = r;
@@ -36854,6 +37339,7 @@ metricRight = r;
 unicode = 345;
 },
 {
+color = 4;
 glyphname = rcommaaccent;
 kernLeft = m;
 kernRight = r;
@@ -36941,6 +37427,7 @@ metricRight = r;
 unicode = 343;
 },
 {
+color = 4;
 glyphname = s;
 kernLeft = s;
 kernRight = s;
@@ -37267,6 +37754,7 @@ width = 502;
 unicode = 115;
 },
 {
+color = 4;
 glyphname = sacute;
 kernLeft = s;
 kernRight = s;
@@ -37355,6 +37843,7 @@ metricRight = s;
 unicode = 347;
 },
 {
+color = 4;
 glyphname = scaron;
 kernLeft = s;
 kernRight = s;
@@ -37443,6 +37932,7 @@ metricRight = s;
 unicode = 353;
 },
 {
+color = 4;
 glyphname = scedilla;
 kernLeft = s;
 kernRight = s;
@@ -37531,6 +38021,7 @@ metricRight = s;
 unicode = 351;
 },
 {
+color = 4;
 glyphname = scircumflex;
 kernLeft = s;
 kernRight = s;
@@ -37619,6 +38110,7 @@ metricRight = s;
 unicode = 349;
 },
 {
+color = 4;
 glyphname = scommaaccent;
 kernLeft = s;
 kernRight = s;
@@ -37695,7 +38187,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (155,0);
+pos = (149,0);
 ref = commaaccentcomb;
 }
 );
@@ -37705,6 +38197,7 @@ width = 502;
 unicode = 537;
 },
 {
+color = 4;
 glyphname = germandbls;
 kernLeft = l;
 kernRight = B;
@@ -38081,6 +38574,7 @@ metricRight = "=o*1.1";
 unicode = 223;
 },
 {
+color = 4;
 glyphname = uni017F;
 kernLeft = l;
 kernRight = f;
@@ -38277,6 +38771,7 @@ metricRight = "=f*.5";
 unicode = 383;
 },
 {
+color = 4;
 glyphname = t;
 kernLeft = t;
 kernRight = t;
@@ -38585,6 +39080,7 @@ width = 364;
 unicode = 116;
 },
 {
+color = 4;
 glyphname = tbar;
 kernLeft = t;
 kernRight = t;
@@ -38704,6 +39200,7 @@ metricRight = t;
 unicode = 359;
 },
 {
+color = 4;
 glyphname = tcaron;
 kernLeft = t;
 kernRight = t;
@@ -38792,6 +39289,7 @@ metricRight = "=m*.3";
 unicode = 357;
 },
 {
+color = 4;
 glyphname = tcedilla;
 kernLeft = t;
 kernRight = t;
@@ -38880,6 +39378,7 @@ metricRight = t;
 unicode = 355;
 },
 {
+color = 4;
 glyphname = tcommaaccent;
 kernLeft = t;
 kernRight = t;
@@ -38968,6 +39467,7 @@ metricRight = t;
 unicode = 539;
 },
 {
+color = 4;
 glyphname = u;
 kernLeft = u;
 kernRight = u;
@@ -39300,6 +39800,7 @@ width = 539;
 unicode = 117;
 },
 {
+color = 4;
 glyphname = uacute;
 kernLeft = u;
 kernRight = u;
@@ -39388,6 +39889,7 @@ metricRight = u;
 unicode = 250;
 },
 {
+color = 4;
 glyphname = ubreve;
 kernLeft = u;
 kernRight = u;
@@ -39476,6 +39978,7 @@ metricRight = u;
 unicode = 365;
 },
 {
+color = 4;
 glyphname = ucircumflex;
 kernLeft = u;
 kernRight = u;
@@ -39564,6 +40067,7 @@ metricRight = u;
 unicode = 251;
 },
 {
+color = 4;
 glyphname = udieresis;
 kernLeft = u;
 kernRight = u;
@@ -39652,6 +40156,7 @@ metricRight = u;
 unicode = 252;
 },
 {
+color = 4;
 glyphname = ugrave;
 kernLeft = u;
 kernRight = u;
@@ -39740,6 +40245,7 @@ metricRight = u;
 unicode = 249;
 },
 {
+color = 4;
 glyphname = uhungarumlaut;
 kernLeft = u;
 kernRight = u;
@@ -39828,6 +40334,7 @@ metricRight = u;
 unicode = 369;
 },
 {
+color = 4;
 glyphname = umacron;
 kernLeft = u;
 kernRight = u;
@@ -39916,6 +40423,7 @@ metricRight = u;
 unicode = 363;
 },
 {
+color = 4;
 glyphname = uogonek;
 kernLeft = u;
 kernRight = u;
@@ -40004,6 +40512,7 @@ metricRight = "=u-40";
 unicode = 371;
 },
 {
+color = 4;
 glyphname = uring;
 kernLeft = u;
 kernRight = u;
@@ -40092,6 +40601,7 @@ metricRight = u;
 unicode = 367;
 },
 {
+color = 4;
 glyphname = utilde;
 kernLeft = u;
 kernRight = u;
@@ -40180,6 +40690,7 @@ metricRight = u;
 unicode = 361;
 },
 {
+color = 4;
 glyphname = v;
 kernLeft = v;
 kernRight = v;
@@ -40362,6 +40873,7 @@ width = 476;
 unicode = 118;
 },
 {
+color = 4;
 glyphname = w;
 kernLeft = w;
 kernRight = w;
@@ -40594,6 +41106,7 @@ metricRight = "=v*1.7";
 unicode = 119;
 },
 {
+color = 4;
 glyphname = wacute;
 kernLeft = w;
 kernRight = w;
@@ -40682,6 +41195,7 @@ metricRight = w;
 unicode = 7811;
 },
 {
+color = 4;
 glyphname = wcircumflex;
 kernLeft = w;
 kernRight = w;
@@ -40770,6 +41284,7 @@ metricRight = w;
 unicode = 373;
 },
 {
+color = 4;
 glyphname = wdieresis;
 kernLeft = w;
 kernRight = w;
@@ -40858,6 +41373,7 @@ metricRight = w;
 unicode = 7813;
 },
 {
+color = 4;
 glyphname = wgrave;
 kernLeft = w;
 kernRight = w;
@@ -40946,6 +41462,7 @@ metricRight = w;
 unicode = 7809;
 },
 {
+color = 4;
 glyphname = x;
 kernLeft = x;
 kernRight = x;
@@ -41158,6 +41675,7 @@ width = 482;
 unicode = 120;
 },
 {
+color = 4;
 glyphname = y;
 kernLeft = y;
 kernRight = v;
@@ -41372,6 +41890,7 @@ metricRight = "=v*.8";
 unicode = 121;
 },
 {
+color = 4;
 glyphname = yacute;
 kernLeft = y;
 kernRight = y;
@@ -41460,6 +41979,7 @@ metricRight = y;
 unicode = 253;
 },
 {
+color = 4;
 glyphname = ycircumflex;
 kernLeft = y;
 kernRight = y;
@@ -41548,6 +42068,7 @@ metricRight = y;
 unicode = 375;
 },
 {
+color = 4;
 glyphname = ydieresis;
 kernLeft = y;
 kernRight = y;
@@ -41636,6 +42157,7 @@ metricRight = y;
 unicode = 255;
 },
 {
+color = 4;
 glyphname = ygrave;
 kernLeft = y;
 kernRight = y;
@@ -41724,6 +42246,7 @@ metricRight = y;
 unicode = 7923;
 },
 {
+color = 4;
 glyphname = ytilde;
 kernLeft = y;
 kernRight = y;
@@ -41812,6 +42335,7 @@ metricRight = y;
 unicode = 7929;
 },
 {
+color = 4;
 glyphname = z;
 kernLeft = z;
 kernRight = z;
@@ -42042,6 +42566,7 @@ width = 498;
 unicode = 122;
 },
 {
+color = 4;
 glyphname = zacute;
 kernLeft = z;
 kernRight = z;
@@ -42130,6 +42655,7 @@ metricRight = z;
 unicode = 378;
 },
 {
+color = 4;
 glyphname = zcaron;
 kernLeft = z;
 kernRight = z;
@@ -42218,6 +42744,7 @@ metricRight = z;
 unicode = 382;
 },
 {
+color = 4;
 glyphname = zdotaccent;
 kernLeft = z;
 kernRight = z;
@@ -42306,6 +42833,7 @@ metricRight = z;
 unicode = 380;
 },
 {
+color = 4;
 glyphname = y.ss02;
 kernLeft = y;
 kernRight = y;
@@ -42543,6 +43071,7 @@ metricLeft = y;
 metricRight = y;
 },
 {
+color = 4;
 glyphname = yacute.ss02;
 kernLeft = y;
 kernRight = y;
@@ -42630,6 +43159,7 @@ metricLeft = y;
 metricRight = y;
 },
 {
+color = 4;
 glyphname = ycircumflex.ss02;
 kernLeft = y;
 kernRight = y;
@@ -42717,6 +43247,7 @@ metricLeft = y;
 metricRight = y;
 },
 {
+color = 4;
 glyphname = ydieresis.ss02;
 kernLeft = y;
 kernRight = y;
@@ -42804,6 +43335,7 @@ metricLeft = y;
 metricRight = y;
 },
 {
+color = 4;
 glyphname = ygrave.ss02;
 kernLeft = y;
 kernRight = y;
@@ -42891,6 +43423,7 @@ metricLeft = y;
 metricRight = y;
 },
 {
+color = 4;
 glyphname = ytilde.ss02;
 kernLeft = y;
 kernRight = y;
@@ -42978,6 +43511,7 @@ metricLeft = y;
 metricRight = y;
 },
 {
+color = 4;
 glyphname = oslash.ss03;
 kernLeft = o;
 kernRight = o;
@@ -43137,6 +43671,7 @@ metricLeft = "=o*.5";
 metricRight = "=o*.5";
 },
 {
+color = 4;
 glyphname = oslashacute.ss03;
 kernLeft = o;
 kernRight = o;
@@ -43222,6 +43757,7 @@ width = 555;
 );
 },
 {
+color = 4;
 glyphname = a.ss04;
 kernLeft = o;
 kernRight = u;
@@ -43615,6 +44151,7 @@ metricLeft = o;
 metricRight = u;
 },
 {
+color = 4;
 glyphname = aacute.ss04;
 kernLeft = o;
 kernRight = u;
@@ -43702,6 +44239,7 @@ metricLeft = o;
 metricRight = u;
 },
 {
+color = 4;
 glyphname = abreve.ss04;
 kernLeft = o;
 kernRight = u;
@@ -43789,6 +44327,7 @@ metricLeft = o;
 metricRight = u;
 },
 {
+color = 4;
 glyphname = acircumflex.ss04;
 kernLeft = o;
 kernRight = u;
@@ -43876,6 +44415,7 @@ metricLeft = o;
 metricRight = u;
 },
 {
+color = 4;
 glyphname = adieresis.ss04;
 kernLeft = o;
 kernRight = u;
@@ -43963,6 +44503,7 @@ metricLeft = o;
 metricRight = u;
 },
 {
+color = 4;
 glyphname = agrave.ss04;
 kernLeft = o;
 kernRight = u;
@@ -44050,6 +44591,7 @@ metricLeft = o;
 metricRight = u;
 },
 {
+color = 4;
 glyphname = amacron.ss04;
 kernLeft = o;
 kernRight = u;
@@ -44137,6 +44679,7 @@ metricLeft = o;
 metricRight = u;
 },
 {
+color = 4;
 glyphname = aogonek.ss04;
 kernLeft = o;
 kernRight = u;
@@ -44224,6 +44767,7 @@ metricLeft = o;
 metricRight = "=u-40";
 },
 {
+color = 4;
 glyphname = aring.ss04;
 kernLeft = o;
 kernRight = u;
@@ -44311,6 +44855,7 @@ metricLeft = o;
 metricRight = u;
 },
 {
+color = 4;
 glyphname = atilde.ss04;
 kernLeft = o;
 kernRight = u;
@@ -44398,6 +44943,7 @@ metricLeft = o;
 metricRight = u;
 },
 {
+color = 4;
 glyphname = ae.ss04;
 kernLeft = o;
 kernRight = o;
@@ -44995,6 +45541,7 @@ metricLeft = o;
 metricRight = e;
 },
 {
+color = 4;
 glyphname = aeacute.ss04;
 kernLeft = o;
 kernRight = o;
@@ -45082,6 +45629,7 @@ metricLeft = o;
 metricRight = e;
 },
 {
+color = 4;
 glyphname = adieresis.ss07;
 kernLeft = a;
 kernRight = u;
@@ -45169,6 +45717,7 @@ metricLeft = a;
 metricRight = a;
 },
 {
+color = 4;
 glyphname = cdotaccent.ss07;
 kernLeft = o;
 kernRight = o;
@@ -45256,6 +45805,7 @@ metricLeft = o;
 metricRight = o;
 },
 {
+color = 4;
 glyphname = dcaron.ss07;
 kernLeft = o;
 kernRight = l;
@@ -45343,6 +45893,7 @@ metricLeft = d;
 metricRight = "=commaaccentcomb*-1.1";
 },
 {
+color = 4;
 glyphname = edieresis.ss07;
 kernLeft = o;
 kernRight = o;
@@ -45430,6 +45981,7 @@ metricLeft = o;
 metricRight = o;
 },
 {
+color = 4;
 glyphname = edotaccent.ss07;
 kernLeft = o;
 kernRight = o;
@@ -45517,6 +46069,7 @@ metricLeft = o;
 metricRight = o;
 },
 {
+color = 4;
 glyphname = gcommaaccent.ss07;
 kernLeft = o;
 kernRight = l;
@@ -45604,6 +46157,7 @@ metricLeft = g;
 metricRight = g;
 },
 {
+color = 4;
 glyphname = gdotaccent.ss07;
 kernLeft = o;
 kernRight = g;
@@ -45691,6 +46245,7 @@ metricLeft = o;
 metricRight = l;
 },
 {
+color = 4;
 glyphname = i.ss07;
 kernLeft = i;
 kernRight = i;
@@ -45699,7 +46254,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (390,0);
+pos = (410,0);
 }
 );
 layerId = m007;
@@ -45718,7 +46273,7 @@ width = 219;
 anchors = (
 {
 name = bottom;
-pos = (683,0);
+pos = (713,0);
 }
 );
 layerId = m01;
@@ -45737,7 +46292,7 @@ width = 225;
 anchors = (
 {
 name = bottom;
-pos = (619,0);
+pos = (654,0);
 }
 );
 layerId = m005;
@@ -45756,7 +46311,7 @@ width = 257;
 anchors = (
 {
 name = bottom;
-pos = (484,0);
+pos = (514,0);
 }
 );
 layerId = m004;
@@ -45775,7 +46330,7 @@ width = 226;
 anchors = (
 {
 name = bottom;
-pos = (726,0);
+pos = (760,0);
 }
 );
 layerId = m008;
@@ -45794,7 +46349,7 @@ width = 258;
 anchors = (
 {
 name = bottom;
-pos = (347,0);
+pos = (369,0);
 }
 );
 layerId = m006;
@@ -45814,6 +46369,7 @@ metricLeft = "=idotless-5";
 metricRight = "=idotless-5";
 },
 {
+color = 4;
 glyphname = idieresis.ss07;
 kernLeft = i;
 kernRight = i;
@@ -45901,6 +46457,7 @@ metricLeft = "=idotless-90";
 metricRight = "=idotless-90";
 },
 {
+color = 4;
 glyphname = idotaccent.ss07;
 kernLeft = i;
 kernRight = i;
@@ -45988,6 +46545,7 @@ metricLeft = "=idotless-10";
 metricRight = "=idotless-10";
 },
 {
+color = 4;
 glyphname = ij.ss07;
 kernLeft = i;
 kernRight = jdotless;
@@ -46075,6 +46633,7 @@ metricLeft = "=idotless-10";
 metricRight = "=jdotless-10";
 },
 {
+color = 4;
 glyphname = iogonek.ss07;
 kernLeft = i;
 kernRight = i;
@@ -46186,6 +46745,7 @@ metricLeft = "=idotless-40";
 metricRight = "=idotless-40";
 },
 {
+color = 4;
 glyphname = j.ss07;
 kernLeft = j;
 kernRight = i;
@@ -46273,6 +46833,7 @@ metricLeft = jdotless;
 metricRight = "=jdotless-10";
 },
 {
+color = 4;
 glyphname = kcommaaccent.ss07;
 kernLeft = l;
 kernRight = k;
@@ -46360,6 +46921,7 @@ metricLeft = k;
 metricRight = k;
 },
 {
+color = 4;
 glyphname = lcaron.ss07;
 kernLeft = l;
 kernRight = l;
@@ -46447,6 +47009,7 @@ metricLeft = l;
 metricRight = "=commaaccentcomb*-1.1";
 },
 {
+color = 4;
 glyphname = lcommaaccent.ss07;
 kernLeft = l;
 kernRight = l;
@@ -46545,7 +47108,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (23,0);
+pos = (27,0);
 ref = periodcentered.ss07;
 }
 );
@@ -46558,7 +47121,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (238,0);
+pos = (462,0);
 ref = periodcentered.ss07;
 }
 );
@@ -46584,7 +47147,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (31,0);
+pos = (51,0);
 ref = periodcentered.ss07;
 }
 );
@@ -46610,7 +47173,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (12306,0);
+pos = (24594,0);
 ref = periodcentered.ss07;
 }
 );
@@ -46621,6 +47184,7 @@ metricLeft = l;
 metricRight = "=l-45";
 },
 {
+color = 4;
 glyphname = napostrophe.ss07;
 kernLeft = m;
 kernRight = m;
@@ -46708,6 +47272,7 @@ metricLeft = "=m-80";
 metricRight = m;
 },
 {
+color = 4;
 glyphname = ncommaaccent.ss07;
 kernLeft = m;
 kernRight = m;
@@ -46795,6 +47360,7 @@ metricLeft = m;
 metricRight = m;
 },
 {
+color = 4;
 glyphname = odieresis.ss07;
 kernLeft = o;
 kernRight = o;
@@ -46882,6 +47448,7 @@ metricLeft = o;
 metricRight = o;
 },
 {
+color = 4;
 glyphname = rcommaaccent.ss07;
 kernLeft = m;
 kernRight = r;
@@ -46969,6 +47536,7 @@ metricLeft = "=r-5";
 metricRight = r;
 },
 {
+color = 4;
 glyphname = scommaaccent.ss07;
 kernLeft = s;
 kernRight = s;
@@ -47056,6 +47624,7 @@ metricLeft = s;
 metricRight = s;
 },
 {
+color = 4;
 glyphname = tcaron.ss07;
 kernLeft = t;
 kernRight = t;
@@ -47143,6 +47712,7 @@ metricLeft = t;
 metricRight = "=t-100";
 },
 {
+color = 4;
 glyphname = tcommaaccent.ss07;
 kernLeft = t;
 kernRight = t;
@@ -47230,6 +47800,7 @@ metricLeft = t;
 metricRight = t;
 },
 {
+color = 4;
 glyphname = udieresis.ss07;
 kernLeft = u;
 kernRight = u;
@@ -47317,6 +47888,7 @@ metricLeft = u;
 metricRight = u;
 },
 {
+color = 4;
 glyphname = wdieresis.ss07;
 kernLeft = w;
 kernRight = w;
@@ -47404,6 +47976,7 @@ metricLeft = w;
 metricRight = w;
 },
 {
+color = 4;
 glyphname = ydieresis.ss07;
 kernLeft = y;
 kernRight = y;
@@ -47491,6 +48064,7 @@ metricLeft = y;
 metricRight = y;
 },
 {
+color = 4;
 glyphname = zdotaccent.ss07;
 kernLeft = z;
 kernRight = z;
@@ -47578,6 +48152,7 @@ metricLeft = z;
 metricRight = z;
 },
 {
+color = 4;
 glyphname = ydieresis.ss02.ss07;
 kernLeft = y;
 kernRight = y;
@@ -47665,6 +48240,7 @@ metricLeft = y;
 metricRight = y;
 },
 {
+color = 4;
 glyphname = adieresis.ss04.ss07;
 kernLeft = o;
 kernRight = u;
@@ -48100,6 +48676,7 @@ metricLeft = t;
 metricRight = t;
 },
 {
+color = 4;
 glyphname = Delta;
 layers = (
 {
@@ -48262,6 +48839,7 @@ width = 770;
 unicode = 916;
 },
 {
+color = 4;
 glyphname = Omega;
 layers = (
 {
@@ -48538,6 +49116,7 @@ width = 769;
 unicode = 937;
 },
 {
+color = 4;
 glyphname = mu;
 layers = (
 {
@@ -48780,6 +49359,7 @@ metricRight = u;
 unicode = 956;
 },
 {
+color = 4;
 glyphname = pi;
 layers = (
 {
@@ -48974,6 +49554,7 @@ metricRight = q;
 unicode = 960;
 },
 {
+color = 4;
 glyphname = zero;
 kernLeft = zero;
 kernRight = zero;
@@ -49222,6 +49803,7 @@ width = 638;
 unicode = 48;
 },
 {
+color = 4;
 glyphname = one;
 kernLeft = one;
 kernRight = one;
@@ -49434,6 +50016,7 @@ width = 506;
 unicode = 49;
 },
 {
+color = 4;
 glyphname = two;
 kernLeft = two;
 kernRight = two;
@@ -49652,6 +50235,7 @@ width = 580;
 unicode = 50;
 },
 {
+color = 4;
 glyphname = three;
 kernLeft = three;
 kernRight = eight;
@@ -49978,6 +50562,7 @@ width = 572;
 unicode = 51;
 },
 {
+color = 4;
 glyphname = four;
 kernLeft = four;
 kernRight = four;
@@ -50178,6 +50763,7 @@ width = 661;
 unicode = 52;
 },
 {
+color = 4;
 glyphname = five;
 kernLeft = five;
 kernRight = five;
@@ -50444,6 +51030,7 @@ width = 566;
 unicode = 53;
 },
 {
+color = 4;
 glyphname = six;
 kernLeft = zero;
 kernRight = six;
@@ -50776,6 +51363,7 @@ width = 568;
 unicode = 54;
 },
 {
+color = 4;
 glyphname = seven;
 kernLeft = seven;
 kernRight = seven;
@@ -50922,6 +51510,7 @@ width = 515;
 unicode = 55;
 },
 {
+color = 4;
 glyphname = eight;
 kernLeft = eight;
 kernRight = eight;
@@ -51356,6 +51945,7 @@ width = 583;
 unicode = 56;
 },
 {
+color = 4;
 glyphname = nine;
 kernLeft = nine;
 kernRight = zero;
@@ -51688,6 +52278,7 @@ width = 601;
 unicode = 57;
 },
 {
+color = 4;
 glyphname = zero.zero;
 kernLeft = zero;
 kernRight = zero;
@@ -51805,6 +52396,7 @@ metricLeft = zero;
 metricRight = zero;
 },
 {
+color = 4;
 glyphname = zero.blackCircled;
 kernLeft = at;
 kernRight = at;
@@ -52157,6 +52749,7 @@ metricRight = blackCircle;
 unicode = 9471;
 },
 {
+color = 4;
 glyphname = one.blackCircled;
 kernLeft = at;
 kernRight = at;
@@ -52437,6 +53030,7 @@ metricRight = blackCircle;
 unicode = 10102;
 },
 {
+color = 4;
 glyphname = two.blackCircled;
 kernLeft = at;
 kernRight = at;
@@ -52759,6 +53353,7 @@ metricRight = blackCircle;
 unicode = 10103;
 },
 {
+color = 4;
 glyphname = three.blackCircled;
 kernLeft = at;
 kernRight = at;
@@ -53189,6 +53784,7 @@ metricRight = blackCircle;
 unicode = 10104;
 },
 {
+color = 4;
 glyphname = four.blackCircled;
 kernLeft = at;
 kernRight = at;
@@ -53481,6 +54077,7 @@ metricRight = blackCircle;
 unicode = 10105;
 },
 {
+color = 4;
 glyphname = five.blackCircled;
 kernLeft = at;
 kernRight = at;
@@ -53851,6 +54448,7 @@ metricRight = blackCircle;
 unicode = 10106;
 },
 {
+color = 4;
 glyphname = six.blackCircled;
 kernLeft = at;
 kernRight = at;
@@ -54287,6 +54885,7 @@ metricRight = blackCircle;
 unicode = 10107;
 },
 {
+color = 4;
 glyphname = seven.blackCircled;
 kernLeft = at;
 kernRight = at;
@@ -54537,6 +55136,7 @@ metricRight = blackCircle;
 unicode = 10108;
 },
 {
+color = 4;
 glyphname = eight.blackCircled;
 kernLeft = at;
 kernRight = at;
@@ -55075,6 +55675,7 @@ metricRight = blackCircle;
 unicode = 10109;
 },
 {
+color = 4;
 glyphname = nine.blackCircled;
 kernLeft = at;
 kernRight = at;
@@ -55511,6 +56112,7 @@ metricRight = blackCircle;
 unicode = 10110;
 },
 {
+color = 4;
 glyphname = zero.circled;
 kernLeft = at;
 kernRight = at;
@@ -55965,6 +56567,7 @@ metricRight = blackCircle;
 unicode = 9450;
 },
 {
+color = 4;
 glyphname = one.circled;
 kernLeft = at;
 kernRight = at;
@@ -56383,6 +56986,7 @@ metricRight = blackCircle;
 unicode = 9312;
 },
 {
+color = 4;
 glyphname = two.circled;
 kernLeft = at;
 kernRight = at;
@@ -56807,6 +57411,7 @@ metricRight = blackCircle;
 unicode = 9313;
 },
 {
+color = 4;
 glyphname = three.circled;
 kernLeft = at;
 kernRight = at;
@@ -57339,6 +57944,7 @@ metricRight = blackCircle;
 unicode = 9314;
 },
 {
+color = 4;
 glyphname = four.circled;
 kernLeft = at;
 kernRight = at;
@@ -57745,6 +58351,7 @@ metricRight = blackCircle;
 unicode = 9315;
 },
 {
+color = 4;
 glyphname = five.circled;
 kernLeft = at;
 kernRight = at;
@@ -58217,6 +58824,7 @@ metricRight = blackCircle;
 unicode = 9316;
 },
 {
+color = 4;
 glyphname = six.circled;
 kernLeft = at;
 kernRight = at;
@@ -58755,6 +59363,7 @@ metricRight = blackCircle;
 unicode = 9317;
 },
 {
+color = 4;
 glyphname = seven.circled;
 kernLeft = at;
 kernRight = at;
@@ -59107,6 +59716,7 @@ metricRight = blackCircle;
 unicode = 9318;
 },
 {
+color = 4;
 glyphname = eight.circled;
 kernLeft = at;
 kernRight = at;
@@ -59747,6 +60357,7 @@ metricRight = blackCircle;
 unicode = 9319;
 },
 {
+color = 4;
 glyphname = nine.circled;
 kernLeft = at;
 kernRight = at;
@@ -60285,6 +60896,7 @@ metricRight = blackCircle;
 unicode = 9320;
 },
 {
+color = 4;
 glyphname = one.ss05;
 kernLeft = onealt;
 kernRight = l;
@@ -60444,6 +61056,7 @@ metricLeft = "=one*.5";
 metricRight = "=H";
 },
 {
+color = 4;
 glyphname = two.ss05;
 kernLeft = two;
 kernRight = two;
@@ -60669,6 +61282,7 @@ metricLeft = "=two*1.25";
 metricRight = "=two";
 },
 {
+color = 4;
 glyphname = four.ss05;
 kernLeft = four;
 kernRight = four;
@@ -60840,6 +61454,7 @@ metricLeft = four;
 metricRight = four;
 },
 {
+color = 4;
 glyphname = zero.tf;
 layers = (
 {
@@ -61085,6 +61700,7 @@ width = 610;
 );
 },
 {
+color = 4;
 glyphname = one.tf;
 layers = (
 {
@@ -61294,6 +61910,7 @@ width = 610;
 );
 },
 {
+color = 4;
 glyphname = two.tf;
 layers = (
 {
@@ -61509,6 +62126,7 @@ width = 610;
 );
 },
 {
+color = 4;
 glyphname = three.tf;
 layers = (
 {
@@ -61832,6 +62450,7 @@ width = 610;
 );
 },
 {
+color = 4;
 glyphname = four.tf;
 layers = (
 {
@@ -62029,6 +62648,7 @@ width = 610;
 );
 },
 {
+color = 4;
 glyphname = five.tf;
 layers = (
 {
@@ -62292,6 +62912,7 @@ width = 610;
 );
 },
 {
+color = 4;
 glyphname = six.tf;
 layers = (
 {
@@ -62621,6 +63242,7 @@ width = 610;
 );
 },
 {
+color = 4;
 glyphname = seven.tf;
 layers = (
 {
@@ -62764,6 +63386,7 @@ width = 610;
 );
 },
 {
+color = 4;
 glyphname = eight.tf;
 layers = (
 {
@@ -63195,6 +63818,7 @@ width = 610;
 );
 },
 {
+color = 4;
 glyphname = nine.tf;
 layers = (
 {
@@ -63524,6 +64148,7 @@ width = 610;
 );
 },
 {
+color = 4;
 glyphname = one.blackCircled.ss05;
 kernLeft = at;
 kernRight = at;
@@ -63785,6 +64410,7 @@ metricLeft = blackCircle;
 metricRight = blackCircle;
 },
 {
+color = 4;
 glyphname = two.blackCircled.ss05;
 kernLeft = at;
 kernRight = at;
@@ -64118,6 +64744,7 @@ metricLeft = blackCircle;
 metricRight = blackCircle;
 },
 {
+color = 4;
 glyphname = four.blackCircled.ss05;
 kernLeft = at;
 kernRight = at;
@@ -64409,6 +65036,7 @@ metricLeft = blackCircle;
 metricRight = blackCircle;
 },
 {
+color = 4;
 glyphname = one.circled.ss05;
 kernLeft = at;
 kernRight = at;
@@ -64772,6 +65400,7 @@ metricLeft = blackCircle;
 metricRight = blackCircle;
 },
 {
+color = 4;
 glyphname = two.circled.ss05;
 kernLeft = at;
 kernRight = at;
@@ -65201,6 +65830,7 @@ metricLeft = blackCircle;
 metricRight = blackCircle;
 },
 {
+color = 4;
 glyphname = four.circled.ss05;
 kernLeft = at;
 kernRight = at;
@@ -65612,6 +66242,7 @@ metricLeft = blackCircle;
 metricRight = blackCircle;
 },
 {
+color = 4;
 glyphname = two.tf.ss05;
 layers = (
 {
@@ -65833,6 +66464,7 @@ width = 660;
 );
 },
 {
+color = 4;
 glyphname = four.tf.ss05;
 layers = (
 {
@@ -66000,6 +66632,7 @@ width = 610;
 );
 },
 {
+color = 4;
 glyphname = zero.tf.zero;
 layers = (
 {
@@ -66113,6 +66746,7 @@ width = 610;
 );
 },
 {
+color = 4;
 glyphname = zero.blackCircled.zero;
 kernLeft = at;
 kernRight = at;
@@ -66542,6 +67176,7 @@ metricLeft = blackCircle;
 metricRight = blackCircle;
 },
 {
+color = 4;
 glyphname = zero.circled.zero;
 layers = (
 {
@@ -67047,6 +67682,7 @@ metricLeft = blackCircle;
 metricRight = blackCircle;
 },
 {
+color = 4;
 glyphname = zero.dnom;
 kernLeft = zero;
 kernRight = zero;
@@ -67296,6 +67932,7 @@ metricLeft = zero;
 metricRight = zero;
 },
 {
+color = 4;
 glyphname = one.dnom;
 kernLeft = one;
 kernRight = one;
@@ -67509,6 +68146,7 @@ metricLeft = one;
 metricRight = one;
 },
 {
+color = 4;
 glyphname = two.dnom;
 kernLeft = two;
 kernRight = two;
@@ -67728,6 +68366,7 @@ metricLeft = two;
 metricRight = two;
 },
 {
+color = 4;
 glyphname = three.dnom;
 kernLeft = three;
 kernRight = three;
@@ -68055,6 +68694,7 @@ metricLeft = three;
 metricRight = three;
 },
 {
+color = 4;
 glyphname = four.dnom;
 kernLeft = four;
 kernRight = four;
@@ -68256,6 +68896,7 @@ metricLeft = "=four*.5";
 metricRight = four;
 },
 {
+color = 4;
 glyphname = five.dnom;
 kernLeft = five;
 kernRight = five;
@@ -68523,6 +69164,7 @@ metricLeft = five;
 metricRight = five;
 },
 {
+color = 4;
 glyphname = six.dnom;
 kernLeft = six;
 kernRight = six;
@@ -68856,6 +69498,7 @@ metricLeft = six;
 metricRight = six;
 },
 {
+color = 4;
 glyphname = seven.dnom;
 kernLeft = seven;
 kernRight = seven;
@@ -69003,6 +69646,7 @@ metricLeft = seven;
 metricRight = seven;
 },
 {
+color = 4;
 glyphname = eight.dnom;
 kernLeft = eight;
 kernRight = eight;
@@ -69438,6 +70082,7 @@ metricLeft = eight;
 metricRight = eight;
 },
 {
+color = 4;
 glyphname = nine.dnom;
 kernLeft = nine;
 kernRight = nine;
@@ -69771,6 +70416,7 @@ metricLeft = nine;
 metricRight = nine;
 },
 {
+color = 4;
 glyphname = zero.numr;
 kernLeft = zerodnom;
 kernRight = zerodnom;
@@ -69840,6 +70486,7 @@ metricLeft = zero.dnom;
 metricRight = zero.dnom;
 },
 {
+color = 4;
 glyphname = one.numr;
 kernLeft = onednom;
 kernRight = onednom;
@@ -69909,6 +70556,7 @@ metricLeft = one.dnom;
 metricRight = one.dnom;
 },
 {
+color = 4;
 glyphname = two.numr;
 kernLeft = twodnom;
 kernRight = twodnom;
@@ -69978,6 +70626,7 @@ metricLeft = two.dnom;
 metricRight = two.dnom;
 },
 {
+color = 4;
 glyphname = three.numr;
 kernLeft = threednom;
 kernRight = threednom;
@@ -70047,6 +70696,7 @@ metricLeft = three.dnom;
 metricRight = three.dnom;
 },
 {
+color = 4;
 glyphname = four.numr;
 kernLeft = fourdnom;
 kernRight = fourdnom;
@@ -70116,6 +70766,7 @@ metricLeft = four.dnom;
 metricRight = four.dnom;
 },
 {
+color = 4;
 glyphname = five.numr;
 kernLeft = fivednom;
 kernRight = fivednom;
@@ -70185,6 +70836,7 @@ metricLeft = five.dnom;
 metricRight = five.dnom;
 },
 {
+color = 4;
 glyphname = six.numr;
 kernLeft = sixdnom;
 kernRight = sixdnom;
@@ -70254,6 +70906,7 @@ metricLeft = six.dnom;
 metricRight = six.dnom;
 },
 {
+color = 4;
 glyphname = seven.numr;
 kernLeft = sevendnom;
 kernRight = sevendnom;
@@ -70323,6 +70976,7 @@ metricLeft = seven.dnom;
 metricRight = seven.dnom;
 },
 {
+color = 4;
 glyphname = eight.numr;
 kernLeft = eightdnom;
 kernRight = eightdnom;
@@ -70392,6 +71046,7 @@ metricLeft = eight.dnom;
 metricRight = eight.dnom;
 },
 {
+color = 4;
 glyphname = nine.numr;
 kernLeft = ninednom;
 kernRight = ninednom;
@@ -70461,6 +71116,7 @@ metricLeft = nine.dnom;
 metricRight = nine.dnom;
 },
 {
+color = 4;
 glyphname = fraction;
 kernLeft = fraction;
 kernRight = fraction;
@@ -70561,6 +71217,7 @@ metricRight = "=V*-18";
 unicode = 8260;
 },
 {
+color = 4;
 glyphname = onehalf;
 layers = (
 {
@@ -70671,6 +71328,7 @@ metricRight = two.dnom;
 unicode = 189;
 },
 {
+color = 4;
 glyphname = onethird;
 layers = (
 {
@@ -70781,6 +71439,7 @@ metricRight = three.dnom;
 unicode = 8531;
 },
 {
+color = 4;
 glyphname = twothirds;
 layers = (
 {
@@ -70891,6 +71550,7 @@ metricRight = three.dnom;
 unicode = 8532;
 },
 {
+color = 4;
 glyphname = onequarter;
 layers = (
 {
@@ -71001,6 +71661,7 @@ metricRight = four.dnom;
 unicode = 188;
 },
 {
+color = 4;
 glyphname = threequarters;
 layers = (
 {
@@ -71111,6 +71772,7 @@ metricRight = four.dnom;
 unicode = 190;
 },
 {
+color = 4;
 glyphname = oneeighth;
 layers = (
 {
@@ -71221,6 +71883,7 @@ metricRight = eight.dnom;
 unicode = 8539;
 },
 {
+color = 4;
 glyphname = threeeighths;
 layers = (
 {
@@ -71331,6 +71994,7 @@ metricRight = eight.dnom;
 unicode = 8540;
 },
 {
+color = 4;
 glyphname = fiveeighths;
 layers = (
 {
@@ -71441,6 +72105,7 @@ metricRight = eight.dnom;
 unicode = 8541;
 },
 {
+color = 4;
 glyphname = seveneighths;
 layers = (
 {
@@ -71551,6 +72216,7 @@ metricRight = eight.dnom;
 unicode = 8542;
 },
 {
+color = 4;
 glyphname = one.dnom.ss05;
 kernLeft = one;
 layers = (
@@ -71709,6 +72375,7 @@ metricLeft = one.ss05;
 metricRight = "=one.dnom+50";
 },
 {
+color = 4;
 glyphname = two.dnom.ss05;
 kernLeft = two;
 kernRight = two;
@@ -71934,6 +72601,7 @@ metricLeft = two.ss05;
 metricRight = two.ss05;
 },
 {
+color = 4;
 glyphname = four.dnom.ss05;
 kernLeft = four;
 kernRight = four;
@@ -72141,6 +72809,7 @@ metricLeft = "=four*.4";
 metricRight = four.ss05;
 },
 {
+color = 4;
 glyphname = one.numr.ss05;
 kernLeft = one;
 layers = (
@@ -72209,6 +72878,7 @@ metricLeft = "=one.dnom.ss05";
 metricRight = "=one.dnom.ss05";
 },
 {
+color = 4;
 glyphname = two.numr.ss05;
 kernLeft = two;
 kernRight = two;
@@ -72278,6 +72948,7 @@ metricLeft = "=two.dnom.ss05";
 metricRight = "=two.dnom.ss05";
 },
 {
+color = 4;
 glyphname = four.numr.ss05;
 kernLeft = four;
 kernRight = four;
@@ -72347,6 +73018,7 @@ metricLeft = "=four*.4";
 metricRight = "=four.dnom.ss05";
 },
 {
+color = 4;
 glyphname = onehalf.ss05;
 layers = (
 {
@@ -72456,6 +73128,7 @@ metricLeft = one.numr;
 metricRight = two.dnom;
 },
 {
+color = 4;
 glyphname = onethird.ss05;
 layers = (
 {
@@ -72565,6 +73238,7 @@ metricLeft = one.numr;
 metricRight = three.dnom;
 },
 {
+color = 4;
 glyphname = onequarter.ss05;
 layers = (
 {
@@ -72674,6 +73348,7 @@ metricLeft = one.numr;
 metricRight = four.dnom;
 },
 {
+color = 4;
 glyphname = threequarters.ss05;
 layers = (
 {
@@ -72783,6 +73458,7 @@ metricLeft = three.numr;
 metricRight = four.dnom;
 },
 {
+color = 4;
 glyphname = oneeighth.ss05;
 layers = (
 {
@@ -72892,6 +73568,7 @@ metricLeft = one.numr;
 metricRight = eight.dnom;
 },
 {
+color = 4;
 glyphname = zero.dnom.zero;
 kernLeft = zero;
 kernRight = zero;
@@ -73009,6 +73686,7 @@ metricLeft = zero.dnom;
 metricRight = zero.dnom;
 },
 {
+color = 4;
 glyphname = zero.numr.zero;
 kernLeft = zero;
 kernRight = zero;
@@ -73078,6 +73756,7 @@ metricLeft = zero.dnom;
 metricRight = zero.dnom;
 },
 {
+color = 4;
 glyphname = zeroinferior;
 layers = (
 {
@@ -73146,6 +73825,7 @@ metricRight = zero;
 unicode = 8320;
 },
 {
+color = 4;
 glyphname = oneinferior;
 layers = (
 {
@@ -73214,6 +73894,7 @@ metricRight = one;
 unicode = 8321;
 },
 {
+color = 4;
 glyphname = twoinferior;
 layers = (
 {
@@ -73282,6 +73963,7 @@ metricRight = two;
 unicode = 8322;
 },
 {
+color = 4;
 glyphname = threeinferior;
 layers = (
 {
@@ -73350,6 +74032,7 @@ metricRight = three;
 unicode = 8323;
 },
 {
+color = 4;
 glyphname = fourinferior;
 layers = (
 {
@@ -73418,6 +74101,7 @@ metricRight = four;
 unicode = 8324;
 },
 {
+color = 4;
 glyphname = fiveinferior;
 layers = (
 {
@@ -73486,6 +74170,7 @@ metricRight = five;
 unicode = 8325;
 },
 {
+color = 4;
 glyphname = sixinferior;
 layers = (
 {
@@ -73554,6 +74239,7 @@ metricRight = six;
 unicode = 8326;
 },
 {
+color = 4;
 glyphname = seveninferior;
 layers = (
 {
@@ -73622,6 +74308,7 @@ metricRight = seven;
 unicode = 8327;
 },
 {
+color = 4;
 glyphname = eightinferior;
 layers = (
 {
@@ -73690,6 +74377,7 @@ metricRight = eight;
 unicode = 8328;
 },
 {
+color = 4;
 glyphname = nineinferior;
 layers = (
 {
@@ -73758,6 +74446,7 @@ metricRight = nine;
 unicode = 8329;
 },
 {
+color = 4;
 glyphname = zerosuperior;
 layers = (
 {
@@ -73826,6 +74515,7 @@ metricRight = zero;
 unicode = 8304;
 },
 {
+color = 4;
 glyphname = onesuperior;
 layers = (
 {
@@ -73894,6 +74584,7 @@ metricRight = one;
 unicode = 185;
 },
 {
+color = 4;
 glyphname = twosuperior;
 layers = (
 {
@@ -73962,6 +74653,7 @@ metricRight = two;
 unicode = 178;
 },
 {
+color = 4;
 glyphname = threesuperior;
 layers = (
 {
@@ -74030,6 +74722,7 @@ metricRight = three;
 unicode = 179;
 },
 {
+color = 4;
 glyphname = foursuperior;
 layers = (
 {
@@ -74098,6 +74791,7 @@ metricRight = four;
 unicode = 8308;
 },
 {
+color = 4;
 glyphname = fivesuperior;
 layers = (
 {
@@ -74166,6 +74860,7 @@ metricRight = five;
 unicode = 8309;
 },
 {
+color = 4;
 glyphname = sixsuperior;
 layers = (
 {
@@ -74234,6 +74929,7 @@ metricRight = six;
 unicode = 8310;
 },
 {
+color = 4;
 glyphname = sevensuperior;
 layers = (
 {
@@ -74302,6 +74998,7 @@ metricRight = seven;
 unicode = 8311;
 },
 {
+color = 4;
 glyphname = eightsuperior;
 layers = (
 {
@@ -74370,6 +75067,7 @@ metricRight = eight;
 unicode = 8312;
 },
 {
+color = 4;
 glyphname = ninesuperior;
 layers = (
 {
@@ -74438,6 +75136,7 @@ metricRight = nine;
 unicode = 8313;
 },
 {
+color = 4;
 glyphname = oneinferior.ss05;
 layers = (
 {
@@ -74505,6 +75204,7 @@ metricLeft = one;
 metricRight = one;
 },
 {
+color = 4;
 glyphname = twoinferior.ss05;
 layers = (
 {
@@ -74572,6 +75272,7 @@ metricLeft = two;
 metricRight = two;
 },
 {
+color = 4;
 glyphname = fourinferior.ss05;
 layers = (
 {
@@ -74639,6 +75340,7 @@ metricLeft = four;
 metricRight = four;
 },
 {
+color = 4;
 glyphname = onesuperior.ss05;
 layers = (
 {
@@ -74706,6 +75408,7 @@ metricLeft = one;
 metricRight = one;
 },
 {
+color = 4;
 glyphname = twosuperior.ss05;
 layers = (
 {
@@ -74773,6 +75476,7 @@ metricLeft = two;
 metricRight = two;
 },
 {
+color = 4;
 glyphname = foursuperior.ss05;
 layers = (
 {
@@ -74901,6 +75605,7 @@ metricWidth = space;
 unicode = 160;
 },
 {
+color = 4;
 glyphname = period;
 kernLeft = period;
 kernRight = period;
@@ -74999,6 +75704,7 @@ width = 224;
 unicode = 46;
 },
 {
+color = 4;
 glyphname = comma;
 kernLeft = period;
 kernRight = period;
@@ -75177,6 +75883,7 @@ metricRight = period;
 unicode = 44;
 },
 {
+color = 4;
 glyphname = colon;
 kernLeft = colon;
 kernRight = colon;
@@ -75271,6 +75978,7 @@ metricRight = "=period*1.05";
 unicode = 58;
 },
 {
+color = 4;
 glyphname = semicolon;
 kernLeft = colon;
 kernRight = colon;
@@ -75365,6 +76073,7 @@ metricRight = period;
 unicode = 59;
 },
 {
+color = 4;
 glyphname = ellipsis;
 kernLeft = period;
 kernRight = period;
@@ -75477,6 +76186,7 @@ metricRight = period;
 unicode = 8230;
 },
 {
+color = 4;
 glyphname = exclam;
 kernLeft = exclam;
 kernRight = exclam;
@@ -75629,6 +76339,7 @@ width = 310;
 unicode = 33;
 },
 {
+color = 4;
 glyphname = exclamdown;
 kernLeft = j;
 kernRight = i;
@@ -75705,6 +76416,7 @@ metricRight = exclam;
 unicode = 161;
 },
 {
+color = 4;
 glyphname = question;
 kernLeft = question;
 kernRight = question;
@@ -75972,6 +76684,7 @@ metricLeft = "=exclam*.6";
 unicode = 63;
 },
 {
+color = 4;
 glyphname = questiondown;
 kernLeft = questiondown;
 kernRight = questiondown;
@@ -76048,6 +76761,7 @@ metricRight = question;
 unicode = 191;
 },
 {
+color = 4;
 glyphname = periodcentered;
 kernLeft = periodcentered;
 kernRight = periodcentered;
@@ -76146,6 +76860,7 @@ width = 237;
 unicode = 183;
 },
 {
+color = 4;
 glyphname = bullet;
 layers = (
 {
@@ -76290,6 +77005,7 @@ width = 368;
 unicode = 8226;
 },
 {
+color = 4;
 glyphname = asterisk;
 kernLeft = registered;
 kernRight = registered;
@@ -76598,6 +77314,7 @@ width = 522;
 unicode = 42;
 },
 {
+color = 4;
 glyphname = numbersign;
 layers = (
 {
@@ -76856,6 +77573,7 @@ width = 745;
 unicode = 35;
 },
 {
+color = 4;
 glyphname = slash;
 kernLeft = slash;
 kernRight = slash;
@@ -76954,6 +77672,7 @@ width = 473;
 unicode = 47;
 },
 {
+color = 4;
 glyphname = backslash;
 kernLeft = backslash;
 kernRight = backslash;
@@ -77054,6 +77773,7 @@ metricRight = slash;
 unicode = 92;
 },
 {
+color = 4;
 glyphname = exclamdown.case;
 kernLeft = f;
 kernRight = f;
@@ -77123,6 +77843,7 @@ metricLeft = exclam;
 metricRight = "=exclam";
 },
 {
+color = 4;
 glyphname = questiondown.case;
 kernLeft = questiondown.case;
 kernRight = questiondown.case;
@@ -77198,6 +77919,7 @@ metricLeft = question;
 metricRight = question;
 },
 {
+color = 4;
 glyphname = slash.case;
 layers = (
 {
@@ -77265,6 +77987,7 @@ metricLeft = slash;
 metricRight = slash;
 },
 {
+color = 4;
 glyphname = backslash.case;
 kernLeft = backslash.case;
 kernRight = backslash.case;
@@ -77334,6 +78057,7 @@ metricLeft = backslash;
 metricRight = backslash;
 },
 {
+color = 4;
 glyphname = exclam.ss06;
 kernLeft = l;
 kernRight = l;
@@ -77487,6 +78211,7 @@ metricLeft = "=exclam*1.1";
 metricRight = "=exclam*.9";
 },
 {
+color = 4;
 glyphname = exclamdown.ss06;
 kernLeft = l;
 kernRight = l;
@@ -77640,6 +78365,7 @@ metricLeft = "=exclam*1.1";
 metricRight = "=exclam*1.2";
 },
 {
+color = 4;
 glyphname = question.ss06;
 kernLeft = question;
 kernRight = question;
@@ -77901,6 +78627,7 @@ metricLeft = question;
 metricRight = question;
 },
 {
+color = 4;
 glyphname = questiondown.ss06;
 kernLeft = questiondown;
 kernRight = questiondown;
@@ -77976,6 +78703,7 @@ metricLeft = question;
 metricRight = question;
 },
 {
+color = 4;
 glyphname = asterisk.ss06;
 kernLeft = registered;
 kernRight = registered;
@@ -78141,6 +78869,7 @@ metricLeft = "=asterisk*.9";
 metricRight = "=asterisk*.9";
 },
 {
+color = 4;
 glyphname = period.ss07;
 kernLeft = period;
 kernRight = period;
@@ -78288,6 +79017,7 @@ metricLeft = "=period*.9";
 metricRight = "=period*.9";
 },
 {
+color = 4;
 glyphname = comma.ss07;
 kernLeft = period;
 kernRight = period;
@@ -78465,6 +79195,7 @@ metricLeft = "=period*.8";
 metricRight = "=period*.9";
 },
 {
+color = 4;
 glyphname = colon.ss07;
 kernLeft = colon;
 kernRight = colon;
@@ -78558,6 +79289,7 @@ metricLeft = "=period*1.05";
 metricRight = "=period*1.05";
 },
 {
+color = 4;
 glyphname = semicolon.ss07;
 kernLeft = colon;
 kernRight = colon;
@@ -78651,6 +79383,7 @@ metricLeft = "=period*.95";
 metricRight = "=period*.95";
 },
 {
+color = 4;
 glyphname = ellipsis.ss07;
 kernLeft = period;
 kernRight = period;
@@ -78763,6 +79496,7 @@ metricLeft = "=period*.9";
 metricRight = "=period*.9";
 },
 {
+color = 4;
 glyphname = exclam.ss07;
 kernLeft = exclam;
 kernRight = exclam;
@@ -78964,6 +79698,7 @@ metricLeft = exclam;
 metricRight = exclam;
 },
 {
+color = 4;
 glyphname = exclamdown.ss07;
 kernLeft = j;
 kernRight = i;
@@ -79039,6 +79774,7 @@ metricLeft = "=exclam*.6";
 metricRight = exclam;
 },
 {
+color = 4;
 glyphname = question.ss07;
 kernLeft = question;
 kernRight = question;
@@ -79354,6 +80090,7 @@ metricLeft = "=exclam*.6";
 metricRight = question;
 },
 {
+color = 4;
 glyphname = questiondown.ss07;
 layers = (
 {
@@ -79427,6 +80164,7 @@ metricLeft = question;
 metricRight = question;
 },
 {
+color = 4;
 glyphname = periodcentered.ss07;
 layers = (
 {
@@ -79572,6 +80310,7 @@ metricLeft = periodcentered;
 metricRight = periodcentered;
 },
 {
+color = 4;
 glyphname = exclamdown.case.ss06;
 kernLeft = l;
 kernRight = l;
@@ -79641,6 +80380,7 @@ metricLeft = exclam;
 metricRight = exclam;
 },
 {
+color = 4;
 glyphname = questiondown.case.ss06;
 layers = (
 {
@@ -79708,6 +80448,7 @@ metricLeft = question;
 metricRight = question;
 },
 {
+color = 4;
 glyphname = questiondown.case.ss07;
 layers = (
 {
@@ -79781,6 +80522,7 @@ metricLeft = question;
 metricRight = question;
 },
 {
+color = 4;
 glyphname = exclam.ss06.ss07;
 layers = (
 {
@@ -79980,6 +80722,7 @@ metricLeft = "=exclam*1.1";
 metricRight = "=exclam*1.2";
 },
 {
+color = 4;
 glyphname = exclamdown.ss06.ss07;
 layers = (
 {
@@ -80053,6 +80796,7 @@ metricLeft = "=exclam*1.1";
 metricRight = "=exclam*1.2";
 },
 {
+color = 4;
 glyphname = question.ss06.ss07;
 kernLeft = question;
 kernRight = question;
@@ -80362,6 +81106,7 @@ metricLeft = question;
 metricRight = question;
 },
 {
+color = 4;
 glyphname = questiondown.ss06.ss07;
 layers = (
 {
@@ -80435,6 +81180,7 @@ metricLeft = question;
 metricRight = question;
 },
 {
+color = 4;
 glyphname = exclamdown.case.ss06.ss07;
 kernLeft = l;
 kernRight = l;
@@ -80504,6 +81250,7 @@ metricLeft = "=exclam*1.1";
 metricRight = "=exclam*.9";
 },
 {
+color = 4;
 glyphname = questiondown.case.ss06.ss07;
 layers = (
 {
@@ -80577,6 +81324,7 @@ metricLeft = question;
 metricRight = question;
 },
 {
+color = 4;
 glyphname = hyphen;
 kernLeft = hyphen;
 kernRight = hyphen;
@@ -80675,6 +81423,7 @@ width = 492;
 unicode = 45;
 },
 {
+color = 4;
 glyphname = softhyphen;
 kernLeft = hyphen;
 kernRight = hyphen;
@@ -80739,6 +81488,7 @@ metricRight = hyphen;
 unicode = 173;
 },
 {
+color = 4;
 glyphname = endash;
 kernLeft = hyphen;
 kernRight = hyphen;
@@ -80839,6 +81589,7 @@ metricRight = hyphen;
 unicode = 8211;
 },
 {
+color = 4;
 glyphname = emdash;
 kernLeft = hyphen;
 kernRight = hyphen;
@@ -80939,6 +81690,7 @@ metricRight = hyphen;
 unicode = 8212;
 },
 {
+color = 4;
 glyphname = nonbreakinghyphen;
 kernLeft = hyphen;
 kernRight = hyphen;
@@ -81003,6 +81755,7 @@ metricRight = hyphen;
 unicode = 8209;
 },
 {
+color = 4;
 glyphname = underscore;
 layers = (
 {
@@ -81099,6 +81852,7 @@ width = 315;
 unicode = 95;
 },
 {
+color = 4;
 glyphname = hyphen.case;
 kernLeft = hyphen.case;
 kernRight = hyphen.case;
@@ -81168,6 +81922,7 @@ metricLeft = hyphen;
 metricRight = hyphen;
 },
 {
+color = 4;
 glyphname = softhyphen.case;
 kernLeft = hyphen.case;
 kernRight = hyphen.case;
@@ -81231,6 +81986,7 @@ metricLeft = hyphen;
 metricRight = hyphen;
 },
 {
+color = 4;
 glyphname = endash.case;
 kernLeft = hyphen.case;
 kernRight = hyphen.case;
@@ -81300,6 +82056,7 @@ metricLeft = hyphen;
 metricRight = hyphen;
 },
 {
+color = 4;
 glyphname = emdash.case;
 kernLeft = hyphen.case;
 kernRight = hyphen.case;
@@ -81369,6 +82126,7 @@ metricLeft = hyphen;
 metricRight = hyphen;
 },
 {
+color = 4;
 glyphname = parenleft;
 kernLeft = parenleft;
 kernRight = parenleft;
@@ -81527,6 +82285,7 @@ width = 330;
 unicode = 40;
 },
 {
+color = 4;
 glyphname = parenright;
 kernLeft = parenright;
 kernRight = parenright;
@@ -81601,6 +82360,7 @@ width = 331;
 unicode = 41;
 },
 {
+color = 4;
 glyphname = braceleft;
 kernLeft = parenleft;
 kernRight = parenleft;
@@ -81886,6 +82646,7 @@ metricRight = parenleft;
 unicode = 123;
 },
 {
+color = 4;
 glyphname = braceright;
 kernLeft = parenright;
 kernRight = parenright;
@@ -81961,6 +82722,7 @@ metricLeft = parenright;
 unicode = 125;
 },
 {
+color = 4;
 glyphname = bracketleft;
 kernLeft = parenleft;
 kernRight = parenleft;
@@ -82084,6 +82846,7 @@ metricRight = parenleft;
 unicode = 91;
 },
 {
+color = 4;
 glyphname = bracketright;
 kernLeft = parenright;
 kernRight = parenright;
@@ -82159,6 +82922,7 @@ metricLeft = parenright;
 unicode = 93;
 },
 {
+color = 4;
 glyphname = parenleft.case;
 kernLeft = parenleft.case;
 kernRight = parenleft.case;
@@ -82228,6 +82992,7 @@ metricLeft = parenleft;
 metricRight = parenleft;
 },
 {
+color = 4;
 glyphname = parenright.case;
 kernLeft = parenright.case;
 kernRight = parenright.case;
@@ -82297,6 +83062,7 @@ metricLeft = parenright;
 metricRight = parenright;
 },
 {
+color = 4;
 glyphname = braceleft.case;
 kernLeft = braceleft.case;
 kernRight = braceleft.case;
@@ -82366,6 +83132,7 @@ metricLeft = braceleft;
 metricRight = braceleft;
 },
 {
+color = 4;
 glyphname = braceright.case;
 kernLeft = braceright.case;
 kernRight = braceright.case;
@@ -82435,6 +83202,7 @@ metricLeft = braceright;
 metricRight = braceright;
 },
 {
+color = 4;
 glyphname = bracketleft.case;
 kernLeft = parenleft;
 kernRight = parenleft;
@@ -82504,6 +83272,7 @@ metricLeft = bracketleft;
 metricRight = bracketleft;
 },
 {
+color = 4;
 glyphname = bracketright.case;
 kernLeft = parenright;
 kernRight = parenright;
@@ -82573,6 +83342,7 @@ metricLeft = bracketright;
 metricRight = bracketright;
 },
 {
+color = 4;
 glyphname = quotesinglbase;
 kernLeft = period;
 kernRight = period;
@@ -82643,6 +83413,7 @@ metricRight = period;
 unicode = 8218;
 },
 {
+color = 4;
 glyphname = quotedblbase;
 kernLeft = period;
 kernRight = period;
@@ -82737,6 +83508,7 @@ metricRight = period;
 unicode = 8222;
 },
 {
+color = 4;
 glyphname = quotedblleft;
 kernLeft = quoteleft;
 kernRight = quoteleft;
@@ -82843,6 +83615,7 @@ metricRight = quoteleft;
 unicode = 8220;
 },
 {
+color = 4;
 glyphname = quotedblright;
 kernLeft = quoteright;
 kernRight = quoteright;
@@ -82937,6 +83710,7 @@ metricRight = quoteright;
 unicode = 8221;
 },
 {
+color = 4;
 glyphname = quoteleft;
 kernLeft = quoteleft;
 kernRight = quoteleft;
@@ -83011,6 +83785,7 @@ width = 229;
 unicode = 8216;
 },
 {
+color = 4;
 glyphname = quoteright;
 kernLeft = quoteright;
 kernRight = quoteright;
@@ -83079,6 +83854,7 @@ width = 216;
 unicode = 8217;
 },
 {
+color = 4;
 glyphname = guillemetleft;
 kernLeft = guilsinglleft;
 kernRight = guilsinglleft;
@@ -83167,6 +83943,7 @@ metricRight = guilsinglleft;
 unicode = 171;
 },
 {
+color = 4;
 glyphname = guillemetright;
 kernLeft = guilsinglright;
 kernRight = guilsinglright;
@@ -83255,6 +84032,7 @@ metricRight = guilsinglright;
 unicode = 187;
 },
 {
+color = 4;
 glyphname = guilsinglleft;
 kernLeft = guilsinglleft;
 kernRight = guilsinglleft;
@@ -83371,6 +84149,7 @@ width = 270;
 unicode = 8249;
 },
 {
+color = 4;
 glyphname = guilsinglright;
 kernLeft = guilsinglright;
 kernRight = guilsinglright;
@@ -83487,6 +84266,7 @@ width = 269;
 unicode = 8250;
 },
 {
+color = 4;
 glyphname = quotedbl;
 kernLeft = quoteright;
 kernRight = quoteleft;
@@ -83575,6 +84355,7 @@ metricRight = quotesingle;
 unicode = 34;
 },
 {
+color = 4;
 glyphname = quotesingle;
 kernLeft = quoteright;
 kernRight = quoteleft;
@@ -83673,6 +84454,7 @@ width = 187;
 unicode = 39;
 },
 {
+color = 4;
 glyphname = guillemetleft.case;
 kernLeft = guilsinglleft.case;
 kernRight = guilsinglleft.case;
@@ -83742,6 +84524,7 @@ metricLeft = guilsinglleft;
 metricRight = guilsinglleft;
 },
 {
+color = 4;
 glyphname = guillemetright.case;
 kernLeft = guilsinglright.case;
 kernRight = guilsinglright.case;
@@ -83811,6 +84594,7 @@ metricLeft = guilsinglright;
 metricRight = guilsinglright;
 },
 {
+color = 4;
 glyphname = guilsinglleft.case;
 kernLeft = guilsinglleft.case;
 kernRight = guilsinglleft.case;
@@ -83880,6 +84664,7 @@ metricLeft = guilsinglleft;
 metricRight = guilsinglleft;
 },
 {
+color = 4;
 glyphname = guilsinglright.case;
 kernLeft = guilsinglright.case;
 kernRight = guilsinglright.case;
@@ -83949,6 +84734,7 @@ metricLeft = guilsinglright;
 metricRight = guilsinglright;
 },
 {
+color = 4;
 glyphname = quotesinglbase.ss07;
 kernLeft = period;
 kernRight = period;
@@ -84012,6 +84798,7 @@ metricLeft = "=period*.8";
 metricRight = "=period*.9";
 },
 {
+color = 4;
 glyphname = quotedblbase.ss07;
 kernLeft = period;
 kernRight = period;
@@ -84099,6 +84886,7 @@ metricLeft = "=period*.8";
 metricRight = "=period*.9";
 },
 {
+color = 4;
 glyphname = quotedblleft.ss07;
 kernLeft = quoteleft;
 kernRight = quoteleft;
@@ -84186,6 +84974,7 @@ metricLeft = quoteleft;
 metricRight = quoteleft;
 },
 {
+color = 4;
 glyphname = quotedblright.ss07;
 kernLeft = quoteright;
 kernRight = quoteright;
@@ -84273,6 +85062,7 @@ metricLeft = quoteright;
 metricRight = quoteright;
 },
 {
+color = 4;
 glyphname = quoteleft.ss07;
 kernLeft = quoteleft;
 kernRight = quoteleft;
@@ -84348,6 +85138,7 @@ metricLeft = quoteleft;
 metricRight = quoteleft;
 },
 {
+color = 4;
 glyphname = quoteright.ss07;
 kernLeft = quoteright;
 kernRight = quoteright;
@@ -84423,6 +85214,7 @@ metricLeft = quoteright;
 metricRight = quoteright;
 },
 {
+color = 4;
 glyphname = florin;
 layers = (
 {
@@ -84669,6 +85461,7 @@ width = 423;
 unicode = 402;
 },
 {
+color = 4;
 glyphname = at;
 kernLeft = at;
 kernRight = at;
@@ -85241,6 +86034,7 @@ width = 869;
 unicode = 64;
 },
 {
+color = 4;
 glyphname = ampersand;
 kernLeft = ampersand;
 kernRight = ampersand;
@@ -85555,6 +86349,7 @@ width = 604;
 unicode = 38;
 },
 {
+color = 4;
 glyphname = paragraph;
 layers = (
 {
@@ -85843,6 +86638,7 @@ width = 659;
 unicode = 182;
 },
 {
+color = 4;
 glyphname = section;
 layers = (
 {
@@ -86257,6 +87053,7 @@ width = 469;
 unicode = 167;
 },
 {
+color = 4;
 glyphname = copyright;
 kernLeft = at;
 kernRight = at;
@@ -86513,6 +87310,7 @@ metricRight = "=at*1.2";
 unicode = 169;
 },
 {
+color = 4;
 glyphname = registered;
 kernLeft = registered;
 kernRight = registered;
@@ -87001,6 +87799,7 @@ width = 548;
 unicode = 174;
 },
 {
+color = 4;
 glyphname = published;
 kernLeft = registered;
 kernRight = registered;
@@ -87431,6 +88230,7 @@ metricRight = registered;
 unicode = 8471;
 },
 {
+color = 4;
 glyphname = trademark;
 kernLeft = registered;
 layers = (
@@ -87678,6 +88478,7 @@ width = 723;
 unicode = 8482;
 },
 {
+color = 4;
 glyphname = degree;
 kernLeft = registered;
 kernRight = registered;
@@ -87926,6 +88727,7 @@ width = 432;
 unicode = 176;
 },
 {
+color = 4;
 glyphname = bar;
 layers = (
 {
@@ -88022,6 +88824,7 @@ width = 274;
 unicode = 124;
 },
 {
+color = 4;
 glyphname = brokenbar;
 layers = (
 {
@@ -88174,6 +88977,7 @@ metricRight = bar;
 unicode = 166;
 },
 {
+color = 4;
 glyphname = dagger;
 layers = (
 {
@@ -88324,6 +89128,7 @@ width = 391;
 unicode = 8224;
 },
 {
+color = 4;
 glyphname = literSign;
 layers = (
 {
@@ -88660,6 +89465,7 @@ width = 663;
 unicode = 8467;
 },
 {
+color = 4;
 glyphname = daggerdbl;
 layers = (
 {
@@ -88866,6 +89672,7 @@ metricRight = dagger;
 unicode = 8225;
 },
 {
+color = 4;
 glyphname = estimated;
 layers = (
 {
@@ -89256,6 +90063,7 @@ width = 703;
 unicode = 8494;
 },
 {
+color = 4;
 glyphname = numero;
 kernLeft = H;
 kernRight = H;
@@ -89578,6 +90386,7 @@ metricRight = N;
 unicode = 8470;
 },
 {
+color = 4;
 glyphname = at.case;
 kernLeft = at.case;
 kernRight = at.case;
@@ -89647,6 +90456,7 @@ metricLeft = at;
 metricRight = at;
 },
 {
+color = 4;
 glyphname = bar.case;
 layers = (
 {
@@ -89714,6 +90524,7 @@ metricLeft = bar;
 metricRight = bar;
 },
 {
+color = 4;
 glyphname = bitcoin;
 layers = (
 {
@@ -90262,6 +91073,7 @@ metricRight = B;
 unicode = 8383;
 },
 {
+color = 4;
 glyphname = cent;
 layers = (
 {
@@ -90546,6 +91358,7 @@ metricRight = c;
 unicode = 162;
 },
 {
+color = 4;
 glyphname = currency;
 layers = (
 {
@@ -91008,6 +91821,7 @@ width = 635;
 unicode = 164;
 },
 {
+color = 4;
 glyphname = dollar;
 layers = (
 {
@@ -91328,6 +92142,7 @@ metricRight = S;
 unicode = 36;
 },
 {
+color = 4;
 glyphname = euro;
 layers = (
 {
@@ -91666,6 +92481,7 @@ metricRight = C;
 unicode = 8364;
 },
 {
+color = 4;
 glyphname = liraTurkish;
 layers = (
 {
@@ -91918,6 +92734,7 @@ width = 672;
 unicode = 8378;
 },
 {
+color = 4;
 glyphname = rupeeIndian;
 layers = (
 {
@@ -92230,6 +93047,7 @@ width = 616;
 unicode = 8377;
 },
 {
+color = 4;
 glyphname = sterling;
 layers = (
 {
@@ -92536,6 +93354,7 @@ width = 671;
 unicode = 163;
 },
 {
+color = 4;
 glyphname = won;
 layers = (
 {
@@ -92814,6 +93633,7 @@ metricRight = W;
 unicode = 8361;
 },
 {
+color = 4;
 glyphname = yen;
 layers = (
 {
@@ -93098,6 +93918,7 @@ metricRight = Y;
 unicode = 165;
 },
 {
+color = 4;
 glyphname = plus;
 kernLeft = plus;
 kernRight = plus;
@@ -93250,6 +94071,7 @@ width = 596;
 unicode = 43;
 },
 {
+color = 4;
 glyphname = minus;
 layers = (
 {
@@ -93348,6 +94170,7 @@ metricWidth = "=plus";
 unicode = 8722;
 },
 {
+color = 4;
 glyphname = multiply;
 layers = (
 {
@@ -93500,6 +94323,7 @@ metricWidth = "=plus";
 unicode = 215;
 },
 {
+color = 4;
 glyphname = divide;
 layers = (
 {
@@ -93802,6 +94626,7 @@ metricWidth = "=plus";
 unicode = 247;
 },
 {
+color = 4;
 glyphname = equal;
 layers = (
 {
@@ -93954,6 +94779,7 @@ metricWidth = "=plus";
 unicode = 61;
 },
 {
+color = 4;
 glyphname = notequal;
 layers = (
 {
@@ -94160,6 +94986,7 @@ metricWidth = "=plus";
 unicode = 8800;
 },
 {
+color = 4;
 glyphname = greater;
 layers = (
 {
@@ -94282,6 +95109,7 @@ metricWidth = "=plus";
 unicode = 62;
 },
 {
+color = 4;
 glyphname = less;
 kernLeft = less;
 kernRight = less;
@@ -94406,6 +95234,7 @@ metricWidth = "=plus";
 unicode = 60;
 },
 {
+color = 4;
 glyphname = greaterequal;
 layers = (
 {
@@ -94582,6 +95411,7 @@ metricWidth = "=plus";
 unicode = 8805;
 },
 {
+color = 4;
 glyphname = lessequal;
 layers = (
 {
@@ -94758,6 +95588,7 @@ metricWidth = "=plus";
 unicode = 8804;
 },
 {
+color = 4;
 glyphname = plusminus;
 layers = (
 {
@@ -94964,6 +95795,7 @@ metricWidth = "=plus";
 unicode = 177;
 },
 {
+color = 4;
 glyphname = approxequal;
 layers = (
 {
@@ -95308,6 +96140,7 @@ metricWidth = "=plus";
 unicode = 8776;
 },
 {
+color = 4;
 glyphname = asciitilde;
 layers = (
 {
@@ -95502,6 +96335,7 @@ metricWidth = "=plus";
 unicode = 126;
 },
 {
+color = 4;
 glyphname = logicalnot;
 layers = (
 {
@@ -95654,6 +96488,7 @@ metricWidth = "=plus";
 unicode = 172;
 },
 {
+color = 4;
 glyphname = asciicircum;
 layers = (
 {
@@ -95715,6 +96550,7 @@ metricWidth = "=plus";
 unicode = 94;
 },
 {
+color = 4;
 glyphname = infinity;
 layers = (
 {
@@ -96033,6 +96869,7 @@ width = 925;
 unicode = 8734;
 },
 {
+color = 4;
 glyphname = emptyset;
 layers = (
 {
@@ -96333,6 +97170,7 @@ width = 965;
 unicode = 8709;
 },
 {
+color = 4;
 glyphname = integral;
 layers = (
 {
@@ -96525,6 +97363,7 @@ width = 599;
 unicode = 8747;
 },
 {
+color = 4;
 glyphname = increment;
 layers = (
 {
@@ -96687,6 +97526,7 @@ width = 770;
 unicode = 8710;
 },
 {
+color = 4;
 glyphname = product;
 layers = (
 {
@@ -96807,6 +97647,7 @@ width = 706;
 unicode = 8719;
 },
 {
+color = 4;
 glyphname = summation;
 layers = (
 {
@@ -96969,6 +97810,7 @@ width = 683;
 unicode = 8721;
 },
 {
+color = 4;
 glyphname = radical;
 layers = (
 {
@@ -97107,6 +97949,7 @@ width = 633;
 unicode = 8730;
 },
 {
+color = 4;
 glyphname = micro;
 layers = (
 {
@@ -97167,6 +98010,7 @@ width = 550;
 unicode = 181;
 },
 {
+color = 4;
 glyphname = partialdiff;
 layers = (
 {
@@ -97461,6 +98305,7 @@ width = 675;
 unicode = 8706;
 },
 {
+color = 4;
 glyphname = percent;
 kernLeft = percent;
 kernRight = percent;
@@ -97967,6 +98812,7 @@ width = 790;
 unicode = 37;
 },
 {
+color = 4;
 glyphname = perthousand;
 layers = (
 {
@@ -98677,6 +99523,7 @@ metricRight = percent;
 unicode = 8240;
 },
 {
+color = 4;
 glyphname = upArrow;
 layers = (
 {
@@ -98899,6 +99746,7 @@ width = 667;
 unicode = 8593;
 },
 {
+color = 4;
 glyphname = northEastArrow;
 layers = (
 {
@@ -99195,6 +100043,7 @@ metricRight = upArrow;
 unicode = 8599;
 },
 {
+color = 4;
 glyphname = rightArrow;
 layers = (
 {
@@ -99419,6 +100268,7 @@ metricRight = upArrow;
 unicode = 8594;
 },
 {
+color = 4;
 glyphname = southEastArrow;
 layers = (
 {
@@ -99715,6 +100565,7 @@ metricRight = upArrow;
 unicode = 8600;
 },
 {
+color = 4;
 glyphname = downArrow;
 layers = (
 {
@@ -99939,6 +100790,7 @@ metricRight = upArrow;
 unicode = 8595;
 },
 {
+color = 4;
 glyphname = southWestArrow;
 layers = (
 {
@@ -100235,6 +101087,7 @@ metricRight = upArrow;
 unicode = 8601;
 },
 {
+color = 4;
 glyphname = leftArrow;
 layers = (
 {
@@ -100459,6 +101312,7 @@ metricRight = upArrow;
 unicode = 8592;
 },
 {
+color = 4;
 glyphname = northWestArrow;
 layers = (
 {
@@ -100755,6 +101609,7 @@ metricRight = upArrow;
 unicode = 8598;
 },
 {
+color = 4;
 glyphname = leftRightArrow;
 layers = (
 {
@@ -101105,6 +101960,7 @@ metricRight = upArrow;
 unicode = 8596;
 },
 {
+color = 4;
 glyphname = upDownArrow;
 layers = (
 {
@@ -101455,6 +102311,7 @@ metricRight = upArrow;
 unicode = 8597;
 },
 {
+color = 4;
 glyphname = leftHookArrow;
 layers = (
 {
@@ -101763,6 +102620,7 @@ metricRight = upArrow;
 unicode = 8617;
 },
 {
+color = 4;
 glyphname = rightHookArrow;
 layers = (
 {
@@ -102071,6 +102929,7 @@ metricRight = upArrow;
 unicode = 8618;
 },
 {
+color = 4;
 glyphname = upTipLeftArrow;
 layers = (
 {
@@ -102307,6 +103166,7 @@ metricRight = upArrow;
 unicode = 8624;
 },
 {
+color = 4;
 glyphname = upTipRightArrow;
 layers = (
 {
@@ -102543,6 +103403,7 @@ metricRight = upArrow;
 unicode = 8625;
 },
 {
+color = 4;
 glyphname = downTipLeftArrow;
 layers = (
 {
@@ -102617,6 +103478,7 @@ metricRight = upArrow;
 unicode = 8626;
 },
 {
+color = 4;
 glyphname = downTipRightArrow;
 layers = (
 {
@@ -102691,6 +103553,7 @@ metricRight = upArrow;
 unicode = 8627;
 },
 {
+color = 4;
 glyphname = upArrow.case;
 layers = (
 {
@@ -102758,6 +103621,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = northEastArrow.case;
 layers = (
 {
@@ -102825,6 +103689,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = rightArrow.case;
 layers = (
 {
@@ -102892,6 +103757,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = southEastArrow.case;
 layers = (
 {
@@ -102959,6 +103825,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = downArrow.case;
 layers = (
 {
@@ -103026,6 +103893,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = southWestArrow.case;
 layers = (
 {
@@ -103093,6 +103961,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = leftArrow.case;
 layers = (
 {
@@ -103160,6 +104029,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = northWestArrow.case;
 layers = (
 {
@@ -103227,6 +104097,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = leftRightArrow.case;
 layers = (
 {
@@ -103294,6 +104165,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = upDownArrow.case;
 layers = (
 {
@@ -103361,6 +104233,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = leftHookArrow.case;
 layers = (
 {
@@ -103428,6 +104301,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = rightHookArrow.case;
 layers = (
 {
@@ -103495,6 +104369,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = upTipLeftArrow.case;
 layers = (
 {
@@ -103562,6 +104437,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = upTipRightArrow.case;
 layers = (
 {
@@ -103629,6 +104505,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = downTipLeftArrow.case;
 layers = (
 {
@@ -103696,6 +104573,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = downTipRightArrow.case;
 layers = (
 {
@@ -103763,6 +104641,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = upArrow.ss08;
 layers = (
 {
@@ -103932,6 +104811,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = northEastArrow.ss08;
 layers = (
 {
@@ -104101,6 +104981,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = rightArrow.ss08;
 layers = (
 {
@@ -104270,6 +105151,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = southEastArrow.ss08;
 layers = (
 {
@@ -104439,6 +105321,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = downArrow.ss08;
 layers = (
 {
@@ -104608,6 +105491,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = southWestArrow.ss08;
 layers = (
 {
@@ -104777,6 +105661,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = leftArrow.ss08;
 layers = (
 {
@@ -104946,6 +105831,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = northWestArrow.ss08;
 layers = (
 {
@@ -105115,6 +106001,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = leftRightArrow.ss08;
 layers = (
 {
@@ -105356,6 +106243,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = upDownArrow.ss08;
 layers = (
 {
@@ -105597,6 +106485,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = leftHookArrow.ss08;
 layers = (
 {
@@ -105850,6 +106739,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = rightHookArrow.ss08;
 layers = (
 {
@@ -106103,6 +106993,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = upTipLeftArrow.ss08;
 layers = (
 {
@@ -106284,6 +107175,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = upTipRightArrow.ss08;
 layers = (
 {
@@ -106465,6 +107357,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = downTipLeftArrow.ss08;
 layers = (
 {
@@ -106538,6 +107431,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = downTipRightArrow.ss08;
 layers = (
 {
@@ -106611,6 +107505,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = upArrow.case.ss08;
 layers = (
 {
@@ -106678,6 +107573,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = northEastArrow.case.ss08;
 layers = (
 {
@@ -106745,6 +107641,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = rightArrow.case.ss08;
 layers = (
 {
@@ -106812,6 +107709,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = southEastArrow.case.ss08;
 layers = (
 {
@@ -106879,6 +107777,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = downArrow.case.ss08;
 layers = (
 {
@@ -106946,6 +107845,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = southWestArrow.case.ss08;
 layers = (
 {
@@ -107013,6 +107913,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = leftArrow.case.ss08;
 layers = (
 {
@@ -107080,6 +107981,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = northWestArrow.case.ss08;
 layers = (
 {
@@ -107147,6 +108049,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = leftRightArrow.case.ss08;
 layers = (
 {
@@ -107214,6 +108117,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = upDownArrow.case.ss08;
 layers = (
 {
@@ -107281,6 +108185,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = leftHookArrow.case.ss08;
 layers = (
 {
@@ -107348,6 +108253,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = rightHookArrow.case.ss08;
 layers = (
 {
@@ -107415,6 +108321,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = upTipLeftArrow.case.ss08;
 layers = (
 {
@@ -107482,6 +108389,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = upTipRightArrow.case.ss08;
 layers = (
 {
@@ -107549,6 +108457,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = downTipLeftArrow.case.ss08;
 layers = (
 {
@@ -107616,6 +108525,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = downTipRightArrow.case.ss08;
 layers = (
 {
@@ -107683,6 +108593,7 @@ metricLeft = upArrow;
 metricRight = upArrow;
 },
 {
+color = 4;
 glyphname = blackCircle;
 layers = (
 {
@@ -107827,6 +108738,7 @@ width = 919;
 unicode = 9679;
 },
 {
+color = 4;
 glyphname = whiteCircle;
 layers = (
 {
@@ -108075,6 +108987,7 @@ metricRight = blackCircle;
 unicode = 9675;
 },
 {
+color = 4;
 glyphname = lozenge;
 layers = (
 {
@@ -108094,14 +109007,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
+(305,24,l),
 (134,391,l),
 (134,309,l),
 (305,676,l),
 (266,675,l),
 (447,310,l),
 (447,390,l),
-(266,25,l),
-(305,24,l)
+(266,24,l)
 );
 }
 );
@@ -108184,14 +109097,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
+(261,24,l),
 (161,391,l),
 (150,309,l),
 (392,676,l),
 (348,675,l),
 (458,310,l),
 (469,390,l),
-(217,25,l),
-(261,24,l)
+(217,24,l)
 );
 }
 );
@@ -108244,14 +109157,14 @@ nodes = (
 {
 closed = 1;
 nodes = (
+(242,24,l),
 (154,365,l),
 (150,332,l),
 (371,676,l),
 (361,675,l),
 (462,324,l),
 (467,374,l),
-(232,25,l),
-(242,24,l)
+(232,24,l)
 );
 }
 );
