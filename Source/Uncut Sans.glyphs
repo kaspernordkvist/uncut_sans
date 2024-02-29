@@ -5384,7 +5384,7 @@ layers = (
 anchors = (
 {
 name = top;
-pos = (423,700);
+pos = (578,700);
 }
 );
 layerId = m01;
@@ -5403,7 +5403,7 @@ width = 548;
 anchors = (
 {
 name = top;
-pos = (600,700);
+pos = (714,700);
 }
 );
 layerId = m005;
@@ -5422,7 +5422,7 @@ width = 580;
 anchors = (
 {
 name = top;
-pos = (500,700);
+pos = (640,700);
 }
 );
 layerId = m007;
@@ -5441,7 +5441,7 @@ width = 543;
 anchors = (
 {
 name = top;
-pos = (560,700);
+pos = (653,700);
 }
 );
 layerId = m004;
@@ -5460,7 +5460,7 @@ width = 548;
 anchors = (
 {
 name = top;
-pos = (637,700);
+pos = (751,700);
 }
 );
 layerId = m008;
@@ -5479,7 +5479,7 @@ width = 580;
 anchors = (
 {
 name = top;
-pos = (608,700);
+pos = (698,700);
 }
 );
 layerId = m006;
@@ -29627,7 +29627,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (531,0);
+pos = (626,0);
 }
 );
 layerId = m01;
@@ -29646,7 +29646,7 @@ width = 225;
 anchors = (
 {
 name = bottom;
-pos = (554,0);
+pos = (629,0);
 }
 );
 layerId = m005;
@@ -29665,7 +29665,7 @@ width = 257;
 anchors = (
 {
 name = bottom;
-pos = (433,0);
+pos = (528,0);
 }
 );
 layerId = m007;
@@ -29684,7 +29684,7 @@ width = 219;
 anchors = (
 {
 name = bottom;
-pos = (370,0);
+pos = (424,0);
 }
 );
 layerId = m004;
@@ -29703,7 +29703,7 @@ width = 226;
 anchors = (
 {
 name = bottom;
-pos = (608,0);
+pos = (680,0);
 }
 );
 layerId = m008;
@@ -29721,7 +29721,7 @@ width = 258;
 anchors = (
 {
 name = bottom;
-pos = (349,0);
+pos = (403,0);
 }
 );
 layerId = m006;
@@ -45921,7 +45921,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (450,0);
+pos = (550,0);
 }
 );
 layerId = m007;
@@ -45940,7 +45940,7 @@ width = 219;
 anchors = (
 {
 name = bottom;
-pos = (773,0);
+pos = (923,0);
 }
 );
 layerId = m01;
@@ -45959,7 +45959,7 @@ width = 225;
 anchors = (
 {
 name = bottom;
-pos = (724,0);
+pos = (829,0);
 }
 );
 layerId = m005;
@@ -45978,7 +45978,7 @@ width = 257;
 anchors = (
 {
 name = bottom;
-pos = (574,0);
+pos = (664,0);
 }
 );
 layerId = m004;
@@ -45997,7 +45997,7 @@ width = 226;
 anchors = (
 {
 name = bottom;
-pos = (828,0);
+pos = (930,0);
 }
 );
 layerId = m008;
@@ -46016,7 +46016,7 @@ width = 258;
 anchors = (
 {
 name = bottom;
-pos = (413,0);
+pos = (479,0);
 }
 );
 layerId = m006;
@@ -70727,14 +70727,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-77,40,l),
-(366,660,l),
-(303,660,l),
-(-140,40,l)
+(-97,40,l),
+(346,660,l),
+(283,660,l),
+(-160,40,l)
 );
 }
 );
-width = 186;
+width = 141;
 },
 {
 layerId = m005;
@@ -70742,14 +70742,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-14,40,l),
-(359,660,l),
-(261,660,l),
-(-112,40,l)
+(-30,40,l),
+(343,660,l),
+(245,660,l),
+(-128,40,l)
 );
 }
 );
-width = 215;
+width = 179;
 },
 {
 layerId = m007;
@@ -70757,14 +70757,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-105,40,l),
-(364,660,l),
-(315,660,l),
-(-154,40,l)
+(-127,40,l),
+(342,660,l),
+(293,660,l),
+(-176,40,l)
 );
 }
 );
-width = 166;
+width = 117;
 },
 {
 layerId = m004;
@@ -70772,14 +70772,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-112,40,l),
-(467,670,l),
-(398,670,l),
-(-181,40,l)
+(-132,40,l),
+(447,670,l),
+(378,670,l),
+(-201,40,l)
 );
 }
 );
-width = 205;
+width = 160;
 },
 {
 layerId = m008;
@@ -70787,14 +70787,14 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-41,40,l),
-(498,660,l),
-(386,660,l),
-(-153,40,l)
+(-57,40,l),
+(482,660,l),
+(370,660,l),
+(-169,40,l)
 );
 }
 );
-width = 274;
+width = 238;
 },
 {
 layerId = m006;
@@ -70802,18 +70802,18 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(-140,40,l),
-(435,660,l),
-(380,660,l),
-(-195,40,l)
+(-162,40,l),
+(413,660,l),
+(358,660,l),
+(-217,40,l)
 );
 }
 );
-width = 157;
+width = 108;
 }
 );
-metricLeft = "=A*-7";
-metricRight = "=V*-18";
+metricLeft = "=A*-8";
+metricRight = "=V*-20.5";
 unicode = 8260;
 },
 {
@@ -70830,11 +70830,11 @@ pos = (335,0);
 ref = fraction;
 },
 {
-pos = (521,0);
+pos = (476,0);
 ref = two.dnom;
 }
 );
-width = 878;
+width = 833;
 },
 {
 layerId = m005;
@@ -70847,11 +70847,11 @@ pos = (356,0);
 ref = fraction;
 },
 {
-pos = (571,0);
+pos = (535,0);
 ref = two.dnom;
 }
 );
-width = 944;
+width = 908;
 },
 {
 layerId = m007;
@@ -70864,11 +70864,11 @@ pos = (332,0);
 ref = fraction;
 },
 {
-pos = (498,0);
+pos = (449,0);
 ref = two.dnom;
 }
 );
-width = 853;
+width = 804;
 },
 {
 layerId = m004;
@@ -70881,11 +70881,11 @@ pos = (336,0);
 ref = fraction;
 },
 {
-pos = (541,0);
+pos = (496,0);
 ref = two.dnom;
 }
 );
-width = 899;
+width = 854;
 },
 {
 layerId = m008;
@@ -70898,11 +70898,11 @@ pos = (358,0);
 ref = fraction;
 },
 {
-pos = (632,0);
+pos = (596,0);
 ref = two.dnom;
 }
 );
-width = 1006;
+width = 970;
 },
 {
 layerId = m006;
@@ -70915,11 +70915,11 @@ pos = (333,0);
 ref = fraction;
 },
 {
-pos = (490,0);
+pos = (441,0);
 ref = two.dnom;
 }
 );
-width = 846;
+width = 797;
 }
 );
 metricLeft = one.numr;
@@ -70940,11 +70940,11 @@ pos = (335,0);
 ref = fraction;
 },
 {
-pos = (521,0);
+pos = (476,0);
 ref = three.dnom;
 }
 );
-width = 879;
+width = 834;
 },
 {
 layerId = m005;
@@ -70957,11 +70957,11 @@ pos = (356,0);
 ref = fraction;
 },
 {
-pos = (571,0);
+pos = (535,0);
 ref = three.dnom;
 }
 );
-width = 940;
+width = 904;
 },
 {
 layerId = m007;
@@ -70974,11 +70974,11 @@ pos = (332,0);
 ref = fraction;
 },
 {
-pos = (498,0);
+pos = (449,0);
 ref = three.dnom;
 }
 );
-width = 845;
+width = 796;
 },
 {
 layerId = m004;
@@ -70991,11 +70991,11 @@ pos = (336,0);
 ref = fraction;
 },
 {
-pos = (541,0);
+pos = (496,0);
 ref = three.dnom;
 }
 );
-width = 899;
+width = 854;
 },
 {
 layerId = m008;
@@ -71008,11 +71008,11 @@ pos = (358,0);
 ref = fraction;
 },
 {
-pos = (632,0);
+pos = (596,0);
 ref = three.dnom;
 }
 );
-width = 1002;
+width = 966;
 },
 {
 layerId = m006;
@@ -71025,11 +71025,11 @@ pos = (333,0);
 ref = fraction;
 },
 {
-pos = (490,0);
+pos = (441,0);
 ref = three.dnom;
 }
 );
-width = 837;
+width = 788;
 }
 );
 metricLeft = one.numr;
@@ -71050,11 +71050,11 @@ pos = (347,0);
 ref = fraction;
 },
 {
-pos = (533,0);
+pos = (488,0);
 ref = three.dnom;
 }
 );
-width = 891;
+width = 846;
 },
 {
 layerId = m005;
@@ -71067,11 +71067,11 @@ pos = (363,0);
 ref = fraction;
 },
 {
-pos = (578,0);
+pos = (542,0);
 ref = three.dnom;
 }
 );
-width = 947;
+width = 911;
 },
 {
 layerId = m007;
@@ -71084,11 +71084,11 @@ pos = (345,0);
 ref = fraction;
 },
 {
-pos = (511,0);
+pos = (462,0);
 ref = three.dnom;
 }
 );
-width = 858;
+width = 809;
 },
 {
 layerId = m004;
@@ -71101,11 +71101,11 @@ pos = (348,0);
 ref = fraction;
 },
 {
-pos = (553,0);
+pos = (508,0);
 ref = three.dnom;
 }
 );
-width = 911;
+width = 866;
 },
 {
 layerId = m008;
@@ -71118,11 +71118,11 @@ pos = (364,0);
 ref = fraction;
 },
 {
-pos = (638,0);
+pos = (602,0);
 ref = three.dnom;
 }
 );
-width = 1008;
+width = 972;
 },
 {
 layerId = m006;
@@ -71135,11 +71135,11 @@ pos = (346,0);
 ref = fraction;
 },
 {
-pos = (503,0);
+pos = (454,0);
 ref = three.dnom;
 }
 );
-width = 850;
+width = 801;
 }
 );
 metricLeft = two.numr;
@@ -71160,11 +71160,11 @@ pos = (335,0);
 ref = fraction;
 },
 {
-pos = (501,0);
+pos = (456,0);
 ref = four.dnom;
 }
 );
-width = 884;
+width = 839;
 },
 {
 layerId = m005;
@@ -71177,11 +71177,11 @@ pos = (356,0);
 ref = fraction;
 },
 {
-pos = (551,0);
+pos = (515,0);
 ref = four.dnom;
 }
 );
-width = 956;
+width = 920;
 },
 {
 layerId = m007;
@@ -71194,11 +71194,11 @@ pos = (332,0);
 ref = fraction;
 },
 {
-pos = (478,0);
+pos = (429,0);
 ref = four.dnom;
 }
 );
-width = 855;
+width = 806;
 },
 {
 layerId = m004;
@@ -71211,11 +71211,11 @@ pos = (336,0);
 ref = fraction;
 },
 {
-pos = (521,0);
+pos = (476,0);
 ref = four.dnom;
 }
 );
-width = 905;
+width = 860;
 },
 {
 layerId = m008;
@@ -71228,11 +71228,11 @@ pos = (358,0);
 ref = fraction;
 },
 {
-pos = (612,0);
+pos = (576,0);
 ref = four.dnom;
 }
 );
-width = 1018;
+width = 982;
 },
 {
 layerId = m006;
@@ -71245,11 +71245,11 @@ pos = (333,0);
 ref = fraction;
 },
 {
-pos = (470,0);
+pos = (421,0);
 ref = four.dnom;
 }
 );
-width = 848;
+width = 799;
 }
 );
 metricLeft = one.numr;
@@ -71270,11 +71270,11 @@ pos = (318,0);
 ref = fraction;
 },
 {
-pos = (484,0);
+pos = (439,0);
 ref = four.dnom;
 }
 );
-width = 867;
+width = 822;
 },
 {
 layerId = m005;
@@ -71287,11 +71287,11 @@ pos = (329,0);
 ref = fraction;
 },
 {
-pos = (524,0);
+pos = (488,0);
 ref = four.dnom;
 }
 );
-width = 929;
+width = 893;
 },
 {
 layerId = m007;
@@ -71304,11 +71304,11 @@ pos = (307,0);
 ref = fraction;
 },
 {
-pos = (453,0);
+pos = (404,0);
 ref = four.dnom;
 }
 );
-width = 830;
+width = 781;
 },
 {
 layerId = m004;
@@ -71321,11 +71321,11 @@ pos = (318,0);
 ref = fraction;
 },
 {
-pos = (503,0);
+pos = (458,0);
 ref = four.dnom;
 }
 );
-width = 887;
+width = 842;
 },
 {
 layerId = m008;
@@ -71338,11 +71338,11 @@ pos = (330,0);
 ref = fraction;
 },
 {
-pos = (584,0);
+pos = (548,0);
 ref = four.dnom;
 }
 );
-width = 990;
+width = 954;
 },
 {
 layerId = m006;
@@ -71355,11 +71355,11 @@ pos = (307,0);
 ref = fraction;
 },
 {
-pos = (444,0);
+pos = (395,0);
 ref = four.dnom;
 }
 );
-width = 822;
+width = 773;
 }
 );
 metricLeft = three.numr;
@@ -71380,11 +71380,11 @@ pos = (335,0);
 ref = fraction;
 },
 {
-pos = (521,0);
+pos = (476,0);
 ref = eight.dnom;
 }
 );
-width = 876;
+width = 831;
 },
 {
 layerId = m005;
@@ -71397,11 +71397,11 @@ pos = (356,0);
 ref = fraction;
 },
 {
-pos = (571,0);
+pos = (535,0);
 ref = eight.dnom;
 }
 );
-width = 945;
+width = 909;
 },
 {
 layerId = m007;
@@ -71414,11 +71414,11 @@ pos = (332,0);
 ref = fraction;
 },
 {
-pos = (498,0);
+pos = (449,0);
 ref = eight.dnom;
 }
 );
-width = 851;
+width = 802;
 },
 {
 layerId = m004;
@@ -71431,11 +71431,11 @@ pos = (336,0);
 ref = fraction;
 },
 {
-pos = (541,0);
+pos = (496,0);
 ref = eight.dnom;
 }
 );
-width = 898;
+width = 853;
 },
 {
 layerId = m008;
@@ -71448,11 +71448,11 @@ pos = (358,0);
 ref = fraction;
 },
 {
-pos = (632,0);
+pos = (596,0);
 ref = eight.dnom;
 }
 );
-width = 1006;
+width = 970;
 },
 {
 layerId = m006;
@@ -71465,11 +71465,11 @@ pos = (333,0);
 ref = fraction;
 },
 {
-pos = (490,0);
+pos = (441,0);
 ref = eight.dnom;
 }
 );
-width = 844;
+width = 795;
 }
 );
 metricLeft = one.numr;
@@ -71490,11 +71490,11 @@ pos = (318,0);
 ref = fraction;
 },
 {
-pos = (504,0);
+pos = (459,0);
 ref = eight.dnom;
 }
 );
-width = 859;
+width = 814;
 },
 {
 layerId = m005;
@@ -71507,11 +71507,11 @@ pos = (329,0);
 ref = fraction;
 },
 {
-pos = (544,0);
+pos = (508,0);
 ref = eight.dnom;
 }
 );
-width = 918;
+width = 882;
 },
 {
 layerId = m007;
@@ -71524,11 +71524,11 @@ pos = (307,0);
 ref = fraction;
 },
 {
-pos = (473,0);
+pos = (424,0);
 ref = eight.dnom;
 }
 );
-width = 826;
+width = 777;
 },
 {
 layerId = m004;
@@ -71541,11 +71541,11 @@ pos = (318,0);
 ref = fraction;
 },
 {
-pos = (523,0);
+pos = (478,0);
 ref = eight.dnom;
 }
 );
-width = 880;
+width = 835;
 },
 {
 layerId = m008;
@@ -71558,11 +71558,11 @@ pos = (330,0);
 ref = fraction;
 },
 {
-pos = (604,0);
+pos = (568,0);
 ref = eight.dnom;
 }
 );
-width = 978;
+width = 942;
 },
 {
 layerId = m006;
@@ -71575,11 +71575,11 @@ pos = (307,0);
 ref = fraction;
 },
 {
-pos = (464,0);
+pos = (415,0);
 ref = eight.dnom;
 }
 );
-width = 818;
+width = 769;
 }
 );
 metricLeft = three.numr;
@@ -71600,11 +71600,11 @@ pos = (320,0);
 ref = fraction;
 },
 {
-pos = (506,0);
+pos = (461,0);
 ref = eight.dnom;
 }
 );
-width = 861;
+width = 816;
 },
 {
 layerId = m005;
@@ -71617,11 +71617,11 @@ pos = (337,0);
 ref = fraction;
 },
 {
-pos = (552,0);
+pos = (516,0);
 ref = eight.dnom;
 }
 );
-width = 926;
+width = 890;
 },
 {
 layerId = m007;
@@ -71634,11 +71634,11 @@ pos = (319,0);
 ref = fraction;
 },
 {
-pos = (485,0);
+pos = (436,0);
 ref = eight.dnom;
 }
 );
-width = 838;
+width = 789;
 },
 {
 layerId = m004;
@@ -71651,11 +71651,11 @@ pos = (319,0);
 ref = fraction;
 },
 {
-pos = (524,0);
+pos = (479,0);
 ref = eight.dnom;
 }
 );
-width = 881;
+width = 836;
 },
 {
 layerId = m008;
@@ -71668,11 +71668,11 @@ pos = (337,0);
 ref = fraction;
 },
 {
-pos = (611,0);
+pos = (575,0);
 ref = eight.dnom;
 }
 );
-width = 985;
+width = 949;
 },
 {
 layerId = m006;
@@ -71685,11 +71685,11 @@ pos = (318,0);
 ref = fraction;
 },
 {
-pos = (475,0);
+pos = (426,0);
 ref = eight.dnom;
 }
 );
-width = 829;
+width = 780;
 }
 );
 metricLeft = five.numr;
@@ -71710,11 +71710,11 @@ pos = (236,0);
 ref = fraction;
 },
 {
-pos = (422,0);
+pos = (377,0);
 ref = eight.dnom;
 }
 );
-width = 777;
+width = 732;
 },
 {
 layerId = m005;
@@ -71727,11 +71727,11 @@ pos = (256,0);
 ref = fraction;
 },
 {
-pos = (471,0);
+pos = (435,0);
 ref = eight.dnom;
 }
 );
-width = 845;
+width = 809;
 },
 {
 layerId = m007;
@@ -71744,11 +71744,11 @@ pos = (231,0);
 ref = fraction;
 },
 {
-pos = (397,0);
+pos = (348,0);
 ref = eight.dnom;
 }
 );
-width = 750;
+width = 701;
 },
 {
 layerId = m004;
@@ -71761,11 +71761,11 @@ pos = (237,0);
 ref = fraction;
 },
 {
-pos = (442,0);
+pos = (397,0);
 ref = eight.dnom;
 }
 );
-width = 799;
+width = 754;
 },
 {
 layerId = m008;
@@ -71778,11 +71778,11 @@ pos = (257,0);
 ref = fraction;
 },
 {
-pos = (531,0);
+pos = (495,0);
 ref = eight.dnom;
 }
 );
-width = 905;
+width = 869;
 },
 {
 layerId = m006;
@@ -71795,11 +71795,11 @@ pos = (232,0);
 ref = fraction;
 },
 {
-pos = (389,0);
+pos = (340,0);
 ref = eight.dnom;
 }
 );
-width = 743;
+width = 694;
 }
 );
 metricLeft = seven.numr;
@@ -72616,11 +72616,11 @@ pos = (255,0);
 ref = fraction;
 },
 {
-pos = (441,0);
+pos = (396,0);
 ref = two.dnom.ss05;
 }
 );
-width = 799;
+width = 754;
 },
 {
 layerId = m005;
@@ -72633,11 +72633,11 @@ pos = (282,0);
 ref = fraction;
 },
 {
-pos = (497,0);
+pos = (461,0);
 ref = two.dnom.ss05;
 }
 );
-width = 872;
+width = 836;
 },
 {
 layerId = m007;
@@ -72650,11 +72650,11 @@ pos = (249,0);
 ref = fraction;
 },
 {
-pos = (415,0);
+pos = (366,0);
 ref = two.dnom.ss05;
 }
 );
-width = 773;
+width = 724;
 },
 {
 layerId = m004;
@@ -72667,11 +72667,11 @@ pos = (256,0);
 ref = fraction;
 },
 {
-pos = (461,0);
+pos = (416,0);
 ref = two.dnom.ss05;
 }
 );
-width = 822;
+width = 777;
 },
 {
 layerId = m008;
@@ -72684,11 +72684,11 @@ pos = (283,0);
 ref = fraction;
 },
 {
-pos = (557,0);
+pos = (521,0);
 ref = two.dnom.ss05;
 }
 );
-width = 931;
+width = 895;
 },
 {
 layerId = m006;
@@ -72701,11 +72701,11 @@ pos = (250,0);
 ref = fraction;
 },
 {
-pos = (407,0);
+pos = (358,0);
 ref = two.dnom.ss05;
 }
 );
-width = 767;
+width = 718;
 }
 );
 metricLeft = one.numr;
@@ -72725,11 +72725,11 @@ pos = (255,0);
 ref = fraction;
 },
 {
-pos = (441,0);
+pos = (396,0);
 ref = three.dnom;
 }
 );
-width = 799;
+width = 754;
 },
 {
 layerId = m005;
@@ -72742,11 +72742,11 @@ pos = (282,0);
 ref = fraction;
 },
 {
-pos = (497,0);
+pos = (461,0);
 ref = three.dnom;
 }
 );
-width = 866;
+width = 830;
 },
 {
 layerId = m007;
@@ -72759,11 +72759,11 @@ pos = (249,0);
 ref = fraction;
 },
 {
-pos = (415,0);
+pos = (366,0);
 ref = three.dnom;
 }
 );
-width = 762;
+width = 713;
 },
 {
 layerId = m004;
@@ -72776,11 +72776,11 @@ pos = (256,0);
 ref = fraction;
 },
 {
-pos = (461,0);
+pos = (416,0);
 ref = three.dnom;
 }
 );
-width = 819;
+width = 774;
 },
 {
 layerId = m008;
@@ -72793,11 +72793,11 @@ pos = (283,0);
 ref = fraction;
 },
 {
-pos = (557,0);
+pos = (521,0);
 ref = three.dnom;
 }
 );
-width = 927;
+width = 891;
 },
 {
 layerId = m006;
@@ -72810,11 +72810,11 @@ pos = (250,0);
 ref = fraction;
 },
 {
-pos = (407,0);
+pos = (358,0);
 ref = three.dnom;
 }
 );
-width = 754;
+width = 705;
 }
 );
 metricLeft = one.numr;
@@ -72834,11 +72834,11 @@ pos = (255,0);
 ref = fraction;
 },
 {
-pos = (421,0);
+pos = (376,0);
 ref = four.dnom.ss05;
 }
 );
-width = 751;
+width = 706;
 },
 {
 layerId = m005;
@@ -72851,11 +72851,11 @@ pos = (282,0);
 ref = fraction;
 },
 {
-pos = (477,0);
+pos = (441,0);
 ref = four.dnom.ss05;
 }
 );
-width = 830;
+width = 794;
 },
 {
 layerId = m007;
@@ -72868,11 +72868,11 @@ pos = (249,0);
 ref = fraction;
 },
 {
-pos = (395,0);
+pos = (346,0);
 ref = four.dnom.ss05;
 }
 );
-width = 718;
+width = 669;
 },
 {
 layerId = m004;
@@ -72885,11 +72885,11 @@ pos = (256,0);
 ref = fraction;
 },
 {
-pos = (441,0);
+pos = (396,0);
 ref = four.dnom.ss05;
 }
 );
-width = 771;
+width = 726;
 },
 {
 layerId = m008;
@@ -72902,11 +72902,11 @@ pos = (283,0);
 ref = fraction;
 },
 {
-pos = (537,0);
+pos = (501,0);
 ref = four.dnom.ss05;
 }
 );
-width = 890;
+width = 854;
 },
 {
 layerId = m006;
@@ -72919,11 +72919,11 @@ pos = (250,0);
 ref = fraction;
 },
 {
-pos = (387,0);
+pos = (338,0);
 ref = four.dnom.ss05;
 }
 );
-width = 710;
+width = 661;
 }
 );
 metricLeft = one.numr;
@@ -72943,11 +72943,11 @@ pos = (318,0);
 ref = fraction;
 },
 {
-pos = (484,0);
+pos = (439,0);
 ref = four.dnom.ss05;
 }
 );
-width = 814;
+width = 769;
 },
 {
 layerId = m005;
@@ -72960,11 +72960,11 @@ pos = (329,0);
 ref = fraction;
 },
 {
-pos = (524,0);
+pos = (488,0);
 ref = four.dnom.ss05;
 }
 );
-width = 877;
+width = 841;
 },
 {
 layerId = m007;
@@ -72977,11 +72977,11 @@ pos = (307,0);
 ref = fraction;
 },
 {
-pos = (453,0);
+pos = (404,0);
 ref = four.dnom.ss05;
 }
 );
-width = 776;
+width = 727;
 },
 {
 layerId = m004;
@@ -72994,11 +72994,11 @@ pos = (318,0);
 ref = fraction;
 },
 {
-pos = (503,0);
+pos = (458,0);
 ref = four.dnom.ss05;
 }
 );
-width = 833;
+width = 788;
 },
 {
 layerId = m008;
@@ -73011,11 +73011,11 @@ pos = (330,0);
 ref = fraction;
 },
 {
-pos = (584,0);
+pos = (548,0);
 ref = four.dnom.ss05;
 }
 );
-width = 937;
+width = 901;
 },
 {
 layerId = m006;
@@ -73028,11 +73028,11 @@ pos = (307,0);
 ref = fraction;
 },
 {
-pos = (444,0);
+pos = (395,0);
 ref = four.dnom.ss05;
 }
 );
-width = 767;
+width = 718;
 }
 );
 metricLeft = three.numr;
@@ -73052,11 +73052,11 @@ pos = (255,0);
 ref = fraction;
 },
 {
-pos = (441,0);
+pos = (396,0);
 ref = eight.dnom;
 }
 );
-width = 796;
+width = 751;
 },
 {
 layerId = m005;
@@ -73069,11 +73069,11 @@ pos = (282,0);
 ref = fraction;
 },
 {
-pos = (497,0);
+pos = (461,0);
 ref = eight.dnom;
 }
 );
-width = 871;
+width = 835;
 },
 {
 layerId = m007;
@@ -73086,11 +73086,11 @@ pos = (249,0);
 ref = fraction;
 },
 {
-pos = (415,0);
+pos = (366,0);
 ref = eight.dnom;
 }
 );
-width = 768;
+width = 719;
 },
 {
 layerId = m004;
@@ -73103,11 +73103,11 @@ pos = (256,0);
 ref = fraction;
 },
 {
-pos = (461,0);
+pos = (416,0);
 ref = eight.dnom;
 }
 );
-width = 818;
+width = 773;
 },
 {
 layerId = m008;
@@ -73120,11 +73120,11 @@ pos = (283,0);
 ref = fraction;
 },
 {
-pos = (557,0);
+pos = (521,0);
 ref = eight.dnom;
 }
 );
-width = 931;
+width = 895;
 },
 {
 layerId = m006;
@@ -73137,11 +73137,11 @@ pos = (250,0);
 ref = fraction;
 },
 {
-pos = (407,0);
+pos = (358,0);
 ref = eight.dnom;
 }
 );
-width = 761;
+width = 712;
 }
 );
 metricLeft = one.numr;
@@ -120054,7 +120054,7 @@ m006 = {
 "@MMK_R_slash" = -60;
 "@MMK_R_t" = -12;
 "@MMK_R_two" = -10;
-"@MMK_R_v" = -10;
+"@MMK_R_v" = -20;
 "@MMK_R_w" = -5;
 "@MMK_R_x" = -10;
 "@MMK_R_z" = -10;
@@ -120417,7 +120417,7 @@ m006 = {
 "@MMK_R_hyphen" = -10;
 "@MMK_R_i" = -10;
 "@MMK_R_m" = -5;
-"@MMK_R_o" = -10;
+"@MMK_R_o" = -5;
 "@MMK_R_parenright" = -30;
 "@MMK_R_period" = -60;
 "@MMK_R_quoteleft" = 20;
@@ -121367,7 +121367,7 @@ m004 = {
 "@MMK_R_slash" = -60;
 "@MMK_R_t" = -12;
 "@MMK_R_two" = -10;
-"@MMK_R_v" = -10;
+"@MMK_R_v" = -20;
 "@MMK_R_w" = -5;
 "@MMK_R_x" = -10;
 "@MMK_R_z" = -10;
@@ -121730,7 +121730,7 @@ m004 = {
 "@MMK_R_hyphen" = -10;
 "@MMK_R_i" = -10;
 "@MMK_R_m" = -5;
-"@MMK_R_o" = -10;
+"@MMK_R_o" = -5;
 "@MMK_R_parenright" = -30;
 "@MMK_R_period" = -60;
 "@MMK_R_quoteleft" = 20;
@@ -122677,7 +122677,7 @@ m008 = {
 "@MMK_R_slash" = -60;
 "@MMK_R_t" = -12;
 "@MMK_R_two" = -10;
-"@MMK_R_v" = -10;
+"@MMK_R_v" = -20;
 "@MMK_R_w" = -5;
 "@MMK_R_x" = -10;
 "@MMK_R_z" = -10;
@@ -123040,7 +123040,7 @@ m008 = {
 "@MMK_R_hyphen" = -10;
 "@MMK_R_i" = -10;
 "@MMK_R_m" = -5;
-"@MMK_R_o" = -10;
+"@MMK_R_o" = -5;
 "@MMK_R_parenright" = -30;
 "@MMK_R_period" = -60;
 "@MMK_R_quoteleft" = 20;
