@@ -720,14 +720,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = typoAscender;
-value = 965;
-},
-{
-name = typoDescender;
-value = -235;
-},
-{
 name = hheaAscender;
 value = 965;
 },
@@ -736,48 +728,28 @@ name = hheaDescender;
 value = -235;
 },
 {
-name = winAscent;
+name = hheaLineGap;
+value = 200;
+},
+{
+name = typoAscender;
 value = 965;
 },
 {
-name = winDescent;
-value = 235;
+name = typoDescender;
+value = -235;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 200;
 },
 {
-name = subscriptXOffset;
-value = 0;
+name = winAscent;
+value = 1300;
 },
 {
-name = subscriptYOffset;
-value = -30;
-},
-{
-name = subscriptXSize;
-value = 586;
-},
-{
-name = subscriptYSize;
-value = 522;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptYOffset;
-value = 364;
-},
-{
-name = superscriptXSize;
-value = 586;
-},
-{
-name = superscriptYSize;
-value = 522;
+name = winDescent;
+value = 565;
 }
 );
 iconName = SemiLight;
@@ -790,7 +762,7 @@ pos = 965;
 over = -16;
 },
 {
-pos = -225;
+pos = -235;
 },
 {
 pos = 700;
@@ -819,14 +791,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = typoAscender;
-value = 965;
-},
-{
-name = typoDescender;
-value = -235;
-},
-{
 name = hheaAscender;
 value = 965;
 },
@@ -835,48 +799,28 @@ name = hheaDescender;
 value = -235;
 },
 {
-name = winAscent;
+name = hheaLineGap;
+value = 200;
+},
+{
+name = typoAscender;
 value = 965;
 },
 {
-name = winDescent;
-value = 235;
+name = typoDescender;
+value = -235;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 200;
 },
 {
-name = subscriptXOffset;
-value = 0;
+name = winAscent;
+value = 1300;
 },
 {
-name = subscriptYOffset;
-value = -30;
-},
-{
-name = subscriptXSize;
-value = 586;
-},
-{
-name = subscriptYSize;
-value = 522;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptYOffset;
-value = 364;
-},
-{
-name = superscriptXSize;
-value = 586;
-},
-{
-name = superscriptYSize;
-value = 522;
+name = winDescent;
+value = 565;
 }
 );
 id = m01;
@@ -888,7 +832,7 @@ pos = 965;
 over = -16;
 },
 {
-pos = -225;
+pos = -235;
 },
 {
 pos = 700;
@@ -917,14 +861,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = typoAscender;
-value = 965;
-},
-{
-name = typoDescender;
-value = -235;
-},
-{
 name = hheaAscender;
 value = 965;
 },
@@ -933,48 +869,28 @@ name = hheaDescender;
 value = -235;
 },
 {
-name = winAscent;
+name = hheaLineGap;
+value = 200;
+},
+{
+name = typoAscender;
 value = 965;
 },
 {
-name = winDescent;
-value = 235;
+name = typoDescender;
+value = -235;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 200;
 },
 {
-name = subscriptXOffset;
-value = 0;
+name = winAscent;
+value = 1300;
 },
 {
-name = subscriptYOffset;
-value = -30;
-},
-{
-name = subscriptXSize;
-value = 586;
-},
-{
-name = subscriptYSize;
-value = 522;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptYOffset;
-value = 364;
-},
-{
-name = superscriptXSize;
-value = 586;
-},
-{
-name = superscriptYSize;
-value = 522;
+name = winDescent;
+value = 565;
 }
 );
 iconName = SemiBold;
@@ -987,7 +903,7 @@ pos = 965;
 over = -16;
 },
 {
-pos = -225;
+pos = -235;
 },
 {
 pos = 700;
@@ -1014,14 +930,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = typoAscender;
-value = 965;
-},
-{
-name = typoDescender;
-value = -235;
-},
-{
 name = hheaAscender;
 value = 965;
 },
@@ -1030,48 +938,28 @@ name = hheaDescender;
 value = -235;
 },
 {
-name = winAscent;
+name = hheaLineGap;
+value = 200;
+},
+{
+name = typoAscender;
 value = 965;
 },
 {
-name = winDescent;
-value = 235;
+name = typoDescender;
+value = -235;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 200;
 },
 {
-name = subscriptXOffset;
-value = 0;
+name = winAscent;
+value = 1300;
 },
 {
-name = subscriptYOffset;
-value = -30;
-},
-{
-name = subscriptXSize;
-value = 586;
-},
-{
-name = subscriptYSize;
-value = 522;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptYOffset;
-value = 364;
-},
-{
-name = superscriptXSize;
-value = 586;
-},
-{
-name = superscriptYSize;
-value = 522;
+name = winDescent;
+value = 565;
 }
 );
 iconName = SemiLight;
@@ -1084,7 +972,7 @@ pos = 965;
 over = -16;
 },
 {
-pos = -225;
+pos = -235;
 },
 {
 pos = 700;
@@ -1114,14 +1002,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = typoAscender;
-value = 965;
-},
-{
-name = typoDescender;
-value = -235;
-},
-{
 name = hheaAscender;
 value = 965;
 },
@@ -1130,48 +1010,28 @@ name = hheaDescender;
 value = -235;
 },
 {
-name = winAscent;
+name = hheaLineGap;
+value = 200;
+},
+{
+name = typoAscender;
 value = 965;
 },
 {
-name = winDescent;
-value = 235;
+name = typoDescender;
+value = -235;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 200;
 },
 {
-name = subscriptXOffset;
-value = 0;
+name = winAscent;
+value = 1300;
 },
 {
-name = subscriptYOffset;
-value = -30;
-},
-{
-name = subscriptXSize;
-value = 586;
-},
-{
-name = subscriptYSize;
-value = 522;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptYOffset;
-value = 364;
-},
-{
-name = superscriptXSize;
-value = 586;
-},
-{
-name = superscriptYSize;
-value = 522;
+name = winDescent;
+value = 565;
 }
 );
 id = m004;
@@ -1183,7 +1043,7 @@ pos = 965;
 over = -16;
 },
 {
-pos = -225;
+pos = -235;
 },
 {
 pos = 700;
@@ -1213,14 +1073,6 @@ axesValues = (
 );
 customParameters = (
 {
-name = typoAscender;
-value = 965;
-},
-{
-name = typoDescender;
-value = -235;
-},
-{
 name = hheaAscender;
 value = 965;
 },
@@ -1229,48 +1081,28 @@ name = hheaDescender;
 value = -235;
 },
 {
-name = winAscent;
+name = hheaLineGap;
+value = 200;
+},
+{
+name = typoAscender;
 value = 965;
 },
 {
-name = winDescent;
-value = 235;
+name = typoDescender;
+value = -235;
 },
 {
 name = typoLineGap;
-value = 0;
+value = 200;
 },
 {
-name = subscriptXOffset;
-value = 0;
+name = winAscent;
+value = 1300;
 },
 {
-name = subscriptYOffset;
-value = -30;
-},
-{
-name = subscriptXSize;
-value = 586;
-},
-{
-name = subscriptYSize;
-value = 522;
-},
-{
-name = superscriptXOffset;
-value = 0;
-},
-{
-name = superscriptYOffset;
-value = 364;
-},
-{
-name = superscriptXSize;
-value = 586;
-},
-{
-name = superscriptYSize;
-value = 522;
+name = winDescent;
+value = 565;
 }
 );
 iconName = SemiBold;
@@ -1283,7 +1115,7 @@ pos = 965;
 over = -16;
 },
 {
-pos = -225;
+pos = -235;
 },
 {
 pos = 700;
@@ -5473,7 +5305,7 @@ layers = (
 anchors = (
 {
 name = top;
-pos = (1291,700);
+pos = (1353,700);
 }
 );
 layerId = m01;
@@ -5492,7 +5324,7 @@ width = 548;
 anchors = (
 {
 name = top;
-pos = (1474,700);
+pos = (1512,700);
 }
 );
 layerId = m005;
@@ -5511,7 +5343,7 @@ width = 580;
 anchors = (
 {
 name = top;
-pos = (1340,700);
+pos = (1368,700);
 }
 );
 layerId = m007;
@@ -5530,7 +5362,7 @@ width = 543;
 anchors = (
 {
 name = top;
-pos = (1304,700);
+pos = (1335,700);
 }
 );
 layerId = m004;
@@ -5549,7 +5381,7 @@ width = 548;
 anchors = (
 {
 name = top;
-pos = (1777,700);
+pos = (1891,700);
 }
 );
 layerId = m008;
@@ -5568,7 +5400,7 @@ width = 580;
 anchors = (
 {
 name = top;
-pos = (1358,700);
+pos = (1388,700);
 }
 );
 layerId = m006;
@@ -6387,7 +6219,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (285,0);
+pos = (296,0);
 ref = commaaccentcomb;
 }
 );
@@ -6426,7 +6258,7 @@ shapes = (
 ref = G;
 },
 {
-pos = (288,0);
+pos = (299,0);
 ref = commaaccentcomb;
 }
 );
@@ -8889,7 +8721,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (192,0);
+pos = (203,0);
 ref = commaaccentcomb;
 }
 );
@@ -8928,7 +8760,7 @@ shapes = (
 ref = K;
 },
 {
-pos = (191,0);
+pos = (202,0);
 ref = commaaccentcomb;
 }
 );
@@ -9372,7 +9204,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (143,0);
+pos = (154,0);
 ref = commaaccentcomb;
 }
 );
@@ -9411,7 +9243,7 @@ shapes = (
 ref = L;
 },
 {
-pos = (142,0);
+pos = (153,0);
 ref = commaaccentcomb;
 }
 );
@@ -10280,7 +10112,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (247,0);
+pos = (258,0);
 ref = commaaccentcomb;
 }
 );
@@ -10319,7 +10151,7 @@ shapes = (
 ref = N;
 },
 {
-pos = (246,0);
+pos = (257,0);
 ref = commaaccentcomb;
 }
 );
@@ -13756,7 +13588,7 @@ shapes = (
 ref = R;
 },
 {
-pos = (195,0);
+pos = (206,0);
 ref = commaaccentcomb;
 }
 );
@@ -13795,7 +13627,7 @@ shapes = (
 ref = R;
 },
 {
-pos = (196,0);
+pos = (207,0);
 ref = commaaccentcomb;
 }
 );
@@ -14522,7 +14354,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (179,0);
+pos = (190,0);
 ref = commaaccentcomb;
 }
 );
@@ -14561,7 +14393,7 @@ shapes = (
 ref = S;
 },
 {
-pos = (181,0);
+pos = (192,0);
 ref = commaaccentcomb;
 }
 );
@@ -15432,7 +15264,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (198,0);
+pos = (209,0);
 ref = commaaccentcomb;
 }
 );
@@ -15471,7 +15303,7 @@ shapes = (
 ref = T;
 },
 {
-pos = (197,0);
+pos = (208,0);
 ref = commaaccentcomb;
 }
 );
@@ -19355,7 +19187,7 @@ shapes = (
 ref = R.ss01;
 },
 {
-pos = (189,0);
+pos = (200,0);
 ref = commaaccentcomb;
 }
 );
@@ -19394,7 +19226,7 @@ shapes = (
 ref = R.ss01;
 },
 {
-pos = (188,0);
+pos = (199,0);
 ref = commaaccentcomb;
 }
 );
@@ -26105,7 +25937,7 @@ ref = commaaccentcomb;
 ref = d;
 }
 );
-width = 647;
+width = 637;
 },
 {
 layerId = m005;
@@ -26144,7 +25976,7 @@ ref = commaaccentcomb;
 ref = d;
 }
 );
-width = 650;
+width = 640;
 },
 {
 layerId = m008;
@@ -28947,7 +28779,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (195,-20);
+pos = (194,-20);
 ref = apostrophemodcomb;
 }
 );
@@ -28986,7 +28818,7 @@ shapes = (
 ref = g;
 },
 {
-pos = (193,-20);
+pos = (192,-20);
 ref = apostrophemodcomb;
 }
 );
@@ -29730,7 +29562,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (1063,0);
+pos = (1101,0);
 }
 );
 layerId = m01;
@@ -29749,7 +29581,7 @@ width = 227;
 anchors = (
 {
 name = bottom;
-pos = (1129,0);
+pos = (1154,0);
 }
 );
 layerId = m005;
@@ -29768,7 +29600,7 @@ width = 261;
 anchors = (
 {
 name = bottom;
-pos = (1003,0);
+pos = (1022,0);
 }
 );
 layerId = m007;
@@ -29787,7 +29619,7 @@ width = 221;
 anchors = (
 {
 name = bottom;
-pos = (802,0);
+pos = (820,0);
 }
 );
 layerId = m004;
@@ -29806,7 +29638,7 @@ width = 228;
 anchors = (
 {
 name = bottom;
-pos = (1328,0);
+pos = (1400,0);
 }
 );
 layerId = m008;
@@ -29825,7 +29657,7 @@ width = 262;
 anchors = (
 {
 name = bottom;
-pos = (799,0);
+pos = (817,0);
 }
 );
 layerId = m006;
@@ -32184,7 +32016,7 @@ shapes = (
 ref = k;
 },
 {
-pos = (147,0);
+pos = (158,0);
 ref = commaaccentcomb;
 }
 );
@@ -32223,7 +32055,7 @@ shapes = (
 ref = k;
 },
 {
-pos = (146,0);
+pos = (157,0);
 ref = commaaccentcomb;
 }
 );
@@ -32572,7 +32404,7 @@ pos = (155,760);
 ref = commaaccentcomb;
 }
 );
-width = 295;
+width = 285;
 },
 {
 layerId = m005;
@@ -32617,7 +32449,7 @@ pos = (301,760);
 ref = commaaccentcomb;
 }
 );
-width = 294;
+width = 284;
 },
 {
 layerId = m008;
@@ -32666,7 +32498,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (7,0);
+pos = (18,0);
 ref = commaaccentcomb;
 }
 );
@@ -32705,7 +32537,7 @@ shapes = (
 ref = l;
 },
 {
-pos = (6,0);
+pos = (17,0);
 ref = commaaccentcomb;
 }
 );
@@ -33812,16 +33644,16 @@ layerId = m008;
 shapes = (
 {
 alignment = -1;
-pos = (113,0);
+pos = (112,0);
 ref = n;
 },
 {
 alignment = -1;
-pos = (97,760);
+pos = (96,760);
 ref = commaaccentcomb;
 }
 );
-width = 693;
+width = 692;
 },
 {
 layerId = m006;
@@ -33944,7 +33776,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (163,0);
+pos = (174,0);
 ref = commaaccentcomb;
 }
 );
@@ -33983,7 +33815,7 @@ shapes = (
 ref = n;
 },
 {
-pos = (163,0);
+pos = (174,0);
 ref = commaaccentcomb;
 }
 );
@@ -37727,7 +37559,7 @@ shapes = (
 ref = r;
 },
 {
-pos = (-2,0);
+pos = (9,0);
 ref = commaaccentcomb;
 }
 );
@@ -37766,6 +37598,7 @@ shapes = (
 ref = r;
 },
 {
+pos = (11,0);
 ref = commaaccentcomb;
 }
 );
@@ -38492,7 +38325,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (143,0);
+pos = (154,0);
 ref = commaaccentcomb;
 }
 );
@@ -38531,7 +38364,7 @@ shapes = (
 ref = s;
 },
 {
-pos = (144,0);
+pos = (155,0);
 ref = commaaccentcomb;
 }
 );
@@ -39581,7 +39414,7 @@ ref = commaaccentcomb;
 ref = t;
 }
 );
-width = 392;
+width = 382;
 },
 {
 layerId = m005;
@@ -39620,7 +39453,7 @@ ref = commaaccentcomb;
 ref = t;
 }
 );
-width = 395;
+width = 385;
 },
 {
 layerId = m008;
@@ -39753,7 +39586,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (88,0);
+pos = (99,0);
 ref = commaaccentcomb;
 }
 );
@@ -39792,7 +39625,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (98,0);
+pos = (109,0);
 ref = commaaccentcomb;
 }
 );
@@ -46172,7 +46005,7 @@ ref = commaaccentcomb.ss07;
 ref = d;
 }
 );
-width = 608;
+width = 610;
 },
 {
 layerId = m004;
@@ -46185,7 +46018,7 @@ ref = commaaccentcomb.ss07;
 ref = d;
 }
 );
-width = 640;
+width = 641;
 },
 {
 layerId = m008;
@@ -46198,7 +46031,7 @@ ref = commaaccentcomb.ss07;
 ref = d;
 }
 );
-width = 731;
+width = 732;
 }
 );
 metricLeft = d;
@@ -46561,7 +46394,7 @@ layers = (
 anchors = (
 {
 name = bottom;
-pos = (1070,0);
+pos = (1090,0);
 }
 );
 layerId = m007;
@@ -46580,7 +46413,7 @@ width = 221;
 anchors = (
 {
 name = bottom;
-pos = (1643,0);
+pos = (1703,0);
 }
 );
 layerId = m01;
@@ -46599,7 +46432,7 @@ width = 227;
 anchors = (
 {
 name = bottom;
-pos = (1564,0);
+pos = (1599,0);
 }
 );
 layerId = m005;
@@ -46618,7 +46451,7 @@ width = 261;
 anchors = (
 {
 name = bottom;
-pos = (1324,0);
+pos = (1354,0);
 }
 );
 layerId = m004;
@@ -46637,7 +46470,7 @@ width = 228;
 anchors = (
 {
 name = bottom;
-pos = (1882,0);
+pos = (1984,0);
 }
 );
 layerId = m008;
@@ -46656,7 +46489,7 @@ width = 262;
 anchors = (
 {
 name = bottom;
-pos = (985,0);
+pos = (1007,0);
 }
 );
 layerId = m006;
@@ -47462,7 +47295,7 @@ ref = commaaccentcomb.ss07;
 ref = l;
 }
 );
-width = 255;
+width = 257;
 },
 {
 layerId = m004;
@@ -47475,7 +47308,7 @@ ref = commaaccentcomb.ss07;
 ref = l;
 }
 );
-width = 281;
+width = 282;
 },
 {
 layerId = m008;
@@ -47488,7 +47321,7 @@ ref = commaaccentcomb.ss07;
 ref = l;
 }
 );
-width = 369;
+width = 370;
 }
 );
 metricLeft = l;
@@ -48175,7 +48008,7 @@ ref = commaaccentcomb.ss07;
 ref = t;
 }
 );
-width = 369;
+width = 370;
 },
 {
 layerId = m008;
@@ -48188,7 +48021,7 @@ ref = commaaccentcomb.ss07;
 ref = t;
 }
 );
-width = 433;
+width = 434;
 },
 {
 layerId = m006;
@@ -48201,7 +48034,7 @@ ref = commaaccentcomb.ss07;
 ref = t;
 }
 );
-width = 357;
+width = 359;
 }
 );
 metricLeft = t;
@@ -79499,21 +79332,21 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(158,-152,o),
-(232,-79,o),
+(161,-152,o),
+(232,-83,o),
 (232,33,cs),
-(232,114,o),
-(194,165,o),
-(134,165,cs),
-(85,165,o),
-(52,132,o),
+(232,116,o),
+(195,165,o),
+(133,165,cs),
+(82,165,o),
+(52,133,o),
 (52,81,cs),
-(52,29,o),
-(85,-5,o),
+(52,27,o),
+(84,-5,o),
 (137,-5,cs),
 (147,-5,l),
-(147,-44,o),
-(106,-69,o),
+(147,-45,o),
+(108,-69,o),
 (42,-69,c),
 (42,-152,l)
 );
@@ -79555,27 +79388,27 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(100,-152,o),
-(191,-71,o),
-(191,51,cs),
-(191,123,o),
+(105,-152,o),
+(191,-77,o),
+(191,47,cs),
+(191,122,o),
 (159,165,o),
-(106,165,cs),
-(56,165,o),
-(22,129,o),
-(22,74,cs),
-(22,26,o),
-(48,-5,o),
+(103,165,cs),
+(53,165,o),
+(22,131,o),
+(22,75,cs),
+(22,25,o),
+(46,-5,o),
 (88,-5,cs),
 (98,-5,l),
-(88,-44,o),
-(42,-69,o),
+(88,-45,o),
+(44,-69,o),
 (-19,-69,c),
 (-36,-152,l)
 );
 }
 );
-width = 281;
+width = 282;
 },
 {
 layerId = m006;
@@ -79761,7 +79594,7 @@ pos = (77,380);
 ref = period.ss07;
 }
 );
-width = 249;
+width = 251;
 },
 {
 layerId = m008;
@@ -79789,7 +79622,7 @@ pos = (83,404);
 ref = period.ss07;
 }
 );
-width = 241;
+width = 242;
 }
 );
 metricLeft = "=period*.95";
@@ -85141,7 +84974,7 @@ shapes = (
 ref = comma.ss07;
 }
 );
-width = 281;
+width = 282;
 },
 {
 layerId = m006;
@@ -85291,11 +85124,10 @@ width = 489;
 layerId = m004;
 shapes = (
 {
-pos = (2,0);
 ref = quoteleft.ss07;
 },
 {
-pos = (172,0);
+pos = (170,0);
 ref = quoteleft.ss07;
 }
 );
@@ -85305,25 +85137,24 @@ width = 407;
 layerId = m008;
 shapes = (
 {
-pos = (2,0);
+pos = (1,0);
 ref = quoteleft.ss07;
 },
 {
-pos = (222,0);
+pos = (221,0);
 ref = quoteleft.ss07;
 }
 );
-width = 491;
+width = 492;
 },
 {
 layerId = m006;
 shapes = (
 {
-pos = (2,0);
 ref = quoteleft.ss07;
 },
 {
-pos = (148,0);
+pos = (146,0);
 ref = quoteleft.ss07;
 }
 );
@@ -91429,17 +91260,17 @@ pos = (18,91);
 ref = at.ss09;
 }
 );
-width = 869;
+width = 873;
 },
 {
 layerId = m004;
 shapes = (
 {
-pos = (18,91);
+pos = (17,91);
 ref = at.ss09;
 }
 );
-width = 852;
+width = 856;
 },
 {
 layerId = m008;
@@ -91449,7 +91280,7 @@ pos = (18,91);
 ref = at.ss09;
 }
 );
-width = 832;
+width = 836;
 }
 );
 metricLeft = at;
@@ -111285,35 +111116,35 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(233,572,o),
-(288,627,o),
-(288,691,cs),
-(288,755,o),
-(233,810,o),
-(169,810,cs),
-(105,810,o),
-(50,755,o),
-(50,691,cs),
-(50,627,o),
-(105,572,o),
-(169,572,cs)
+(233,552,o),
+(288,607,o),
+(288,671,cs),
+(288,735,o),
+(233,790,o),
+(169,790,cs),
+(105,790,o),
+(50,735,o),
+(50,671,cs),
+(50,607,o),
+(105,552,o),
+(169,552,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(144,648,o),
-(126,666,o),
-(126,691,cs),
-(126,716,o),
-(144,734,o),
-(169,734,cs),
-(194,734,o),
-(212,716,o),
-(212,691,cs),
-(212,666,o),
-(194,648,o),
-(169,648,cs)
+(144,628,o),
+(126,646,o),
+(126,671,cs),
+(126,696,o),
+(144,714,o),
+(169,714,cs),
+(194,714,o),
+(212,696,o),
+(212,671,cs),
+(212,646,o),
+(194,628,o),
+(169,628,cs)
 );
 }
 );
@@ -111427,7 +111258,7 @@ pos = (220,500);
 },
 {
 name = top;
-pos = (280,810);
+pos = (276,790);
 }
 );
 layerId = m008;
@@ -111435,35 +111266,35 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(317,572,o),
-(378,631,o),
-(378,702,cs),
-(378,764,o),
-(331,810,o),
-(268,810,cs),
-(197,810,o),
-(136,750,o),
-(136,680,cs),
-(136,618,o),
-(183,572,o),
-(246,572,cs)
+(313,552,o),
+(374,611,o),
+(374,682,cs),
+(374,744,o),
+(327,790,o),
+(264,790,cs),
+(193,790,o),
+(132,730,o),
+(132,660,cs),
+(132,598,o),
+(179,552,o),
+(242,552,cs)
 );
 },
 {
 closed = 1;
 nodes = (
-(230,648,o),
-(213,664,o),
-(213,686,cs),
-(213,712,o),
-(235,734,o),
-(261,734,cs),
-(284,734,o),
-(301,718,o),
-(301,696,cs),
-(301,670,o),
-(279,648,o),
-(253,648,cs)
+(226,628,o),
+(209,644,o),
+(209,666,cs),
+(209,692,o),
+(231,714,o),
+(257,714,cs),
+(280,714,o),
+(297,698,o),
+(297,676,cs),
+(297,650,o),
+(275,628,o),
+(249,628,cs)
 );
 }
 );
@@ -111955,23 +111786,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(107,-218,o),
-(140,-182,o),
-(140,-120,c),
-(108,-120,l),
-(108,-171,o),
-(89,-195,o),
-(50,-195,c),
-(50,-218,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(140,-120,l),
+(104,-218,o),
+(140,-178,o),
+(140,-120,cs),
 (140,-60,l),
 (60,-60,l),
-(60,-120,l)
+(60,-120,l),
+(108,-120,l),
+(108,-165,o),
+(85,-195,o),
+(50,-195,c),
+(50,-218,l)
 );
 }
 );
@@ -111981,11 +111806,11 @@ width = 190;
 anchors = (
 {
 name = _bottom;
-pos = (111,0);
+pos = (100,0);
 },
 {
 name = bottom;
-pos = (105,-238);
+pos = (100,-238);
 }
 );
 layerId = m01;
@@ -111993,27 +111818,21 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(120,-238,o),
-(160,-203,o),
-(160,-140,c),
-(108,-140,l),
-(108,-181,o),
-(93,-195,o),
-(50,-195,c),
-(50,-238,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(160,-140,l),
-(160,-60,l),
+(109,-238,o),
+(150,-198,o),
+(150,-140,cs),
+(150,-60,l),
 (60,-60,l),
-(60,-140,l)
+(60,-140,l),
+(108,-140,l),
+(108,-176,o),
+(84,-200,o),
+(50,-200,c),
+(50,-238,l)
 );
 }
 );
-width = 210;
+width = 200;
 },
 {
 anchors = (
@@ -112031,23 +111850,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(156,-287,o),
-(209,-245,o),
-(209,-160,c),
-(139,-160,l),
-(139,-198,o),
-(113,-214,o),
-(50,-214,c),
-(50,-287,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(209,-160,l),
+(147,-277,o),
+(209,-232,o),
+(209,-160,cs),
 (209,-60,l),
 (59,-60,l),
-(59,-160,l)
+(59,-160,l),
+(139,-160,l),
+(139,-191,o),
+(112,-204,o),
+(50,-204,c),
+(50,-277,l)
 );
 }
 );
@@ -112057,11 +111870,11 @@ width = 259;
 anchors = (
 {
 name = _bottom;
-pos = (63,0);
+pos = (52,0);
 },
 {
 name = bottom;
-pos = (11,-238);
+pos = (6,-238);
 }
 );
 layerId = m004;
@@ -112069,27 +111882,21 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(23,-238,o),
-(74,-200,o),
-(85,-140,c),
-(33,-140,l),
-(26,-175,o),
-(0,-195,o),
-(-36,-195,c),
-(-44,-238,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(85,-140,l),
-(100,-60,l),
+(18,-238,o),
+(64,-201,o),
+(75,-140,cs),
+(90,-60,l),
 (0,-60,l),
-(-15,-140,l)
+(-15,-140,l),
+(33,-140,l),
+(26,-177,o),
+(0,-200,o),
+(-37,-200,c),
+(-44,-238,l)
 );
 }
 );
-width = 211;
+width = 201;
 },
 {
 anchors = (
@@ -112107,23 +111914,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(45,-287,o),
-(115,-239,o),
-(130,-160,c),
-(60,-160,l),
-(53,-196,o),
-(19,-214,o),
-(-40,-214,c),
-(-54,-287,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(130,-160,l),
+(50,-277,o),
+(116,-235,o),
+(130,-160,cs),
 (149,-60,l),
 (-1,-60,l),
-(-20,-160,l)
+(-20,-160,l),
+(60,-160,l),
+(54,-192,o),
+(27,-204,o),
+(-38,-204,c),
+(-52,-277,l)
 );
 }
 );
@@ -112145,23 +111946,17 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(15,-218,o),
-(57,-180,o),
-(69,-120,c),
+(16,-218,o),
+(56,-182,o),
+(69,-120,cs),
+(80,-60,l),
+(0,-60,l),
+(-11,-120,l),
 (37,-120,l),
-(28,-167,o),
+(28,-168,o),
 (1,-195,o),
 (-36,-195,c),
 (-40,-218,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(69,-120,l),
-(80,-60,l),
-(0,-60,l),
-(-11,-120,l)
 );
 }
 );
@@ -113323,23 +113118,23 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(141,-287,o),
-(199,-232,o),
-(199,-147,cs),
-(199,-84,o),
+(144,-277,o),
+(199,-228,o),
+(199,-144,cs),
+(199,-81,o),
 (168,-44,o),
-(118,-44,cs),
-(77,-44,o),
-(50,-71,o),
-(50,-112,cs),
-(50,-152,o),
-(76,-178,o),
+(117,-44,cs),
+(75,-44,o),
+(50,-69,o),
+(50,-111,cs),
+(50,-153,o),
+(75,-178,o),
 (116,-179,cs),
 (130,-179,l),
-(130,-206,o),
-(99,-224,o),
-(50,-224,c),
-(50,-287,l)
+(130,-201,o),
+(100,-214,o),
+(50,-214,c),
+(50,-277,l)
 );
 }
 );
@@ -113399,27 +113194,27 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(48,-287,o),
-(129,-216,o),
-(129,-127,cs),
-(129,-76,o),
-(101,-44,o),
-(56,-44,cs),
-(15,-44,o),
-(-14,-72,o),
-(-14,-114,cs),
-(-14,-151,o),
-(10,-179,o),
+(60,-277,o),
+(129,-221,o),
+(129,-131,cs),
+(129,-75,o),
+(103,-44,o),
+(55,-44,cs),
+(12,-44,o),
+(-14,-70,o),
+(-14,-115,cs),
+(-14,-155,o),
+(7,-179,o),
 (43,-179,cs),
 (52,-179,l),
-(46,-209,o),
-(15,-224,o),
-(-42,-224,c),
-(-54,-287,l)
+(48,-201,o),
+(13,-214,o),
+(-40,-214,c),
+(-52,-277,l)
 );
 }
 );
-width = 255;
+width = 256;
 },
 {
 anchors = (
@@ -113907,7 +113702,7 @@ shapes = (
 ref = brevecomb;
 }
 );
-width = 400;
+width = 360;
 },
 {
 layerId = m005;
@@ -113916,7 +113711,7 @@ shapes = (
 ref = brevecomb;
 }
 );
-width = 440;
+width = 400;
 },
 {
 layerId = m007;
@@ -113925,7 +113720,7 @@ shapes = (
 ref = brevecomb;
 }
 );
-width = 380;
+width = 340;
 },
 {
 layerId = m004;
@@ -113934,7 +113729,7 @@ shapes = (
 ref = brevecomb;
 }
 );
-width = 400;
+width = 360;
 },
 {
 layerId = m008;
@@ -113943,7 +113738,7 @@ shapes = (
 ref = brevecomb;
 }
 );
-width = 440;
+width = 400;
 },
 {
 layerId = m006;
@@ -113952,7 +113747,7 @@ shapes = (
 ref = brevecomb;
 }
 );
-width = 380;
+width = 340;
 }
 );
 metricLeft = dieresiscomb;
@@ -114399,11 +114194,11 @@ layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (210,520);
+pos = (200,520);
 ref = commaaccentcomb;
 }
 );
-width = 210;
+width = 200;
 },
 {
 layerId = m005;
@@ -114432,11 +114227,11 @@ layerId = m004;
 shapes = (
 {
 angle = 180;
-pos = (215,520);
+pos = (205,520);
 ref = commaaccentcomb;
 }
 );
-width = 211;
+width = 201;
 },
 {
 layerId = m008;
@@ -114546,11 +114341,11 @@ layerId = m01;
 shapes = (
 {
 angle = 180;
-pos = (210,520);
+pos = (200,520);
 ref = commaaccentcomb;
 }
 );
-width = 210;
+width = 200;
 },
 {
 layerId = m005;
@@ -114579,11 +114374,11 @@ layerId = m004;
 shapes = (
 {
 angle = 180;
-pos = (215,520);
+pos = (205,520);
 ref = commaaccentcomb;
 }
 );
-width = 211;
+width = 201;
 },
 {
 layerId = m008;
@@ -114652,33 +114447,33 @@ layerId = m004;
 shapes = (
 {
 angle = 180;
-pos = (218,529);
+pos = (219,529);
 ref = commaaccentcomb.ss07;
 }
 );
-width = 212;
+width = 213;
 },
 {
 layerId = m008;
 shapes = (
 {
 angle = 180;
-pos = (259,522);
+pos = (260,522);
 ref = commaaccentcomb.ss07;
 }
 );
-width = 255;
+width = 256;
 },
 {
 layerId = m006;
 shapes = (
 {
 angle = 180;
-pos = (208,539);
+pos = (210,539);
 ref = commaaccentcomb.ss07;
 }
 );
-width = 200;
+width = 202;
 }
 );
 metricLeft = dieresiscomb;
@@ -115132,7 +114927,7 @@ kerningLTR = {
 m007 = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
-"@MMK_R_O" = -22;
+"@MMK_R_O" = -12;
 "@MMK_R_S" = -5;
 "@MMK_R_T" = -70;
 "@MMK_R_U" = -10;
@@ -115342,7 +115137,7 @@ m007 = {
 "@MMK_R_z" = 15;
 };
 "@MMK_L_O" = {
-"@MMK_R_A" = -22;
+"@MMK_R_A" = -12;
 "@MMK_R_J" = -5;
 "@MMK_R_O" = -5;
 "@MMK_R_T" = -40;
@@ -115468,7 +115263,7 @@ m007 = {
 "@MMK_R_registered" = -5;
 "@MMK_R_s" = -100;
 "@MMK_R_slash" = -120;
-"@MMK_R_space" = -50;
+"@MMK_R_space" = -20;
 "@MMK_R_t" = -5;
 "@MMK_R_u" = -80;
 "@MMK_R_v" = -80;
@@ -116245,7 +116040,7 @@ odieresis = -85;
 "@MMK_L_space" = {
 "@MMK_R_A" = -30;
 "@MMK_R_J" = -30;
-"@MMK_R_T" = -50;
+"@MMK_R_T" = -20;
 "@MMK_R_U" = -10;
 "@MMK_R_V" = -50;
 "@MMK_R_X" = -10;
@@ -116412,7 +116207,7 @@ odieresis = -85;
 m01 = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
-"@MMK_R_O" = -22;
+"@MMK_R_O" = -12;
 "@MMK_R_S" = -5;
 "@MMK_R_T" = -70;
 "@MMK_R_U" = -10;
@@ -116622,7 +116417,7 @@ m01 = {
 "@MMK_R_z" = 15;
 };
 "@MMK_L_O" = {
-"@MMK_R_A" = -22;
+"@MMK_R_A" = -12;
 "@MMK_R_J" = -5;
 "@MMK_R_O" = -5;
 "@MMK_R_T" = -40;
@@ -116749,7 +116544,7 @@ m01 = {
 "@MMK_R_registered" = -5;
 "@MMK_R_s" = -100;
 "@MMK_R_slash" = -120;
-"@MMK_R_space" = -50;
+"@MMK_R_space" = -20;
 "@MMK_R_t" = -5;
 "@MMK_R_u" = -80;
 "@MMK_R_v" = -80;
@@ -117527,7 +117322,7 @@ odieresis = -85;
 "@MMK_L_space" = {
 "@MMK_R_A" = -30;
 "@MMK_R_J" = -30;
-"@MMK_R_T" = -50;
+"@MMK_R_T" = -20;
 "@MMK_R_U" = -10;
 "@MMK_R_V" = -50;
 "@MMK_R_X" = -10;
@@ -117695,7 +117490,7 @@ odieresis = -85;
 m005 = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
-"@MMK_R_O" = -22;
+"@MMK_R_O" = -12;
 "@MMK_R_S" = -5;
 "@MMK_R_T" = -70;
 "@MMK_R_U" = -10;
@@ -117905,7 +117700,7 @@ m005 = {
 "@MMK_R_z" = 15;
 };
 "@MMK_L_O" = {
-"@MMK_R_A" = -22;
+"@MMK_R_A" = -12;
 "@MMK_R_J" = -5;
 "@MMK_R_O" = -5;
 "@MMK_R_T" = -40;
@@ -118032,7 +117827,7 @@ m005 = {
 "@MMK_R_registered" = -5;
 "@MMK_R_s" = -100;
 "@MMK_R_slash" = -120;
-"@MMK_R_space" = -50;
+"@MMK_R_space" = -20;
 "@MMK_R_t" = -5;
 "@MMK_R_u" = -80;
 "@MMK_R_v" = -80;
@@ -118808,7 +118603,7 @@ idieresis = 10;
 "@MMK_L_space" = {
 "@MMK_R_A" = -30;
 "@MMK_R_J" = -30;
-"@MMK_R_T" = -50;
+"@MMK_R_T" = -20;
 "@MMK_R_U" = -10;
 "@MMK_R_V" = -50;
 "@MMK_R_X" = -10;
@@ -118978,7 +118773,7 @@ T = {
 m006 = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
-"@MMK_R_O" = -42;
+"@MMK_R_O" = -32;
 "@MMK_R_S" = -10;
 "@MMK_R_T" = -70;
 "@MMK_R_U" = -10;
@@ -119186,7 +118981,7 @@ m006 = {
 "@MMK_R_z" = 15;
 };
 "@MMK_L_O" = {
-"@MMK_R_A" = -12;
+"@MMK_R_A" = -2;
 "@MMK_R_J" = -5;
 "@MMK_R_O" = -10;
 "@MMK_R_T" = -40;
@@ -119320,7 +119115,7 @@ m006 = {
 "@MMK_R_registered" = -5;
 "@MMK_R_s" = -100;
 "@MMK_R_slash" = -120;
-"@MMK_R_space" = -50;
+"@MMK_R_space" = -20;
 "@MMK_R_t" = -5;
 "@MMK_R_u" = -80;
 "@MMK_R_v" = -80;
@@ -120100,7 +119895,7 @@ odieresis = -85;
 "@MMK_L_space" = {
 "@MMK_R_A" = -30;
 "@MMK_R_J" = -30;
-"@MMK_R_T" = -50;
+"@MMK_R_T" = -20;
 "@MMK_R_U" = -10;
 "@MMK_R_V" = -50;
 "@MMK_R_X" = -10;
@@ -120271,7 +120066,7 @@ odieresis = -85;
 m004 = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
-"@MMK_R_O" = -42;
+"@MMK_R_O" = -32;
 "@MMK_R_S" = -10;
 "@MMK_R_T" = -70;
 "@MMK_R_U" = -10;
@@ -120479,7 +120274,7 @@ m004 = {
 "@MMK_R_z" = 15;
 };
 "@MMK_L_O" = {
-"@MMK_R_A" = -12;
+"@MMK_R_A" = -2;
 "@MMK_R_J" = -5;
 "@MMK_R_O" = -10;
 "@MMK_R_T" = -40;
@@ -120613,7 +120408,7 @@ m004 = {
 "@MMK_R_registered" = -5;
 "@MMK_R_s" = -100;
 "@MMK_R_slash" = -120;
-"@MMK_R_space" = -50;
+"@MMK_R_space" = -20;
 "@MMK_R_t" = -5;
 "@MMK_R_u" = -80;
 "@MMK_R_v" = -80;
@@ -121393,7 +121188,7 @@ odieresis = -85;
 "@MMK_L_space" = {
 "@MMK_R_A" = -30;
 "@MMK_R_J" = -30;
-"@MMK_R_T" = -50;
+"@MMK_R_T" = -20;
 "@MMK_R_U" = -10;
 "@MMK_R_V" = -50;
 "@MMK_R_X" = -10;
@@ -121564,7 +121359,7 @@ odieresis = -85;
 m008 = {
 "@MMK_L_A" = {
 "@MMK_R_A" = 30;
-"@MMK_R_O" = -42;
+"@MMK_R_O" = -32;
 "@MMK_R_S" = -10;
 "@MMK_R_T" = -70;
 "@MMK_R_U" = -10;
@@ -121771,7 +121566,7 @@ m008 = {
 "@MMK_R_z" = 15;
 };
 "@MMK_L_O" = {
-"@MMK_R_A" = -12;
+"@MMK_R_A" = -2;
 "@MMK_R_J" = -5;
 "@MMK_R_O" = -10;
 "@MMK_R_T" = -40;
@@ -121904,7 +121699,7 @@ m008 = {
 "@MMK_R_registered" = -5;
 "@MMK_R_s" = -100;
 "@MMK_R_slash" = -120;
-"@MMK_R_space" = -50;
+"@MMK_R_space" = -20;
 "@MMK_R_t" = -5;
 "@MMK_R_u" = -80;
 "@MMK_R_v" = -80;
@@ -122681,7 +122476,7 @@ odieresis = -85;
 };
 "@MMK_L_space" = {
 "@MMK_R_J" = -30;
-"@MMK_R_T" = -50;
+"@MMK_R_T" = -20;
 "@MMK_R_U" = -10;
 "@MMK_R_V" = -50;
 "@MMK_R_X" = -10;
